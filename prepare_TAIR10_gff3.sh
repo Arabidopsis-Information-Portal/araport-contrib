@@ -21,5 +21,5 @@ sed -e "s/ | /\t/g" ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_genome_rel
 python -m jcvi.formats.gff format --gff3 --unique --nostrict \
     --remove_feat="protein" --verifySO="resolve" --dbxref="GB.tsv" \
     --add_attribute="Note.tsv,Curator_summary.tsv,Computational_description.tsv,conf_class.tsv,conf_rating.tsv" \
-   Genes/TAIR10_genome_release/TAIR10_gff3/TAIR10_GFF3_genes_transposons.gff \
+   ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10_GFF3_genes_transposons.gff \
    -o TAIR10_GFF3_genes_transposons.gff3 2> format.gff.log
