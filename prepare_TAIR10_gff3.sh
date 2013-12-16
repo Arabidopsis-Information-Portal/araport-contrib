@@ -22,11 +22,11 @@ grep -P "\tmRNA\t" ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10
 
 cut -f1,2 ${AIP_HOME}/${TAIR_DATA}/Genes/gene_aliases_20130831.txt | python -m jcvi.formats.base group --groupby=0 --groupsep="," - | grep -P '^AT[A-z0-9]G' | sort -k1,1 | python -m jcvi.formats.base join --noheader gene_mRNA.map - | grep -vP "na" | cut -f1,2,4  | perl -lane 'BEGIN { %data = (); } chomp; @line = split /\t/; @mrna = split /,/, $line[1]; print join "\t", $line[0], $line[-1]; foreach $m(@mrna) { print join "\t", $m, $line[-1]; }' > Alias.tsv
 
-python -m jcvi.formats.base reorder ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_TAIRAccessionID_AGI_mapping.txt 2,1 | grep -P '^AT[A-z0-9]G' | python -m jcvi.formats.base group --groupby=0 - --nouniq | sort -k1,1 | python -m jcvi.formats.base join --noheader gene_mRNA.map - | cut -f2,4 | python -m jcvi.formats.base flatten --sep="	" --zipflatten="," - | sed -e "s/,/\t/g" > Name.tsv
+python -m jcvi.formats.base reorder ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_TAIRAccessionID_AGI_mapping.txt 2,1 | grep -P '^AT[A-z0-9]G' | python -m jcvi.formats.base group --groupby=0 - --nouniq | sort -k1,1 | python -m jcvi.formats.base join --noheader gene_mRNA.map - | cut -f2,4 | python -m jcvi.formats.base flatten --sep="	" --zipflatten="," - | sed -e "s/,/\t/g" > Gene.tsv
 
 # prepare the enriched GFF3 file with the required attributes
 python -m jcvi.formats.gff format --gff3 --unique --nostrict \
-    --remove_feat="protein,chromosome" --verifySO="resolve" \
-    --add_attribute="Alias.tsv,Note.tsv,Name.tsv,Curator_summary.tsv,Computational_description.tsv" \
+    --remove_feat="protein,chromosome" --verifySO="resolve" --dbxref="Gene.tsv" \
+    --add_attribute="Alias.tsv,Note.tsv,Curator_summary.tsv,Computational_description.tsv" \
    ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10_GFF3_genes_transposons.gff \
    -o TAIR10_GFF3_genes_transposons.gff 2> format.gff.log
