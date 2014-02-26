@@ -30,18 +30,36 @@ grep -P "\tmRNA\t" ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10
     | python -m jcvi.formats.base group --groupby=0 --nouniq - \
     | sort -k1,1 > gene_mRNA.map
 
+cut -f1,2 ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/../Locus_Primary_Gene_Symbol_20130117.txt \
+    | grep -P '^AT[A-z0-9]G' | sort -k1,1 \
+    | python -m jcvi.formats.base join --noheader gene_mRNA.map - \
+    | grep -vP "\tna" | cut -f1,2,4 \
+    | perl -lane 'chomp; @line = split /\t/; print join "\t", $line[0], $line[2]; foreach $m(split /,/, $line[1]) { print join "\t", $m, $line[2]; }' \
+    > Symbol.tsv
+
 cut -f1,2 ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/../gene_aliases_20130831.txt \
     | python -m jcvi.formats.base group --groupby=0 --groupsep="," --nouniq - \
     | grep -P '^AT[A-z0-9]G' | sort -k1,1 \
     | python -m jcvi.formats.base join --noheader gene_mRNA.map ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/../Locus_Primary_Gene_Symbol_20130117.txt - \
     | grep -vP "\tna" | cut -f1,2,4,7 \
-    | perl -lane 'chomp; @line = split /\t/; %aliases = map { $_ => 1 } (split /,/, $line[-1]); $line[2] = undef if($line[2] eq "na"); delete $aliases{$line[2]}; $alias = join ",", $line[2], sort keys %aliases; $alias =~ s/^,//g; print join "\t", $line[0], $alias; foreach $m(split /,/, $line[1]) { print join "\t", $m, $alias; }' \
+    | perl -lane 'chomp; @line = split /\t/; %aliases = map { $_ => 1 } (split /,/, $line[-1]); $line[2] = undef if($line[2] eq "na"); delete $aliases{$line[2]}; $alias = join ",", sort keys %aliases; print join "\t", $line[0], $alias if($alias ne ""); foreach $m(split /,/, $line[1]) { print join "\t", $m, $alias if($alias ne ""); }' \
     > Alias.tsv
+
+python -m jcvi.formats.base reorder ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_TAIRAccessionID_AGI_mapping.txt 2,1 \
+    | grep -P '^AT[A-z0-9]G' | sort -k1,1 -k2,2n | python -m jcvi.formats.base group --groupby=0 --nouniq - \
+    | sort -k1,1 | python -m jcvi.formats.base join --noheader gene_mRNA.map - \
+    | cut -f2,4 | python -m jcvi.formats.base flatten --sep="	" --zipflatten="," - \
+    | sed -e "s/,/\t/g" \
+    > Gene.tsv
+
+python -m jcvi.formats.base reorder ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_TAIRlocusaccessionID_AGI_mapping.txt 2,1 \
+    | grep -P '^AT[A-z0-9]G' | python -m jcvi.formats.base group --groupby=0 --nouniq - \
+    | sort -k1,1 > Locus.tsv
 
 # prepare the enriched GFF3 file with the required attributes
 python -m jcvi.formats.gff format --gff3 --unique --nostrict --multiparents="merge" \
-    --remove_feat="protein,chromosome" --verifySO="resolve" \
-    --add_attribute="Alias.tsv,Note.tsv,conf_class.tsv,conf_rating.tsv,Curator_summary.tsv,Computational_description.tsv" \
+    --remove_feat="protein,chromosome" --verifySO="resolve" --add_dbxref="Locus.tsv,Gene.tsv" \
+    --add_attribute="Alias.tsv,Note.tsv,conf_class.tsv,conf_rating.tsv,Curator_summary.tsv,Computational_description.tsv,Symbol.tsv" \
    ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10_GFF3_genes_transposons.gff \
    2> format.gff.log | python -m jcvi.formats.gff sort --method="topo" stdin \
    -o TAIR10_GFF3_genes_transposons.gff
