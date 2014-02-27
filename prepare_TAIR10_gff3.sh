@@ -33,9 +33,16 @@ grep -P "\tmRNA\t" ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10
 cut -f1,2 ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/../Locus_Primary_Gene_Symbol_20130117.txt \
     | grep -P '^AT[A-z0-9]G' | sort -k1,1 \
     | python -m jcvi.formats.base join --noheader gene_mRNA.map - \
-    | grep -vP "\tna" | cut -f1,2,4 \
+    | grep -vP "\tna$" | cut -f1,2,4 \
     | perl -lane 'chomp; @line = split /\t/; print join "\t", $line[0], $line[2]; foreach $m(split /,/, $line[1]) { print join "\t", $m, $line[2]; }' \
     > Symbol.tsv
+
+cut -f1,3 ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/../Locus_Primary_Gene_Symbol_20130117.txt \
+    | grep -P '^AT[A-z0-9]G' | sort -k1,1 \
+    | python -m jcvi.formats.base join --noheader gene_mRNA.map - \
+    | grep -vP "\tna$" | cut -f1,2,4 \
+    | perl -lane 'chomp; @line = split /\t/; print join "\t", $line[0], $line[2]; foreach $m(split /,/, $line[1]) { print join "\t", $m, $line[2]; }' \
+    > Name.tsv
 
 cut -f1,2 ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/../gene_aliases_20130831.txt \
     | python -m jcvi.formats.base group --groupby=0 --groupsep="," --nouniq - \
@@ -58,8 +65,9 @@ python -m jcvi.formats.base reorder ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/T
 
 # prepare the enriched GFF3 file with the required attributes
 python -m jcvi.formats.gff format --gff3 --unique --nostrict --multiparents="merge" \
-    --remove_feat="protein,chromosome" --verifySO="resolve" --add_dbxref="Locus.tsv,Gene.tsv" \
-    --add_attribute="Alias.tsv,Note.tsv,conf_class.tsv,conf_rating.tsv,Curator_summary.tsv,Computational_description.tsv,Symbol.tsv" \
+    --remove_feat="protein,chromosome" --verifySO="resolve" \
+    --add_dbxref="Locus.tsv,Gene.tsv" --name="Name.tsv" --note="Note.tsv" \
+    --add_attribute="Alias.tsv,conf_class.tsv,conf_rating.tsv,Curator_summary.tsv,Computational_description.tsv,Symbol.tsv" \
    ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10_GFF3_genes_transposons.gff \
    2> format.gff.log | python -m jcvi.formats.gff sort --method="topo" stdin \
    -o TAIR10_GFF3_genes_transposons.gff

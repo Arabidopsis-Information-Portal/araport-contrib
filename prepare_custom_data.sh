@@ -11,5 +11,5 @@ grep -P "locus:\d+" ${TAIR10_CUSTOM_GFF3}/TAIR10_GFF3_genes_transposons.gff | gr
     | perl -lane 'chomp; /(locus:\d+)/; print $1;' \
     | parallel -j16 grep -P "{}" ${GO_ANNOT}/gene_association.tair \
     | cut -f2 | sort -u | paste -d"|" -s - \
-    | xargs -I{} grep -P "{}" ${GO_ANNOT}/gene_association.tair \
+    | xargs -I{} grep -vP "{}" ${GO_ANNOT}/gene_association.tair \
     > ${GO_ANNOT_CUSTOM}/gene_association.tair
