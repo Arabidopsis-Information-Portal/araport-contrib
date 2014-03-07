@@ -57,17 +57,19 @@ python -m jcvi.formats.base reorder ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/T
     | sort -k1,1 | python -m jcvi.formats.base join --noheader gene_mRNA.map - \
     | cut -f2,4 | python -m jcvi.formats.base flatten --sep="	" --zipflatten="," - \
     | sed -e "s/,/\t/g" \
-    > Gene.tsv
+    > gene.tsv
 
 python -m jcvi.formats.base reorder ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_TAIRlocusaccessionID_AGI_mapping.txt 2,1 \
     | grep -P '^AT[A-z0-9]G' | python -m jcvi.formats.base group --groupby=0 --nouniq - \
-    | sort -k1,1 > Locus.tsv
+    | sort -k1,1 > locus.tsv
 
 # prepare the enriched GFF3 file with the required attributes
-python -m jcvi.formats.gff format --gff3 --unique --nostrict --multiparents="merge" \
+python -m jcvi.formats.gff format --nostrict --invent_name_attr --multiparents="merge" \
     --remove_feat="protein,chromosome" --verifySO="resolve" \
-    --add_dbxref="Locus.tsv,Gene.tsv" --name="Name.tsv" --note="Note.tsv" \
+    --add_dbxref="locus.tsv,gene.tsv" --name="Name.tsv" --note="Note.tsv" \
     --add_attribute="Alias.tsv,conf_class.tsv,conf_rating.tsv,Curator_summary.tsv,Computational_description.tsv,Symbol.tsv" \
    ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10_GFF3_genes_transposons.gff \
    2> format.gff.log | python -m jcvi.formats.gff sort --method="topo" stdin \
    -o TAIR10_GFF3_genes_transposons.gff
+
+grep -vP "\tCDS\t" TAIR10_GFF3_genes_transposons.gff > TAIR10_GFF3_genes_transposons.noCDS.gff
