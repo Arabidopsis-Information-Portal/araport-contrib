@@ -65,11 +65,11 @@ python -m jcvi.formats.base reorder ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/T
 
 # prepare the enriched GFF3 file with the required attributes
 python -m jcvi.formats.gff format --nostrict --invent_name_attr --multiparents="merge" \
-    --remove_feat="protein,chromosome" --verifySO="resolve" \
-    --add_dbxref="locus.tsv,gene.tsv" --name="Name.tsv" --note="Note.tsv" \
-    --add_attribute="Alias.tsv,conf_class.tsv,conf_rating.tsv,Curator_summary.tsv,Computational_description.tsv,Symbol.tsv" \
+    --remove_feat="protein,chromosome" --verifySO="resolve:prefix" \
+    --add_dbxref="locus.tsv,gene.tsv" --note="Note.tsv" \
+    --add_attribute="Alias.tsv,conf_class.tsv,conf_rating.tsv,Full_name.tsv,Curator_summary.tsv,Computational_description.tsv,Symbol.tsv" \
    ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10_GFF3_genes_transposons.gff \
    2> format.gff.log | python -m jcvi.formats.gff sort --method="topo" stdin \
-   -o TAIR10_GFF3_genes_transposons.gff
+   -o TAIR10_GFF3_genes_transposons.AIP.gff
 
-grep -vP "\tCDS\t" TAIR10_GFF3_genes_transposons.gff > TAIR10_GFF3_genes_transposons.noCDS.gff
+grep -vP "\tCDS\t" TAIR10_GFF3_genes_transposons.AIP.gff > TAIR10_GFF3_genes_transposons.AIP.noCDS.gff
