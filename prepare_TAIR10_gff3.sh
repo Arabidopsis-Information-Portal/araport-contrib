@@ -8,14 +8,24 @@ mkdir -p ${AIP_HOME}/${TAIR_DATA}/custom_data/${TAIR10_RELEASE}/TAIR10_gff3
 cd ${AIP_HOME}/${TAIR_DATA}/custom_data/${TAIR10_RELEASE}/TAIR10_gff3
 
 # prepare the necessary attribute data in tab-delimited files
-TAIR10_func_desc=TAIR10_functional_descriptions_20130831.txt
+export TAIR10_func_desc=TAIR10_functional_descriptions_20130831.txt
 
+# prepare the Note.tsv file
+#["3"]="Note"
+#grep -P '^AT[A-z0-9]G' ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/$TAIR10_func_desc | cut -f1,3 \
+    #| awk '{ if($2 == "") print $0"unknown protein"; else print $0 }' | sort -k1,1 > Note.tsv
+
+# prepare the curator_summary and computational_description tsv files
 declare -A descrs=( ["3"]="Note" ["4"]="Curator_summary" ["5"]="Computational_description" )
 for col in "${!descrs[@]}"; do
-    grep '^AT[A-z0-9]G' ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/$TAIR10_func_desc | cut -f1,$col \
-        | perl -lane 'BEGIN { %data = (); } chomp; @line = split /\t/; $line[0] =~ /(\S+)\.(\d+)/; $data{$1} = $line[1] if($2 == 1); print; END { for $locus(keys %data) { print join "\t", $locus, $data{$locus}; } }' \
+
+    grep -P '^AT[A-z0-9]G' ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/$TAIR10_func_desc | cut -f1,$col | sort -k1,1 \
+        | perl -lane 'BEGIN { %data = (); } chomp; @line = split /\t/; $line[0] =~ /(\S+)\.(\d+)/; $data{$1} = $line[1] if(not defined $data{$1} and $line[1] ne ""); print; END { for $locus(keys %data) { print join "\t", $locus, $data{$locus}; } }' \
         | sort -k1,1 > ${descrs["$col"]}.tsv
 done
+
+awk '{ if($2 == "") print $0"unknown protein"; else print $0 }' Note.tsv > temp.tsv
+mv temp.tsv Note.tsv
 
 declare -A confs=( ["3"]="conf_rating" ["4"]="conf_class" )
 for col in "${!confs[@]}"; do
@@ -71,5 +81,3 @@ python -m jcvi.formats.gff format --nostrict --invent_name_attr --multiparents="
    ${AIP_HOME}/${TAIR_DATA}/${TAIR10_RELEASE}/TAIR10_gff3/TAIR10_GFF3_genes_transposons.gff \
    2> format.gff.log | python -m jcvi.formats.gff sort --method="topo" stdin \
    -o TAIR10_GFF3_genes_transposons.AIP.gff
-
-grep -vP "\tCDS\t" TAIR10_GFF3_genes_transposons.AIP.gff > TAIR10_GFF3_genes_transposons.AIP.noCDS.gff
