@@ -132,9 +132,9 @@ AT1G01471.1	unknown protein
 AT1G01480	1-amino-cyclopropane-1-carboxylate synthase 2
 AT1G01480.1	1-amino-cyclopropane-1-carboxylate synthase 2
 AT1G01480.2	1-amino-cyclopropane-1-carboxylate synthase 2
-AT1G01490	Heavy metal transport/detoxification superfamily protein
-AT1G01490.1	Heavy metal transport/detoxification superfamily protein
-AT1G01490.2	Heavy metal transport/detoxification superfamily protein
+AT1G01490	Heavy metal transport/detoxification superfamily protein 
+AT1G01490.1	Heavy metal transport/detoxification superfamily protein 
+AT1G01490.2	Heavy metal transport/detoxification superfamily protein 
 AT1G01500	Erythronate-4-phosphate dehydrogenase family protein
 AT1G01500.1	Erythronate-4-phosphate dehydrogenase family protein
 AT1G01510	NAD(P)-binding Rossmann-fold superfamily protein
@@ -750,8 +750,8 @@ AT1G04020	breast cancer associated RING 1
 AT1G04020.1	breast cancer associated RING 1
 AT1G04020.2	breast cancer associated RING 1
 AT1G04030.1	unknown protein
-AT1G04040	HAD superfamily, subfamily IIIB acid phosphatase
-AT1G04040.1	HAD superfamily, subfamily IIIB acid phosphatase
+AT1G04040	HAD superfamily, subfamily IIIB acid phosphatase 
+AT1G04040.1	HAD superfamily, subfamily IIIB acid phosphatase 
 AT1G04050	homolog of SU(var)3-9 1
 AT1G04050.1	homolog of SU(var)3-9 1
 AT1G04070	translocase of outer membrane 22-I
@@ -1125,8 +1125,8 @@ AT1G05600.1	Tetratricopeptide repeat (TPR)-like superfamily protein
 AT1G05600.2	Tetratricopeptide repeat (TPR)-like superfamily protein
 AT1G05610	ADP-glucose pyrophosphorylase small subunit 2
 AT1G05610.1	ADP-glucose pyrophosphorylase small subunit 2
-AT1G05615	Domain of unknown function (DUF313)
-AT1G05615.1	Domain of unknown function (DUF313)
+AT1G05615	Domain of unknown function (DUF313) 
+AT1G05615.1	Domain of unknown function (DUF313) 
 AT1G05620	uridine-ribohydrolase  2
 AT1G05620.1	uridine-ribohydrolase  2
 AT1G05620.2	uridine-ribohydrolase  2
@@ -1212,11 +1212,11 @@ AT1G05900.1	endonuclease III 2
 AT1G05900.2	endonuclease III 2
 AT1G05910	cell division cycle protein 48-related / CDC48-related
 AT1G05910.1	cell division cycle protein 48-related / CDC48-related
-AT1G05920	Domain of unknown function (DUF313)
-AT1G05920.1	Domain of unknown function (DUF313)
+AT1G05920	Domain of unknown function (DUF313) 
+AT1G05920.1	Domain of unknown function (DUF313) 
 AT1G05925.1	unknown protein
-AT1G05930	Domain of unknown function (DUF313)
-AT1G05930.1	Domain of unknown function (DUF313)
+AT1G05930	Domain of unknown function (DUF313) 
+AT1G05930.1	Domain of unknown function (DUF313) 
 AT1G05940	cationic amino acid transporter 9
 AT1G05940.1	cationic amino acid transporter 9
 AT1G05950.1	unknown protein
@@ -1313,8 +1313,8 @@ AT1G06290.1	acyl-CoA oxidase 3
 AT1G06310	acyl-CoA oxidase 6
 AT1G06310.1	acyl-CoA oxidase 6
 AT1G06320.1	unknown protein
-AT1G06330	Heavy metal transport/detoxification superfamily protein
-AT1G06330.1	Heavy metal transport/detoxification superfamily protein
+AT1G06330	Heavy metal transport/detoxification superfamily protein 
+AT1G06330.1	Heavy metal transport/detoxification superfamily protein 
 AT1G06340	Plant Tudor-like protein
 AT1G06340.1	Plant Tudor-like protein
 AT1G06350	Fatty acid desaturase family protein
@@ -2750,9 +2750,9 @@ AT1G11890	Synaptobrevin family protein
 AT1G11890.1	Synaptobrevin family protein
 AT1G11900	Tetratricopeptide repeat (TPR)-like superfamily protein
 AT1G11900.1	Tetratricopeptide repeat (TPR)-like superfamily protein
-AT1G11905	B-cell receptor-associated protein 31-like
-AT1G11905.1	B-cell receptor-associated protein 31-like
-AT1G11905.2	B-cell receptor-associated protein 31-like
+AT1G11905	B-cell receptor-associated protein 31-like 
+AT1G11905.1	B-cell receptor-associated protein 31-like 
+AT1G11905.2	B-cell receptor-associated protein 31-like 
 AT1G11910	aspartic proteinase A1
 AT1G11910.1	aspartic proteinase A1
 AT1G11915.1	unknown protein
@@ -2784,8 +2784,8 @@ AT1G12013.1	SNOR111; snoRNA
 AT1G12015	snoRNA
 AT1G12015.1	snoRNA
 AT1G12020.1	unknown protein
-AT1G12030	Protein of unknown function (DUF506)
-AT1G12030.1	Protein of unknown function (DUF506)
+AT1G12030	Protein of unknown function (DUF506) 
+AT1G12030.1	Protein of unknown function (DUF506) 
 AT1G12040	leucine-rich repeat/extensin 1
 AT1G12040.1	leucine-rich repeat/extensin 1
 AT1G12050	fumarylacetoacetase, putative
@@ -3880,8 +3880,8 @@ AT1G16489.1	other RNA
 AT1G16490	myb domain protein 58
 AT1G16490.1	myb domain protein 58
 AT1G16500.1	unknown protein
-AT1G16510	SAUR-like auxin-responsive protein family
-AT1G16510.1	SAUR-like auxin-responsive protein family
+AT1G16510	SAUR-like auxin-responsive protein family 
+AT1G16510.1	SAUR-like auxin-responsive protein family 
 AT1G16515.1	unknown protein
 AT1G16520.1	unknown protein
 AT1G16530	ASYMMETRIC LEAVES 2-like 9
@@ -4020,9 +4020,9 @@ AT1G17110.1	ubiquitin-specific protease 15
 AT1G17110.2	ubiquitin-specific protease 15
 AT1G17120	cationic amino acid transporter 8
 AT1G17120.1	cationic amino acid transporter 8
-AT1G17130	Family of unknown function (DUF572)
-AT1G17130.1	Family of unknown function (DUF572)
-AT1G17130.2	Family of unknown function (DUF572)
+AT1G17130	Family of unknown function (DUF572) 
+AT1G17130.1	Family of unknown function (DUF572) 
+AT1G17130.2	Family of unknown function (DUF572) 
 AT1G17140	interactor of constitutive active rops 1
 AT1G17140.1	interactor of constitutive active rops 1
 AT1G17140.2	interactor of constitutive active rops 1
@@ -4080,8 +4080,8 @@ AT1G17330	Metal-dependent phosphohydrolase
 AT1G17330.1	Metal-dependent phosphohydrolase
 AT1G17340	Phosphoinositide phosphatase family protein
 AT1G17340.1	Phosphoinositide phosphatase family protein
-AT1G17345	SAUR-like auxin-responsive protein family
-AT1G17345.1	SAUR-like auxin-responsive protein family
+AT1G17345	SAUR-like auxin-responsive protein family 
+AT1G17345.1	SAUR-like auxin-responsive protein family 
 AT1G17350	NADH:ubiquinone oxidoreductase intermediate-associated protein 30
 AT1G17350.1	NADH:ubiquinone oxidoreductase intermediate-associated protein 30
 AT1G17350.2	NADH:ubiquinone oxidoreductase intermediate-associated protein 30
@@ -4675,13 +4675,13 @@ AT1G19800.1	trigalactosyldiacylglycerol 1
 AT1G19800.2	trigalactosyldiacylglycerol 1
 AT1G19800.3	trigalactosyldiacylglycerol 1
 AT1G19810.1	unknown protein
-AT1G19830	SAUR-like auxin-responsive protein family
-AT1G19830.1	SAUR-like auxin-responsive protein family
+AT1G19830	SAUR-like auxin-responsive protein family 
+AT1G19830.1	SAUR-like auxin-responsive protein family 
 AT1G19835	Plant protein of unknown function (DUF869)
 AT1G19835.1	Plant protein of unknown function (DUF869)
 AT1G19835.2	Plant protein of unknown function (DUF869)
-AT1G19840	SAUR-like auxin-responsive protein family
-AT1G19840.1	SAUR-like auxin-responsive protein family
+AT1G19840	SAUR-like auxin-responsive protein family 
+AT1G19840.1	SAUR-like auxin-responsive protein family 
 AT1G19850	Transcriptional factor B3 family protein / auxin-responsive factor AUX/IAA-related
 AT1G19850.1	Transcriptional factor B3 family protein / auxin-responsive factor AUX/IAA-related
 AT1G19860	Zinc finger C-x8-C-x5-C-x3-H type family protein
@@ -4822,8 +4822,8 @@ AT1G20450	Dehydrin family protein
 AT1G20450.1	Dehydrin family protein
 AT1G20450.2	Dehydrin family protein
 AT1G20460.1	unknown protein
-AT1G20470	SAUR-like auxin-responsive protein family
-AT1G20470.1	SAUR-like auxin-responsive protein family
+AT1G20470	SAUR-like auxin-responsive protein family 
+AT1G20470.1	SAUR-like auxin-responsive protein family 
 AT1G20480	AMP-dependent synthetase and ligase family protein
 AT1G20480.1	AMP-dependent synthetase and ligase family protein
 AT1G20490	AMP-dependent synthetase and ligase family protein
@@ -5068,8 +5068,8 @@ AT1G21450.1	SCARECROW-like 1
 AT1G21460	Nodulin MtN3 family protein
 AT1G21460.1	Nodulin MtN3 family protein
 AT1G21470.1	unknown protein
-AT1G21475	Protein of unknown function (DUF506)
-AT1G21475.1	Protein of unknown function (DUF506)
+AT1G21475	Protein of unknown function (DUF506) 
+AT1G21475.1	Protein of unknown function (DUF506) 
 AT1G21480	Exostosin family protein
 AT1G21480.1	Exostosin family protein
 AT1G21480.2	Exostosin family protein
@@ -5120,11 +5120,11 @@ AT1G21660.1	Chaperone DnaJ-domain superfamily protein
 AT1G21670.1	unknown protein
 AT1G21680	DPP6 N-terminal domain-like protein
 AT1G21680.1	DPP6 N-terminal domain-like protein
-AT1G21690	ATPase family associated with various cellular activities (AAA)
-AT1G21690.1	ATPase family associated with various cellular activities (AAA)
-AT1G21690.2	ATPase family associated with various cellular activities (AAA)
-AT1G21690.3	ATPase family associated with various cellular activities (AAA)
-AT1G21690.4	ATPase family associated with various cellular activities (AAA)
+AT1G21690	ATPase family associated with various cellular activities (AAA) 
+AT1G21690.1	ATPase family associated with various cellular activities (AAA) 
+AT1G21690.2	ATPase family associated with various cellular activities (AAA) 
+AT1G21690.3	ATPase family associated with various cellular activities (AAA) 
+AT1G21690.4	ATPase family associated with various cellular activities (AAA) 
 AT1G21695	hydroxyproline-rich glycoprotein family protein
 AT1G21695.1	hydroxyproline-rich glycoprotein family protein
 AT1G21700	SWITCH/sucrose nonfermenting 3C
@@ -5428,10 +5428,10 @@ AT1G22970.1	unknown protein
 AT1G22980.1	unknown protein
 AT1G22985	Integrase-type DNA-binding superfamily protein
 AT1G22985.1	Integrase-type DNA-binding superfamily protein
-AT1G22990	Heavy metal transport/detoxification superfamily protein
-AT1G22990.1	Heavy metal transport/detoxification superfamily protein
-AT1G23000	Heavy metal transport/detoxification superfamily protein
-AT1G23000.1	Heavy metal transport/detoxification superfamily protein
+AT1G22990	Heavy metal transport/detoxification superfamily protein 
+AT1G22990.1	Heavy metal transport/detoxification superfamily protein 
+AT1G23000	Heavy metal transport/detoxification superfamily protein 
+AT1G23000.1	Heavy metal transport/detoxification superfamily protein 
 AT1G23010	Cupredoxin superfamily protein
 AT1G23010.1	Cupredoxin superfamily protein
 AT1G23020	ferric reduction oxidase 3
@@ -5737,10 +5737,10 @@ AT1G24240.1	Ribosomal protein L19 family protein
 AT1G24250	Paired amphipathic helix (PAH2) superfamily protein
 AT1G24250.1	Paired amphipathic helix (PAH2) superfamily protein
 AT1G24256.1	unknown protein
-AT1G24260	K-box region and MADS-box transcription factor family protein
-AT1G24260.1	K-box region and MADS-box transcription factor family protein
-AT1G24260.2	K-box region and MADS-box transcription factor family protein
-AT1G24260.3	K-box region and MADS-box transcription factor family protein
+AT1G24260	K-box region and MADS-box transcription factor family protein 
+AT1G24260.1	K-box region and MADS-box transcription factor family protein 
+AT1G24260.2	K-box region and MADS-box transcription factor family protein 
+AT1G24260.3	K-box region and MADS-box transcription factor family protein 
 AT1G24265	Protein of unknown function (DUF1664)
 AT1G24265.1	Protein of unknown function (DUF1664)
 AT1G24265.2	Protein of unknown function (DUF1664)
@@ -5988,14 +5988,14 @@ AT1G25570	Di-glucose binding protein with Leucine-rich repeat domain
 AT1G25570.1	Di-glucose binding protein with Leucine-rich repeat domain
 AT1G25580	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein
 AT1G25580.1	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein
-AT1G25682	Family of unknown function (DUF572)
-AT1G25682.1	Family of unknown function (DUF572)
+AT1G25682	Family of unknown function (DUF572) 
+AT1G25682.1	Family of unknown function (DUF572) 
 AT1G25784	transposable element gene
 AT1G25784.1	transposable element gene
 AT1G25886	transposable element gene
 AT1G25886.1	transposable element gene
-AT1G25988	Family of unknown function (DUF572)
-AT1G25988.1	Family of unknown function (DUF572)
+AT1G25988	Family of unknown function (DUF572) 
+AT1G25988.1	Family of unknown function (DUF572) 
 AT1G26090	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT1G26090.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT1G26100	Cytochrome b561/ferric reductase transmembrane protein family
@@ -6050,8 +6050,8 @@ AT1G26290.1	unknown protein
 AT1G26300	BSD domain-containing protein
 AT1G26300.1	BSD domain-containing protein
 AT1G26300.2	BSD domain-containing protein
-AT1G26310	K-box region and MADS-box transcription factor family protein
-AT1G26310.1	K-box region and MADS-box transcription factor family protein
+AT1G26310	K-box region and MADS-box transcription factor family protein 
+AT1G26310.1	K-box region and MADS-box transcription factor family protein 
 AT1G26320	Zinc-binding dehydrogenase family protein
 AT1G26320.1	Zinc-binding dehydrogenase family protein
 AT1G26320.2	Zinc-binding dehydrogenase family protein
@@ -6436,8 +6436,8 @@ AT1G27860	Protein of unknown function (DUF626)
 AT1G27860.1	Protein of unknown function (DUF626)
 AT1G27870	Polynucleotidyl transferase, ribonuclease H-like superfamily protein
 AT1G27870.1	Polynucleotidyl transferase, ribonuclease H-like superfamily protein
-AT1G27880	DEAD/DEAH box RNA helicase family protein
-AT1G27880.1	DEAD/DEAH box RNA helicase family protein
+AT1G27880	DEAD/DEAH box RNA helicase family protein 
+AT1G27880.1	DEAD/DEAH box RNA helicase family protein 
 AT1G27890	Polynucleotidyl transferase, ribonuclease H-like superfamily protein
 AT1G27890.1	Polynucleotidyl transferase, ribonuclease H-like superfamily protein
 AT1G27900	RNA helicase family protein
@@ -6718,8 +6718,8 @@ AT1G28980	pre-tRNA
 AT1G28980.1	pre-tRNA
 AT1G28990	pre-tRNA
 AT1G28990.1	pre-tRNA
-AT1G29000	Heavy metal transport/detoxification superfamily protein
-AT1G29000.1	Heavy metal transport/detoxification superfamily protein
+AT1G29000	Heavy metal transport/detoxification superfamily protein 
+AT1G29000.1	Heavy metal transport/detoxification superfamily protein 
 AT1G29010.1	unknown protein
 AT1G29020	Calcium-binding EF-hand family protein
 AT1G29020.1	Calcium-binding EF-hand family protein
@@ -6746,8 +6746,8 @@ AT1G29080	Papain family cysteine protease
 AT1G29080.1	Papain family cysteine protease
 AT1G29090	Cysteine proteinases superfamily protein
 AT1G29090.1	Cysteine proteinases superfamily protein
-AT1G29100	Heavy metal transport/detoxification superfamily protein
-AT1G29100.1	Heavy metal transport/detoxification superfamily protein
+AT1G29100	Heavy metal transport/detoxification superfamily protein 
+AT1G29100.1	Heavy metal transport/detoxification superfamily protein 
 AT1G29110	Cysteine proteinases superfamily protein
 AT1G29110.1	Cysteine proteinases superfamily protein
 AT1G29120	Hydrolase-like protein family
@@ -6828,16 +6828,16 @@ AT1G29410	phosphoribosylanthranilate isomerase 3
 AT1G29410.1	phosphoribosylanthranilate isomerase 3
 AT1G29410.2	phosphoribosylanthranilate isomerase 3
 AT1G29418.1	unknown protein
-AT1G29420	SAUR-like auxin-responsive protein family
-AT1G29420.1	SAUR-like auxin-responsive protein family
-AT1G29430	SAUR-like auxin-responsive protein family
-AT1G29430.1	SAUR-like auxin-responsive protein family
-AT1G29440	SAUR-like auxin-responsive protein family
-AT1G29440.1	SAUR-like auxin-responsive protein family
-AT1G29450	SAUR-like auxin-responsive protein family
-AT1G29450.1	SAUR-like auxin-responsive protein family
-AT1G29460	SAUR-like auxin-responsive protein family
-AT1G29460.1	SAUR-like auxin-responsive protein family
+AT1G29420	SAUR-like auxin-responsive protein family 
+AT1G29420.1	SAUR-like auxin-responsive protein family 
+AT1G29430	SAUR-like auxin-responsive protein family 
+AT1G29430.1	SAUR-like auxin-responsive protein family 
+AT1G29440	SAUR-like auxin-responsive protein family 
+AT1G29440.1	SAUR-like auxin-responsive protein family 
+AT1G29450	SAUR-like auxin-responsive protein family 
+AT1G29450.1	SAUR-like auxin-responsive protein family 
+AT1G29460	SAUR-like auxin-responsive protein family 
+AT1G29460.1	SAUR-like auxin-responsive protein family 
 AT1G29465.1	unknown protein
 AT1G29470	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
 AT1G29470.1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
@@ -6845,10 +6845,10 @@ AT1G29470.2	S-adenosyl-L-methionine-dependent methyltransferases superfamily pro
 AT1G29475	transposable element gene
 AT1G29475.1	transposable element gene
 AT1G29480.1	unknown protein
-AT1G29490	SAUR-like auxin-responsive protein family
-AT1G29490.1	SAUR-like auxin-responsive protein family
-AT1G29500	SAUR-like auxin-responsive protein family
-AT1G29500.1	SAUR-like auxin-responsive protein family
+AT1G29490	SAUR-like auxin-responsive protein family 
+AT1G29490.1	SAUR-like auxin-responsive protein family 
+AT1G29500	SAUR-like auxin-responsive protein family 
+AT1G29500.1	SAUR-like auxin-responsive protein family 
 AT1G29510	SAUR-like auxin-responsive protein family
 AT1G29510.1	SAUR-like auxin-responsive protein family
 AT1G29520	AWPM-19-like family protein
@@ -7083,8 +7083,8 @@ AT1G30470	SIT4 phosphatase-associated family protein
 AT1G30470.1	SIT4 phosphatase-associated family protein
 AT1G30470.2	SIT4 phosphatase-associated family protein
 AT1G30470.3	SIT4 phosphatase-associated family protein
-AT1G30473	Heavy metal transport/detoxification superfamily protein
-AT1G30473.1	Heavy metal transport/detoxification superfamily protein
+AT1G30473	Heavy metal transport/detoxification superfamily protein 
+AT1G30473.1	Heavy metal transport/detoxification superfamily protein 
 AT1G30475.1	unknown protein
 AT1G30475.2	unknown protein
 AT1G30475.3	unknown protein
@@ -7466,8 +7466,8 @@ AT1G32010	myosin heavy chain-related
 AT1G32010.1	myosin heavy chain-related
 AT1G32020	F-box family protein
 AT1G32020.1	F-box family protein
-AT1G32030	Domain of unknown function (DUF313)
-AT1G32030.1	Domain of unknown function (DUF313)
+AT1G32030	Domain of unknown function (DUF313) 
+AT1G32030.1	Domain of unknown function (DUF313) 
 AT1G32040	transposable element gene
 AT1G32040.1	transposable element gene
 AT1G32045	transposable element gene
@@ -8016,8 +8016,8 @@ AT1G34340	alpha/beta-Hydrolases superfamily protein
 AT1G34340.1	alpha/beta-Hydrolases superfamily protein
 AT1G34350.1	unknown protein
 AT1G34350.2	unknown protein
-AT1G34355	forkhead-associated (FHA) domain-containing protein
-AT1G34355.1	forkhead-associated (FHA) domain-containing protein
+AT1G34355	forkhead-associated (FHA) domain-containing protein 
+AT1G34355.1	forkhead-associated (FHA) domain-containing protein 
 AT1G34360	translation initiation factor 3 (IF-3) family protein
 AT1G34360.1	translation initiation factor 3 (IF-3) family protein
 AT1G34370	C2H2 and C2HC zinc fingers superfamily protein
@@ -8289,9 +8289,9 @@ AT1G35516	myb-like transcription factor family protein
 AT1G35516.1	myb-like transcription factor family protein
 AT1G35520	auxin response factor 15
 AT1G35520.1	auxin response factor 15
-AT1G35530	DEAD/DEAH box RNA helicase family protein
-AT1G35530.1	DEAD/DEAH box RNA helicase family protein
-AT1G35530.2	DEAD/DEAH box RNA helicase family protein
+AT1G35530	DEAD/DEAH box RNA helicase family protein 
+AT1G35530.1	DEAD/DEAH box RNA helicase family protein 
+AT1G35530.2	DEAD/DEAH box RNA helicase family protein 
 AT1G35535	transposable element gene
 AT1G35535.1	transposable element gene
 AT1G35537	Defensin-like (DEFL) family protein
@@ -8302,8 +8302,8 @@ AT1G35545	other RNA
 AT1G35545.1	other RNA
 AT1G35550	elongation factor Tu C-terminal domain-containing protein
 AT1G35550.1	elongation factor Tu C-terminal domain-containing protein
-AT1G35560	TCP family transcription factor
-AT1G35560.1	TCP family transcription factor
+AT1G35560	TCP family transcription factor 
+AT1G35560.1	TCP family transcription factor 
 AT1G35570	transposable element gene
 AT1G35570.1	transposable element gene
 AT1G35580	cytosolic invertase 1
@@ -9237,8 +9237,8 @@ AT1G43020.3	Protein of unknown function, DUF547
 AT1G43020.4	Protein of unknown function, DUF547
 AT1G43030	transposable element gene
 AT1G43030.1	transposable element gene
-AT1G43040	SAUR-like auxin-responsive protein family
-AT1G43040.1	SAUR-like auxin-responsive protein family
+AT1G43040	SAUR-like auxin-responsive protein family 
+AT1G43040.1	SAUR-like auxin-responsive protein family 
 AT1G43050.1	unknown protein
 AT1G43060	transposable element gene
 AT1G43060.1	transposable element gene
@@ -10187,8 +10187,8 @@ AT1G48930	glycosyl hydrolase 9C1
 AT1G48930.1	glycosyl hydrolase 9C1
 AT1G48940	early nodulin-like protein 6
 AT1G48940.1	early nodulin-like protein 6
-AT1G48950	C3HC zinc finger-like
-AT1G48950.1	C3HC zinc finger-like
+AT1G48950	C3HC zinc finger-like 
+AT1G48950.1	C3HC zinc finger-like 
 AT1G48953.1	unknown protein
 AT1G48960	Adenine nucleotide alpha hydrolases-like superfamily protein
 AT1G48960.1	Adenine nucleotide alpha hydrolases-like superfamily protein
@@ -10295,8 +10295,8 @@ AT1G49405	Uncharacterised protein family (UPF0497)
 AT1G49405.1	Uncharacterised protein family (UPF0497)
 AT1G49410	translocase of the outer mitochondrial membrane 6
 AT1G49410.1	translocase of the outer mitochondrial membrane 6
-AT1G49420	Heavy metal transport/detoxification superfamily protein
-AT1G49420.1	Heavy metal transport/detoxification superfamily protein
+AT1G49420	Heavy metal transport/detoxification superfamily protein 
+AT1G49420.1	Heavy metal transport/detoxification superfamily protein 
 AT1G49430	long-chain acyl-CoA synthetase 2
 AT1G49430.1	long-chain acyl-CoA synthetase 2
 AT1G49435	low-molecular-weight cysteine-rich 16
@@ -10307,8 +10307,8 @@ AT1G49450	Transducin/WD40 repeat-like superfamily protein
 AT1G49450.1	Transducin/WD40 repeat-like superfamily protein
 AT1G49460	pre-tRNA
 AT1G49460.1	pre-tRNA
-AT1G49470	Family of unknown function (DUF716)
-AT1G49470.1	Family of unknown function (DUF716)
+AT1G49470	Family of unknown function (DUF716) 
+AT1G49470.1	Family of unknown function (DUF716) 
 AT1G49475	AP2/B3-like transcriptional factor family protein
 AT1G49475.1	AP2/B3-like transcriptional factor family protein
 AT1G49480	related to vernalization1 1
@@ -10406,8 +10406,8 @@ AT1G49870.1	unknown protein
 AT1G49870.2	unknown protein
 AT1G49880	Erv1/Alr family protein
 AT1G49880.1	Erv1/Alr family protein
-AT1G49890	Family of unknown function (DUF566)
-AT1G49890.1	Family of unknown function (DUF566)
+AT1G49890	Family of unknown function (DUF566) 
+AT1G49890.1	Family of unknown function (DUF566) 
 AT1G49900	C2H2 type zinc finger transcription factor family
 AT1G49900.1	C2H2 type zinc finger transcription factor family
 AT1G49910	Transducin/WD40 repeat-like superfamily protein
@@ -10522,8 +10522,8 @@ AT1G50440	RING/FYVE/PHD zinc finger superfamily protein
 AT1G50440.1	RING/FYVE/PHD zinc finger superfamily protein
 AT1G50440.2	RING/FYVE/PHD zinc finger superfamily protein
 AT1G50440.3	RING/FYVE/PHD zinc finger superfamily protein
-AT1G50450	Saccharopine dehydrogenase
-AT1G50450.1	Saccharopine dehydrogenase
+AT1G50450	Saccharopine dehydrogenase 
+AT1G50450.1	Saccharopine dehydrogenase 
 AT1G50460	hexokinase-like 1
 AT1G50460.1	hexokinase-like 1
 AT1G50470	F-box associated ubiquitination effector family protein
@@ -10652,8 +10652,8 @@ AT1G51070.2	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
 AT1G51080.1	unknown protein
 AT1G51085	transposable element gene
 AT1G51085.1	transposable element gene
-AT1G51090	Heavy metal transport/detoxification superfamily protein
-AT1G51090.1	Heavy metal transport/detoxification superfamily protein
+AT1G51090	Heavy metal transport/detoxification superfamily protein 
+AT1G51090.1	Heavy metal transport/detoxification superfamily protein 
 AT1G51100.1	unknown protein
 AT1G51110	Plastid-lipid associated protein PAP / fibrillin family protein
 AT1G51110.1	Plastid-lipid associated protein PAP / fibrillin family protein
@@ -11688,10 +11688,10 @@ AT1G55210.1	Disease resistance-responsive (dirigent-like protein) family protein
 AT1G55210.2	Disease resistance-responsive (dirigent-like protein) family protein
 AT1G55220.1	unknown protein
 AT1G55221.1	unknown protein
-AT1G55230	Family of unknown function (DUF716)
-AT1G55230.1	Family of unknown function (DUF716)
-AT1G55240	Family of unknown function (DUF716)
-AT1G55240.1	Family of unknown function (DUF716)
+AT1G55230	Family of unknown function (DUF716) 
+AT1G55230.1	Family of unknown function (DUF716) 
+AT1G55240	Family of unknown function (DUF716) 
+AT1G55240.1	Family of unknown function (DUF716) 
 AT1G55250	histone mono-ubiquitination 2
 AT1G55250.1	histone mono-ubiquitination 2
 AT1G55250.2	histone mono-ubiquitination 2
@@ -11935,8 +11935,8 @@ AT1G56140.1	Leucine-rich repeat transmembrane protein kinase
 AT1G56145	Leucine-rich repeat transmembrane protein kinase
 AT1G56145.1	Leucine-rich repeat transmembrane protein kinase
 AT1G56145.2	Leucine-rich repeat transmembrane protein kinase
-AT1G56150	SAUR-like auxin-responsive protein family
-AT1G56150.1	SAUR-like auxin-responsive protein family
+AT1G56150	SAUR-like auxin-responsive protein family 
+AT1G56150.1	SAUR-like auxin-responsive protein family 
 AT1G56160	myb domain protein 72
 AT1G56160.1	myb domain protein 72
 AT1G56165	other RNA
@@ -11951,8 +11951,8 @@ AT1G56190.2	Phosphoglycerate kinase family protein
 AT1G56200	embryo defective 1303
 AT1G56200.1	embryo defective 1303
 AT1G56200.2	embryo defective 1303
-AT1G56210	Heavy metal transport/detoxification superfamily protein
-AT1G56210.1	Heavy metal transport/detoxification superfamily protein
+AT1G56210	Heavy metal transport/detoxification superfamily protein 
+AT1G56210.1	Heavy metal transport/detoxification superfamily protein 
 AT1G56220	Dormancy/auxin associated family protein
 AT1G56220.1	Dormancy/auxin associated family protein
 AT1G56220.2	Dormancy/auxin associated family protein
@@ -12365,9 +12365,9 @@ AT1G58080	ATP phosphoribosyl transferase 1
 AT1G58080.1	ATP phosphoribosyl transferase 1
 AT1G58090	F-box and associated interaction domains-containing protein
 AT1G58090.1	F-box and associated interaction domains-containing protein
-AT1G58100	TCP family transcription factor
-AT1G58100.1	TCP family transcription factor
-AT1G58100.2	TCP family transcription factor
+AT1G58100	TCP family transcription factor 
+AT1G58100.1	TCP family transcription factor 
+AT1G58100.2	TCP family transcription factor 
 AT1G58110	Basic-leucine zipper (bZIP) transcription factor family protein
 AT1G58110.1	Basic-leucine zipper (bZIP) transcription factor family protein
 AT1G58110.2	Basic-leucine zipper (bZIP) transcription factor family protein
@@ -12799,8 +12799,8 @@ AT1G60680	NAD(P)-linked oxidoreductase superfamily protein
 AT1G60680.1	NAD(P)-linked oxidoreductase superfamily protein
 AT1G60690	NAD(P)-linked oxidoreductase superfamily protein
 AT1G60690.1	NAD(P)-linked oxidoreductase superfamily protein
-AT1G60700	SMAD/FHA domain-containing protein
-AT1G60700.1	SMAD/FHA domain-containing protein
+AT1G60700	SMAD/FHA domain-containing protein 
+AT1G60700.1	SMAD/FHA domain-containing protein 
 AT1G60710	NAD(P)-linked oxidoreductase superfamily protein
 AT1G60710.1	NAD(P)-linked oxidoreductase superfamily protein
 AT1G60720	RNA-directed DNA polymerase (reverse transcriptase)-related family protein
@@ -13244,8 +13244,8 @@ AT1G62400	Protein kinase superfamily protein
 AT1G62400.1	Protein kinase superfamily protein
 AT1G62410	MIF4G domain-containing protein
 AT1G62410.1	MIF4G domain-containing protein
-AT1G62420	Protein of unknown function (DUF506)
-AT1G62420.1	Protein of unknown function (DUF506)
+AT1G62420	Protein of unknown function (DUF506) 
+AT1G62420.1	Protein of unknown function (DUF506) 
 AT1G62421.1	unknown protein
 AT1G62422.1	unknown protein
 AT1G62430	CDP-diacylglycerol synthase 1
@@ -13615,8 +13615,8 @@ AT1G63940.1	monodehydroascorbate reductase 6
 AT1G63940.2	monodehydroascorbate reductase 6
 AT1G63940.3	monodehydroascorbate reductase 6
 AT1G63940.4	monodehydroascorbate reductase 6
-AT1G63950	Heavy metal transport/detoxification superfamily protein
-AT1G63950.1	Heavy metal transport/detoxification superfamily protein
+AT1G63950	Heavy metal transport/detoxification superfamily protein 
+AT1G63950.1	Heavy metal transport/detoxification superfamily protein 
 AT1G63960	Copper transport protein family
 AT1G63960.1	Copper transport protein family
 AT1G63970	isoprenoid F
@@ -14419,9 +14419,9 @@ AT1G67240	transposable element gene
 AT1G67240.1	transposable element gene
 AT1G67250	Proteasome maturation factor UMP1
 AT1G67250.1	Proteasome maturation factor UMP1
-AT1G67260	TCP family transcription factor
-AT1G67260.1	TCP family transcription factor
-AT1G67260.2	TCP family transcription factor
+AT1G67260	TCP family transcription factor 
+AT1G67260.1	TCP family transcription factor 
+AT1G67260.2	TCP family transcription factor 
 AT1G67265	ROTUNDIFOLIA like 21
 AT1G67265.1	ROTUNDIFOLIA like 21
 AT1G67270	Zinc-finger domain of monoamine-oxidase A repressor R1 protein
@@ -14889,8 +14889,8 @@ AT1G69090.1	Protein of unknown function (DUF295)
 AT1G69100	Eukaryotic aspartyl protease family protein
 AT1G69100.1	Eukaryotic aspartyl protease family protein
 AT1G69110.1	unknown protein
-AT1G69120	K-box region and MADS-box transcription factor family protein
-AT1G69120.1	K-box region and MADS-box transcription factor family protein
+AT1G69120	K-box region and MADS-box transcription factor family protein 
+AT1G69120.1	K-box region and MADS-box transcription factor family protein 
 AT1G69130	pre-tRNA
 AT1G69130.1	pre-tRNA
 AT1G69140.1	unknown protein
@@ -15035,8 +15035,8 @@ AT1G69670	cullin 3B
 AT1G69670.1	cullin 3B
 AT1G69680	Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein
 AT1G69680.1	Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein
-AT1G69690	TCP family transcription factor
-AT1G69690.1	TCP family transcription factor
+AT1G69690	TCP family transcription factor 
+AT1G69690.1	TCP family transcription factor 
 AT1G69700	HVA22 homologue C
 AT1G69700.1	HVA22 homologue C
 AT1G69710	Regulator of chromosome condensation (RCC1) family with FYVE zinc finger domain
@@ -15378,8 +15378,8 @@ AT1G71030	MYB-like 2
 AT1G71030.1	MYB-like 2
 AT1G71040	Cupredoxin superfamily protein
 AT1G71040.1	Cupredoxin superfamily protein
-AT1G71050	Heavy metal transport/detoxification superfamily protein
-AT1G71050.1	Heavy metal transport/detoxification superfamily protein
+AT1G71050	Heavy metal transport/detoxification superfamily protein 
+AT1G71050.1	Heavy metal transport/detoxification superfamily protein 
 AT1G71060	Tetratricopeptide repeat (TPR)-like superfamily protein
 AT1G71060.1	Tetratricopeptide repeat (TPR)-like superfamily protein
 AT1G71070	Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein
@@ -15424,14 +15424,14 @@ AT1G71250	GDSL-like Lipase/Acylhydrolase superfamily protein
 AT1G71250.1	GDSL-like Lipase/Acylhydrolase superfamily protein
 AT1G71260	WHIRLY 2
 AT1G71260.1	WHIRLY 2
-AT1G71270	Vps52 / Sac2 family
-AT1G71270.1	Vps52 / Sac2 family
+AT1G71270	Vps52 / Sac2 family 
+AT1G71270.1	Vps52 / Sac2 family 
 AT1G71280	DEA(D/H)-box RNA helicase family protein
 AT1G71280.1	DEA(D/H)-box RNA helicase family protein
 AT1G71290	F-box associated ubiquitination effector family protein
 AT1G71290.1	F-box associated ubiquitination effector family protein
-AT1G71300	Vps52 / Sac2 family
-AT1G71300.1	Vps52 / Sac2 family
+AT1G71300	Vps52 / Sac2 family 
+AT1G71300.1	Vps52 / Sac2 family 
 AT1G71310	cobalt ion binding
 AT1G71310.1	cobalt ion binding
 AT1G71310.2	cobalt ion binding
@@ -15565,8 +15565,8 @@ AT1G71990	fucosyltransferase 13
 AT1G71990.1	fucosyltransferase 13
 AT1G72000	Plant neutral invertase family protein
 AT1G72000.1	Plant neutral invertase family protein
-AT1G72010	TCP family transcription factor
-AT1G72010.1	TCP family transcription factor
+AT1G72010	TCP family transcription factor 
+AT1G72010.1	TCP family transcription factor 
 AT1G72020.1	unknown protein
 AT1G72030	Acyl-CoA N-acyltransferases (NAT) superfamily protein
 AT1G72030.1	Acyl-CoA N-acyltransferases (NAT) superfamily protein
@@ -15665,8 +15665,8 @@ AT1G72416.4	Chaperone DnaJ-domain superfamily protein
 AT1G72416.5	Chaperone DnaJ-domain superfamily protein
 AT1G72420	NADH:ubiquinone oxidoreductase intermediate-associated protein 30
 AT1G72420.1	NADH:ubiquinone oxidoreductase intermediate-associated protein 30
-AT1G72430	SAUR-like auxin-responsive protein family
-AT1G72430.1	SAUR-like auxin-responsive protein family
+AT1G72430	SAUR-like auxin-responsive protein family 
+AT1G72430.1	SAUR-like auxin-responsive protein family 
 AT1G72440	CCAAT-binding factor
 AT1G72440.1	CCAAT-binding factor
 AT1G72450	jasmonate-zim-domain protein 6
@@ -16391,8 +16391,8 @@ AT1G75510	Transcription initiation factor IIF, beta subunit
 AT1G75510.1	Transcription initiation factor IIF, beta subunit
 AT1G75520	SHI-related sequence 5
 AT1G75520.1	SHI-related sequence 5
-AT1G75530	Forkhead-associated (FHA) domain-containing protein
-AT1G75530.1	Forkhead-associated (FHA) domain-containing protein
+AT1G75530	Forkhead-associated (FHA) domain-containing protein 
+AT1G75530.1	Forkhead-associated (FHA) domain-containing protein 
 AT1G75540	salt tolerance homolog2
 AT1G75540.1	salt tolerance homolog2
 AT1G75550	glycine-rich protein
@@ -16402,10 +16402,10 @@ AT1G75560.1	zinc knuckle (CCHC-type) family protein
 AT1G75560.2	zinc knuckle (CCHC-type) family protein
 AT1G75570	pre-tRNA
 AT1G75570.1	pre-tRNA
-AT1G75580	SAUR-like auxin-responsive protein family
-AT1G75580.1	SAUR-like auxin-responsive protein family
-AT1G75590	SAUR-like auxin-responsive protein family
-AT1G75590.1	SAUR-like auxin-responsive protein family
+AT1G75580	SAUR-like auxin-responsive protein family 
+AT1G75580.1	SAUR-like auxin-responsive protein family 
+AT1G75590	SAUR-like auxin-responsive protein family 
+AT1G75590.1	SAUR-like auxin-responsive protein family 
 AT1G75600	Histone superfamily protein
 AT1G75600.1	Histone superfamily protein
 AT1G75610.1	unknown protein
@@ -16542,8 +16542,8 @@ AT1G76180	Dehydrin family protein
 AT1G76180.1	Dehydrin family protein
 AT1G76180.2	Dehydrin family protein
 AT1G76185.1	unknown protein
-AT1G76190	SAUR-like auxin-responsive protein family
-AT1G76190.1	SAUR-like auxin-responsive protein family
+AT1G76190	SAUR-like auxin-responsive protein family 
+AT1G76190.1	SAUR-like auxin-responsive protein family 
 AT1G76200.1	unknown protein
 AT1G76210	Arabidopsis protein of unknown function (DUF241)
 AT1G76210.1	Arabidopsis protein of unknown function (DUF241)
@@ -16748,11 +16748,11 @@ AT1G77040	pre-tRNA
 AT1G77040.1	pre-tRNA
 AT1G77060	Phosphoenolpyruvate carboxylase family protein
 AT1G77060.1	Phosphoenolpyruvate carboxylase family protein
-AT1G77080	K-box region and MADS-box transcription factor family protein
-AT1G77080.2	K-box region and MADS-box transcription factor family protein
-AT1G77080.3	K-box region and MADS-box transcription factor family protein
-AT1G77080.4	K-box region and MADS-box transcription factor family protein
-AT1G77080.5	K-box region and MADS-box transcription factor family protein
+AT1G77080	K-box region and MADS-box transcription factor family protein 
+AT1G77080.2	K-box region and MADS-box transcription factor family protein 
+AT1G77080.3	K-box region and MADS-box transcription factor family protein 
+AT1G77080.4	K-box region and MADS-box transcription factor family protein 
+AT1G77080.5	K-box region and MADS-box transcription factor family protein 
 AT1G77090	Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein
 AT1G77090.1	Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein
 AT1G77093	Defensin-like (DEFL) family protein
@@ -16774,12 +16774,12 @@ AT1G77138	other RNA
 AT1G77138.1	other RNA
 AT1G77140	vacuolar protein sorting 45
 AT1G77140.1	vacuolar protein sorting 45
-AT1G77145	Protein of unknown function (DUF506)
-AT1G77145.1	Protein of unknown function (DUF506)
+AT1G77145	Protein of unknown function (DUF506) 
+AT1G77145.1	Protein of unknown function (DUF506) 
 AT1G77150	Pentatricopeptide repeat (PPR) superfamily protein
 AT1G77150.1	Pentatricopeptide repeat (PPR) superfamily protein
-AT1G77160	Protein of unknown function (DUF506)
-AT1G77160.1	Protein of unknown function (DUF506)
+AT1G77160	Protein of unknown function (DUF506) 
+AT1G77160.1	Protein of unknown function (DUF506) 
 AT1G77170	Tetratricopeptide repeat (TPR)-like superfamily protein
 AT1G77170.1	Tetratricopeptide repeat (TPR)-like superfamily protein
 AT1G77180	chromatin protein family
@@ -17251,8 +17251,8 @@ AT1G79110.1	zinc ion binding
 AT1G79110.2	zinc ion binding
 AT1G79120	Ubiquitin carboxyl-terminal hydrolase family protein
 AT1G79120.1	Ubiquitin carboxyl-terminal hydrolase family protein
-AT1G79130	SAUR-like auxin-responsive protein family
-AT1G79130.1	SAUR-like auxin-responsive protein family
+AT1G79130	SAUR-like auxin-responsive protein family 
+AT1G79130.1	SAUR-like auxin-responsive protein family 
 AT1G79150	binding
 AT1G79150.1	binding
 AT1G79160.1	unknown protein
@@ -17833,8 +17833,8 @@ AT2G01422.1	unknown protein
 AT2G01422.2	unknown protein
 AT2G01430	homeobox-leucine zipper protein 17
 AT2G01430.1	homeobox-leucine zipper protein 17
-AT2G01440	DEAD/DEAH box RNA helicase family protein
-AT2G01440.1	DEAD/DEAH box RNA helicase family protein
+AT2G01440	DEAD/DEAH box RNA helicase family protein 
+AT2G01440.1	DEAD/DEAH box RNA helicase family protein 
 AT2G01450	MAP kinase 17
 AT2G01450.1	MAP kinase 17
 AT2G01450.2	MAP kinase 17
@@ -18362,10 +18362,10 @@ AT2G03690	coenzyme Q biosynthesis Coq4 family protein / ubiquinone biosynthesis 
 AT2G03690.1	coenzyme Q biosynthesis Coq4 family protein / ubiquinone biosynthesis Coq4 family protein
 AT2G03700	pre-tRNA
 AT2G03700.1	pre-tRNA
-AT2G03710	K-box region and MADS-box transcription factor family protein
-AT2G03710.1	K-box region and MADS-box transcription factor family protein
-AT2G03710.2	K-box region and MADS-box transcription factor family protein
-AT2G03710.3	K-box region and MADS-box transcription factor family protein
+AT2G03710	K-box region and MADS-box transcription factor family protein 
+AT2G03710.1	K-box region and MADS-box transcription factor family protein 
+AT2G03710.2	K-box region and MADS-box transcription factor family protein 
+AT2G03710.3	K-box region and MADS-box transcription factor family protein 
 AT2G03720	Adenine nucleotide alpha hydrolases-like superfamily protein
 AT2G03720.1	Adenine nucleotide alpha hydrolases-like superfamily protein
 AT2G03730	ACT domain repeat 5
@@ -21249,8 +21249,8 @@ AT2G16560.1	transposable element gene
 AT2G16570	GLN phosphoribosyl pyrophosphate amidotransferase 1
 AT2G16570.1	GLN phosphoribosyl pyrophosphate amidotransferase 1
 AT2G16575.1	unknown protein
-AT2G16580	SAUR-like auxin-responsive protein family
-AT2G16580.1	SAUR-like auxin-responsive protein family
+AT2G16580	SAUR-like auxin-responsive protein family 
+AT2G16580.1	SAUR-like auxin-responsive protein family 
 AT2G16586.1	unknown protein
 AT2G16592	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein
 AT2G16592.1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein
@@ -21618,8 +21618,8 @@ AT2G17990.1	unknown protein
 AT2G18000	TBP-associated factor 14
 AT2G18000.1	TBP-associated factor 14
 AT2G18000.2	TBP-associated factor 14
-AT2G18010	SAUR-like auxin-responsive protein family
-AT2G18010.1	SAUR-like auxin-responsive protein family
+AT2G18010	SAUR-like auxin-responsive protein family 
+AT2G18010.1	SAUR-like auxin-responsive protein family 
 AT2G18020	Ribosomal protein L2 family
 AT2G18020.1	Ribosomal protein L2 family
 AT2G18030	Peptide methionine sulfoxide reductase family protein
@@ -21663,8 +21663,8 @@ AT2G18190	P-loop containing nucleoside triphosphate hydrolases superfamily prote
 AT2G18190.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT2G18193	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT2G18193.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
-AT2G18196	Heavy metal transport/detoxification superfamily protein
-AT2G18196.1	Heavy metal transport/detoxification superfamily protein
+AT2G18196	Heavy metal transport/detoxification superfamily protein 
+AT2G18196.1	Heavy metal transport/detoxification superfamily protein 
 AT2G18200.1	unknown protein
 AT2G18210.1	unknown protein
 AT2G18220	Noc2p family
@@ -21799,8 +21799,8 @@ AT2G18790	phytochrome B
 AT2G18790.1	phytochrome B
 AT2G18800	xyloglucan endotransglucosylase/hydrolase 21
 AT2G18800.1	xyloglucan endotransglucosylase/hydrolase 21
-AT2G18810	Domain of unknown function (DUF313)
-AT2G18810.1	Domain of unknown function (DUF313)
+AT2G18810	Domain of unknown function (DUF313) 
+AT2G18810.1	Domain of unknown function (DUF313) 
 AT2G18820	transposable element gene
 AT2G18820.1	transposable element gene
 AT2G18830.1	unknown protein
@@ -22224,8 +22224,8 @@ AT2G20610.1	Tyrosine transaminase family protein
 AT2G20610.2	Tyrosine transaminase family protein
 AT2G20613	DNA-binding storekeeper protein-related transcriptional regulator
 AT2G20613.1	DNA-binding storekeeper protein-related transcriptional regulator
-AT2G20616	Family of unknown function (DUF566)
-AT2G20616.1	Family of unknown function (DUF566)
+AT2G20616	Family of unknown function (DUF566) 
+AT2G20616.1	Family of unknown function (DUF566) 
 AT2G20618	Plant thionin family protein
 AT2G20618.1	Plant thionin family protein
 AT2G20619	Plant thionin family protein
@@ -22244,8 +22244,8 @@ AT2G20650.1	RING/U-box superfamily protein
 AT2G20650.2	RING/U-box superfamily protein
 AT2G20660	ralf-like 14
 AT2G20660.1	ralf-like 14
-AT2G20670	Protein of unknown function (DUF506)
-AT2G20670.1	Protein of unknown function (DUF506)
+AT2G20670	Protein of unknown function (DUF506) 
+AT2G20670.1	Protein of unknown function (DUF506) 
 AT2G20680	Glycosyl hydrolase superfamily protein
 AT2G20680.1	Glycosyl hydrolase superfamily protein
 AT2G20690	lumazine-binding family protein
@@ -22288,9 +22288,9 @@ AT2G20800.1	NAD(P)H dehydrogenase B4
 AT2G20805.1	unknown protein
 AT2G20810	galacturonosyltransferase 10
 AT2G20810.1	galacturonosyltransferase 10
-AT2G20815	Family of unknown function (DUF566)
-AT2G20815.1	Family of unknown function (DUF566)
-AT2G20815.2	Family of unknown function (DUF566)
+AT2G20815	Family of unknown function (DUF566) 
+AT2G20815.1	Family of unknown function (DUF566) 
+AT2G20815.2	Family of unknown function (DUF566) 
 AT2G20816.1	unknown protein
 AT2G20818.1	unknown protein
 AT2G20820.1	unknown protein
@@ -22398,12 +22398,12 @@ AT2G21190.1	ER lumen protein retaining receptor family protein
 AT2G21195.1	unknown protein
 AT2G21195.2	unknown protein
 AT2G21195.3	unknown protein
-AT2G21200	SAUR-like auxin-responsive protein family
-AT2G21200.1	SAUR-like auxin-responsive protein family
-AT2G21210	SAUR-like auxin-responsive protein family
-AT2G21210.1	SAUR-like auxin-responsive protein family
-AT2G21220	SAUR-like auxin-responsive protein family
-AT2G21220.1	SAUR-like auxin-responsive protein family
+AT2G21200	SAUR-like auxin-responsive protein family 
+AT2G21200.1	SAUR-like auxin-responsive protein family 
+AT2G21210	SAUR-like auxin-responsive protein family 
+AT2G21210.1	SAUR-like auxin-responsive protein family 
+AT2G21220	SAUR-like auxin-responsive protein family 
+AT2G21220.1	SAUR-like auxin-responsive protein family 
 AT2G21230	Basic-leucine zipper (bZIP) transcription factor family protein
 AT2G21230.1	Basic-leucine zipper (bZIP) transcription factor family protein
 AT2G21230.2	Basic-leucine zipper (bZIP) transcription factor family protein
@@ -22487,8 +22487,8 @@ AT2G21510.1	DNAJ heat shock N-terminal domain-containing protein
 AT2G21520	Sec14p-like phosphatidylinositol transfer family protein
 AT2G21520.1	Sec14p-like phosphatidylinositol transfer family protein
 AT2G21520.2	Sec14p-like phosphatidylinositol transfer family protein
-AT2G21530	SMAD/FHA domain-containing protein
-AT2G21530.1	SMAD/FHA domain-containing protein
+AT2G21530	SMAD/FHA domain-containing protein 
+AT2G21530.1	SMAD/FHA domain-containing protein 
 AT2G21540	SEC14-like 3
 AT2G21540.1	SEC14-like 3
 AT2G21540.2	SEC14-like 3
@@ -22727,9 +22727,9 @@ AT2G22520.1	unknown protein
 AT2G22520.2	unknown protein
 AT2G22530	Alkaline-phosphatase-like family protein
 AT2G22530.1	Alkaline-phosphatase-like family protein
-AT2G22540	K-box region and MADS-box transcription factor family protein
-AT2G22540.1	K-box region and MADS-box transcription factor family protein
-AT2G22540.2	K-box region and MADS-box transcription factor family protein
+AT2G22540	K-box region and MADS-box transcription factor family protein 
+AT2G22540.1	K-box region and MADS-box transcription factor family protein 
+AT2G22540.2	K-box region and MADS-box transcription factor family protein 
 AT2G22560	Kinase interacting (KIP1-like) family protein
 AT2G22560.1	Kinase interacting (KIP1-like) family protein
 AT2G22570	nicotinamidase 1
@@ -23104,9 +23104,9 @@ AT2G24050	MIF4G domain-containing protein / MA3 domain-containing protein
 AT2G24050.1	MIF4G domain-containing protein / MA3 domain-containing protein
 AT2G24060	Translation initiation factor 3 protein
 AT2G24060.1	Translation initiation factor 3 protein
-AT2G24070	Family of unknown function (DUF566)
-AT2G24070.1	Family of unknown function (DUF566)
-AT2G24070.2	Family of unknown function (DUF566)
+AT2G24070	Family of unknown function (DUF566) 
+AT2G24070.1	Family of unknown function (DUF566) 
+AT2G24070.2	Family of unknown function (DUF566) 
 AT2G24080	Protein of unknown function (DUF295)
 AT2G24080.1	Protein of unknown function (DUF295)
 AT2G24090	Ribosomal protein L35
@@ -23188,8 +23188,8 @@ AT2G24390.2	AIG2-like (avirulence induced gene) family protein
 AT2G24390.3	AIG2-like (avirulence induced gene) family protein
 AT2G24395	chaperone protein dnaJ-related
 AT2G24395.1	chaperone protein dnaJ-related
-AT2G24400	SAUR-like auxin-responsive protein family
-AT2G24400.1	SAUR-like auxin-responsive protein family
+AT2G24400	SAUR-like auxin-responsive protein family 
+AT2G24400.1	SAUR-like auxin-responsive protein family 
 AT2G24410.1	unknown protein
 AT2G24420	DNA repair ATPase-related
 AT2G24420.1	DNA repair ATPase-related
@@ -23257,8 +23257,8 @@ AT2G24650	DNA binding;DNA binding;sequence-specific DNA binding transcription fa
 AT2G24650.1	DNA binding;DNA binding;sequence-specific DNA binding transcription factors
 AT2G24660	transposable element gene
 AT2G24660.1	transposable element gene
-AT2G24670	Domain of unknown function (DUF313)
-AT2G24670.1	Domain of unknown function (DUF313)
+AT2G24670	Domain of unknown function (DUF313) 
+AT2G24670.1	Domain of unknown function (DUF313) 
 AT2G24680	transcriptional factor B3 family protein
 AT2G24680.1	transcriptional factor B3 family protein
 AT2G24680.2	transcriptional factor B3 family protein
@@ -23957,8 +23957,8 @@ AT2G27395.1	unknown protein
 AT2G27400	TAS1A; other RNA
 AT2G27400.1	TAS1A; other RNA
 AT2G27402.1	unknown protein
-AT2G27410	Domain of unknown function (DUF313)
-AT2G27410.1	Domain of unknown function (DUF313)
+AT2G27410	Domain of unknown function (DUF313) 
+AT2G27410.1	Domain of unknown function (DUF313) 
 AT2G27420	Cysteine proteinases superfamily protein
 AT2G27420.1	Cysteine proteinases superfamily protein
 AT2G27430	ARM repeat superfamily protein
@@ -24033,8 +24033,8 @@ AT2G27720.2	60S acidic ribosomal protein family
 AT2G27720.3	60S acidic ribosomal protein family
 AT2G27730	copper ion binding
 AT2G27730.1	copper ion binding
-AT2G27740	Family of unknown function (DUF662)
-AT2G27740.1	Family of unknown function (DUF662)
+AT2G27740	Family of unknown function (DUF662) 
+AT2G27740.1	Family of unknown function (DUF662) 
 AT2G27750	Surfeit locus protein 6
 AT2G27750.1	Surfeit locus protein 6
 AT2G27760	tRNAisopentenyltransferase 2
@@ -24112,10 +24112,10 @@ AT2G28070	ABC-2 type transporter family protein
 AT2G28070.1	ABC-2 type transporter family protein
 AT2G28080	UDP-Glycosyltransferase superfamily protein
 AT2G28080.1	UDP-Glycosyltransferase superfamily protein
-AT2G28085	SAUR-like auxin-responsive protein family
-AT2G28085.1	SAUR-like auxin-responsive protein family
-AT2G28090	Heavy metal transport/detoxification superfamily protein
-AT2G28090.1	Heavy metal transport/detoxification superfamily protein
+AT2G28085	SAUR-like auxin-responsive protein family 
+AT2G28085.1	SAUR-like auxin-responsive protein family 
+AT2G28090	Heavy metal transport/detoxification superfamily protein 
+AT2G28090.1	Heavy metal transport/detoxification superfamily protein 
 AT2G28100	alpha-L-fucosidase 1
 AT2G28100.1	alpha-L-fucosidase 1
 AT2G28105.1	unknown protein
@@ -24430,8 +24430,8 @@ AT2G29410	metal tolerance protein B1
 AT2G29410.1	metal tolerance protein B1
 AT2G29420	glutathione S-transferase tau 7
 AT2G29420.1	glutathione S-transferase tau 7
-AT2G29430	Family of unknown function (DUF572)
-AT2G29430.1	Family of unknown function (DUF572)
+AT2G29430	Family of unknown function (DUF572) 
+AT2G29430.1	Family of unknown function (DUF572) 
 AT2G29440	glutathione S-transferase tau 6
 AT2G29440.1	glutathione S-transferase tau 6
 AT2G29450	glutathione S-transferase tau  5
@@ -24923,8 +24923,8 @@ AT2G31390.1	pfkB-like carbohydrate kinase family protein
 AT2G31400	genomes uncoupled 1
 AT2G31400.1	genomes uncoupled 1
 AT2G31410.1	unknown protein
-AT2G31420	Domain of unknown function (DUF313)
-AT2G31420.1	Domain of unknown function (DUF313)
+AT2G31420	Domain of unknown function (DUF313) 
+AT2G31420.1	Domain of unknown function (DUF313) 
 AT2G31425	Plant invertase/pectin methylesterase inhibitor superfamily protein
 AT2G31425.1	Plant invertase/pectin methylesterase inhibitor superfamily protein
 AT2G31430	Plant invertase/pectin methylesterase inhibitor superfamily protein
@@ -24935,8 +24935,8 @@ AT2G31440.1	unknown protein
 AT2G31450	DNA glycosylase superfamily protein
 AT2G31450.1	DNA glycosylase superfamily protein
 AT2G31450.2	DNA glycosylase superfamily protein
-AT2G31460	Domain of unknown function (DUF313)
-AT2G31460.1	Domain of unknown function (DUF313)
+AT2G31460	Domain of unknown function (DUF313) 
+AT2G31460.1	Domain of unknown function (DUF313) 
 AT2G31470	F-box and associated interaction domains-containing protein
 AT2G31470.1	F-box and associated interaction domains-containing protein
 AT2G31480.1	unknown protein
@@ -24984,8 +24984,8 @@ AT2G31690.1	alpha/beta-Hydrolases superfamily protein
 AT2G31700.1	unknown protein
 AT2G31710	Vacuolar ATPase assembly integral membrane protein VMA21-like domain
 AT2G31710.1	Vacuolar ATPase assembly integral membrane protein VMA21-like domain
-AT2G31720	Domain of unknown function (DUF313)
-AT2G31720.1	Domain of unknown function (DUF313)
+AT2G31720	Domain of unknown function (DUF313) 
+AT2G31720.1	Domain of unknown function (DUF313) 
 AT2G31725	Eukaryotic protein of unknown function (DUF842)
 AT2G31725.1	Eukaryotic protein of unknown function (DUF842)
 AT2G31730	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
@@ -25072,8 +25072,8 @@ AT2G32030	Acyl-CoA N-acyltransferases (NAT) superfamily protein
 AT2G32030.1	Acyl-CoA N-acyltransferases (NAT) superfamily protein
 AT2G32040	Major facilitator superfamily protein
 AT2G32040.1	Major facilitator superfamily protein
-AT2G32050	Family of unknown function (DUF572)
-AT2G32050.1	Family of unknown function (DUF572)
+AT2G32050	Family of unknown function (DUF572) 
+AT2G32050.1	Family of unknown function (DUF572) 
 AT2G32060	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein
 AT2G32060.1	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein
 AT2G32060.2	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein
@@ -25219,8 +25219,8 @@ AT2G32630.1	Pentatricopeptide repeat (PPR-like) superfamily protein
 AT2G32640	Lycopene beta/epsilon cyclase protein
 AT2G32640.1	Lycopene beta/epsilon cyclase protein
 AT2G32640.2	Lycopene beta/epsilon cyclase protein
-AT2G32645	Domain of unknown function (DUF313)
-AT2G32645.1	Domain of unknown function (DUF313)
+AT2G32645	Domain of unknown function (DUF313) 
+AT2G32645.1	Domain of unknown function (DUF313) 
 AT2G32650	RmlC-like cupins superfamily protein
 AT2G32650.1	RmlC-like cupins superfamily protein
 AT2G32650.2	RmlC-like cupins superfamily protein
@@ -25302,8 +25302,8 @@ AT2G32890	RALF-like 17
 AT2G32890.1	RALF-like 17
 AT2G32900	centromere/kinetochore protein, putative (ZW10)
 AT2G32900.1	centromere/kinetochore protein, putative (ZW10)
-AT2G32905	Domain of unknown function (DUF313)
-AT2G32905.1	Domain of unknown function (DUF313)
+AT2G32905	Domain of unknown function (DUF313) 
+AT2G32905.1	Domain of unknown function (DUF313) 
 AT2G32910	DCD (Development and Cell Death) domain protein
 AT2G32910.1	DCD (Development and Cell Death) domain protein
 AT2G32920	PDI-like 2-3
@@ -26008,8 +26008,8 @@ AT2G35710.2	Nucleotide-diphospho-sugar transferases superfamily protein
 AT2G35710.3	Nucleotide-diphospho-sugar transferases superfamily protein
 AT2G35720	DNAJ heat shock N-terminal domain-containing protein
 AT2G35720.1	DNAJ heat shock N-terminal domain-containing protein
-AT2G35730	Heavy metal transport/detoxification superfamily protein
-AT2G35730.1	Heavy metal transport/detoxification superfamily protein
+AT2G35730	Heavy metal transport/detoxification superfamily protein 
+AT2G35730.1	Heavy metal transport/detoxification superfamily protein 
 AT2G35733.1	unknown protein
 AT2G35736.1	unknown protein
 AT2G35736.2	unknown protein
@@ -26133,8 +26133,8 @@ AT2G36190.1	cell wall invertase 4
 AT2G36200	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT2G36200.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT2G36200.2	P-loop containing nucleoside triphosphate hydrolases superfamily protein
-AT2G36210	SAUR-like auxin-responsive protein family
-AT2G36210.1	SAUR-like auxin-responsive protein family
+AT2G36210	SAUR-like auxin-responsive protein family 
+AT2G36210.1	SAUR-like auxin-responsive protein family 
 AT2G36220.1	unknown protein
 AT2G36230	Aldolase-type TIM barrel family protein
 AT2G36230.1	Aldolase-type TIM barrel family protein
@@ -26173,10 +26173,10 @@ AT2G36340	DNA-binding storekeeper protein-related transcriptional regulator
 AT2G36340.1	DNA-binding storekeeper protein-related transcriptional regulator
 AT2G36350	Protein kinase superfamily protein
 AT2G36350.1	Protein kinase superfamily protein
-AT2G36355	Family of unknown function (DUF662)
-AT2G36355.1	Family of unknown function (DUF662)
-AT2G36355.2	Family of unknown function (DUF662)
-AT2G36355.3	Family of unknown function (DUF662)
+AT2G36355	Family of unknown function (DUF662) 
+AT2G36355.1	Family of unknown function (DUF662) 
+AT2G36355.2	Family of unknown function (DUF662) 
+AT2G36355.3	Family of unknown function (DUF662) 
 AT2G36360	Galactose oxidase/kelch repeat superfamily protein
 AT2G36360.1	Galactose oxidase/kelch repeat superfamily protein
 AT2G36360.2	Galactose oxidase/kelch repeat superfamily protein
@@ -26193,10 +26193,10 @@ AT2G36400	growth-regulating factor 3
 AT2G36400.1	growth-regulating factor 3
 AT2G36402	transposable element gene
 AT2G36402.1	transposable element gene
-AT2G36410	Family of unknown function (DUF662)
-AT2G36410.1	Family of unknown function (DUF662)
-AT2G36410.2	Family of unknown function (DUF662)
-AT2G36410.3	Family of unknown function (DUF662)
+AT2G36410	Family of unknown function (DUF662) 
+AT2G36410.1	Family of unknown function (DUF662) 
+AT2G36410.2	Family of unknown function (DUF662) 
+AT2G36410.3	Family of unknown function (DUF662) 
 AT2G36420.1	unknown protein
 AT2G36430	Plant protein of unknown function (DUF247)
 AT2G36430.1	Plant protein of unknown function (DUF247)
@@ -26324,8 +26324,8 @@ AT2G36920.1	unknown protein
 AT2G36930	zinc finger (C2H2 type) family protein
 AT2G36930.1	zinc finger (C2H2 type) family protein
 AT2G36940.1	unknown protein
-AT2G36950	Heavy metal transport/detoxification superfamily protein
-AT2G36950.1	Heavy metal transport/detoxification superfamily protein
+AT2G36950	Heavy metal transport/detoxification superfamily protein 
+AT2G36950.1	Heavy metal transport/detoxification superfamily protein 
 AT2G36960	TSL-kinase interacting protein 1
 AT2G36960.1	TSL-kinase interacting protein 1
 AT2G36960.2	TSL-kinase interacting protein 1
@@ -26338,8 +26338,8 @@ AT2G36985	DVL family protein
 AT2G36985.1	DVL family protein
 AT2G36990	RNApolymerase sigma-subunit F
 AT2G36990.1	RNApolymerase sigma-subunit F
-AT2G37000	TCP family transcription factor
-AT2G37000.1	TCP family transcription factor
+AT2G37000	TCP family transcription factor 
+AT2G37000.1	TCP family transcription factor 
 AT2G37010	non-intrinsic ABC protein 12
 AT2G37010.1	non-intrinsic ABC protein 12
 AT2G37020	Translin family protein
@@ -26348,8 +26348,8 @@ AT2G37020.2	Translin family protein
 AT2G37025	TRF-like 8
 AT2G37025.1	TRF-like 8
 AT2G37025.2	TRF-like 8
-AT2G37030	SAUR-like auxin-responsive protein family
-AT2G37030.1	SAUR-like auxin-responsive protein family
+AT2G37030	SAUR-like auxin-responsive protein family 
+AT2G37030.1	SAUR-like auxin-responsive protein family 
 AT2G37035.1	unknown protein
 AT2G37040	PHE ammonia lyase 1
 AT2G37040.1	PHE ammonia lyase 1
@@ -26718,8 +26718,8 @@ AT2G38580	Mitochondrial ATP synthase D chain-related protein
 AT2G38580.1	Mitochondrial ATP synthase D chain-related protein
 AT2G38590	F-box and associated interaction domains-containing protein
 AT2G38590.1	F-box and associated interaction domains-containing protein
-AT2G38600	HAD superfamily, subfamily IIIB acid phosphatase
-AT2G38600.1	HAD superfamily, subfamily IIIB acid phosphatase
+AT2G38600	HAD superfamily, subfamily IIIB acid phosphatase 
+AT2G38600.1	HAD superfamily, subfamily IIIB acid phosphatase 
 AT2G38610	RNA-binding KH domain-containing protein
 AT2G38610.1	RNA-binding KH domain-containing protein
 AT2G38610.2	RNA-binding KH domain-containing protein
@@ -26772,9 +26772,9 @@ AT2G38810	histone H2A 8
 AT2G38810.1	histone H2A 8
 AT2G38810.2	histone H2A 8
 AT2G38810.3	histone H2A 8
-AT2G38820	Protein of unknown function (DUF506)
-AT2G38820.1	Protein of unknown function (DUF506)
-AT2G38820.2	Protein of unknown function (DUF506)
+AT2G38820	Protein of unknown function (DUF506) 
+AT2G38820.1	Protein of unknown function (DUF506) 
+AT2G38820.2	Protein of unknown function (DUF506) 
 AT2G38823.1	unknown protein
 AT2G38830	Ubiquitin-conjugating enzyme/RWD-like protein
 AT2G38830.1	Ubiquitin-conjugating enzyme/RWD-like protein
@@ -26904,8 +26904,8 @@ AT2G39360.1	Protein kinase superfamily protein
 AT2G39370.1	unknown protein
 AT2G39380	exocyst subunit exo70 family protein H2
 AT2G39380.1	exocyst subunit exo70 family protein H2
-AT2G39390	Ribosomal L29 family protein
-AT2G39390.1	Ribosomal L29 family protein
+AT2G39390	Ribosomal L29 family protein 
+AT2G39390.1	Ribosomal L29 family protein 
 AT2G39400	alpha/beta-Hydrolases superfamily protein
 AT2G39400.1	alpha/beta-Hydrolases superfamily protein
 AT2G39410	alpha/beta-Hydrolases superfamily protein
@@ -26966,8 +26966,8 @@ AT2G39630.1	Nucleotide-diphospho-sugar transferases superfamily protein
 AT2G39630.2	Nucleotide-diphospho-sugar transferases superfamily protein
 AT2G39640	glycosyl hydrolase family 17 protein
 AT2G39640.1	glycosyl hydrolase family 17 protein
-AT2G39650	Protein of unknown function (DUF506)
-AT2G39650.1	Protein of unknown function (DUF506)
+AT2G39650	Protein of unknown function (DUF506) 
+AT2G39650.1	Protein of unknown function (DUF506) 
 AT2G39660	botrytis-induced kinase1
 AT2G39660.1	botrytis-induced kinase1
 AT2G39670	Radical SAM superfamily protein
@@ -27050,10 +27050,10 @@ AT2G39900	GATA type zinc finger transcription factor family protein
 AT2G39900.1	GATA type zinc finger transcription factor family protein
 AT2G39910	ARM repeat superfamily protein
 AT2G39910.1	ARM repeat superfamily protein
-AT2G39920	HAD superfamily, subfamily IIIB acid phosphatase
-AT2G39920.1	HAD superfamily, subfamily IIIB acid phosphatase
-AT2G39920.2	HAD superfamily, subfamily IIIB acid phosphatase
-AT2G39920.3	HAD superfamily, subfamily IIIB acid phosphatase
+AT2G39920	HAD superfamily, subfamily IIIB acid phosphatase 
+AT2G39920.1	HAD superfamily, subfamily IIIB acid phosphatase 
+AT2G39920.2	HAD superfamily, subfamily IIIB acid phosphatase 
+AT2G39920.3	HAD superfamily, subfamily IIIB acid phosphatase 
 AT2G39930	isoamylase 1
 AT2G39930.1	isoamylase 1
 AT2G39940	RNI-like superfamily protein
@@ -27772,9 +27772,9 @@ AT2G42810.1	protein phosphatase 5.2
 AT2G42810.2	protein phosphatase 5.2
 AT2G42820	HVA22-like protein F
 AT2G42820.1	HVA22-like protein F
-AT2G42830	K-box region and MADS-box transcription factor family protein
-AT2G42830.1	K-box region and MADS-box transcription factor family protein
-AT2G42830.2	K-box region and MADS-box transcription factor family protein
+AT2G42830	K-box region and MADS-box transcription factor family protein 
+AT2G42830.1	K-box region and MADS-box transcription factor family protein 
+AT2G42830.2	K-box region and MADS-box transcription factor family protein 
 AT2G42835	other RNA
 AT2G42835.1	other RNA
 AT2G42840	protodermal factor 1
@@ -28131,8 +28131,8 @@ AT2G44175	Acyl-CoA N-acyltransferases (NAT) superfamily protein
 AT2G44175.1	Acyl-CoA N-acyltransferases (NAT) superfamily protein
 AT2G44180	methionine aminopeptidase 2A
 AT2G44180.1	methionine aminopeptidase 2A
-AT2G44190	Family of unknown function (DUF566)
-AT2G44190.1	Family of unknown function (DUF566)
+AT2G44190	Family of unknown function (DUF566) 
+AT2G44190.1	Family of unknown function (DUF566) 
 AT2G44195	CBF1-interacting co-repressor CIR, N-terminal;Pre-mRNA splicing factor
 AT2G44195.1	CBF1-interacting co-repressor CIR, N-terminal;Pre-mRNA splicing factor
 AT2G44198.1	unknown protein
@@ -28382,8 +28382,8 @@ AT2G45190.1	Plant-specific transcription factor YABBY family protein
 AT2G45200	golgi snare 12
 AT2G45200.1	golgi snare 12
 AT2G45200.2	golgi snare 12
-AT2G45210	SAUR-like auxin-responsive protein family
-AT2G45210.1	SAUR-like auxin-responsive protein family
+AT2G45210	SAUR-like auxin-responsive protein family 
+AT2G45210.1	SAUR-like auxin-responsive protein family 
 AT2G45220	Plant invertase/pectin methylesterase inhibitor superfamily
 AT2G45220.1	Plant invertase/pectin methylesterase inhibitor superfamily
 AT2G45230	transposable element gene
@@ -28445,10 +28445,10 @@ AT2G45440	dihydrodipicolinate synthase
 AT2G45440.1	dihydrodipicolinate synthase
 AT2G45450	protein binding
 AT2G45450.1	protein binding
-AT2G45460	SMAD/FHA domain-containing protein
-AT2G45460.1	SMAD/FHA domain-containing protein
-AT2G45460.2	SMAD/FHA domain-containing protein
-AT2G45460.3	SMAD/FHA domain-containing protein
+AT2G45460	SMAD/FHA domain-containing protein 
+AT2G45460.1	SMAD/FHA domain-containing protein 
+AT2G45460.2	SMAD/FHA domain-containing protein 
+AT2G45460.3	SMAD/FHA domain-containing protein 
 AT2G45470	FASCICLIN-like arabinogalactan protein 8
 AT2G45470.1	FASCICLIN-like arabinogalactan protein 8
 AT2G45480	growth-regulating factor 9
@@ -28496,8 +28496,8 @@ AT2G45660.1	AGAMOUS-like 20
 AT2G45670	calcineurin B subunit-related
 AT2G45670.1	calcineurin B subunit-related
 AT2G45670.2	calcineurin B subunit-related
-AT2G45680	TCP family transcription factor
-AT2G45680.1	TCP family transcription factor
+AT2G45680	TCP family transcription factor 
+AT2G45680.1	TCP family transcription factor 
 AT2G45685	other RNA
 AT2G45685.1	other RNA
 AT2G45690	shrunken seed protein (SSE1)
@@ -28755,8 +28755,8 @@ AT2G46680.1	homeobox 7
 AT2G46680.2	homeobox 7
 AT2G46685	MIR166/MIR166A; miRNA
 AT2G46685.1	MIR166/MIR166A; miRNA
-AT2G46690	SAUR-like auxin-responsive protein family
-AT2G46690.1	SAUR-like auxin-responsive protein family
+AT2G46690	SAUR-like auxin-responsive protein family 
+AT2G46690.1	SAUR-like auxin-responsive protein family 
 AT2G46700	CDPK-related kinase 3
 AT2G46700.1	CDPK-related kinase 3
 AT2G46700.2	CDPK-related kinase 3
@@ -29216,9 +29216,9 @@ AT3G01345	Expressed protein
 AT3G01345.1	Expressed protein
 AT3G01350	Major facilitator superfamily protein
 AT3G01350.1	Major facilitator superfamily protein
-AT3G01360	Family of unknown function (DUF716)
-AT3G01360.1	Family of unknown function (DUF716)
-AT3G01360.2	Family of unknown function (DUF716)
+AT3G01360	Family of unknown function (DUF716) 
+AT3G01360.1	Family of unknown function (DUF716) 
+AT3G01360.2	Family of unknown function (DUF716) 
 AT3G01370	CRM family member 2
 AT3G01370.1	CRM family member 2
 AT3G01380	transferases;sulfuric ester hydrolases;catalytics;transferases
@@ -29442,8 +29442,8 @@ AT3G02290.1	RING/U-box superfamily protein
 AT3G02290.2	RING/U-box superfamily protein
 AT3G02300	Regulator of chromosome condensation (RCC1) family protein
 AT3G02300.1	Regulator of chromosome condensation (RCC1) family protein
-AT3G02310	K-box region and MADS-box transcription factor family protein
-AT3G02310.1	K-box region and MADS-box transcription factor family protein
+AT3G02310	K-box region and MADS-box transcription factor family protein 
+AT3G02310.1	K-box region and MADS-box transcription factor family protein 
 AT3G02315	pre-tRNA
 AT3G02315.1	pre-tRNA
 AT3G02320	N2,N2-dimethylguanosine tRNA methyltransferase
@@ -29465,8 +29465,8 @@ AT3G02380	CONSTANS-like 2
 AT3G02380.1	CONSTANS-like 2
 AT3G02390.1	unknown protein
 AT3G02390.2	unknown protein
-AT3G02400	SMAD/FHA domain-containing protein
-AT3G02400.1	SMAD/FHA domain-containing protein
+AT3G02400	SMAD/FHA domain-containing protein 
+AT3G02400.1	SMAD/FHA domain-containing protein 
 AT3G02410	alpha/beta-Hydrolases superfamily protein
 AT3G02410.1	alpha/beta-Hydrolases superfamily protein
 AT3G02410.2	alpha/beta-Hydrolases superfamily protein
@@ -29609,8 +29609,8 @@ AT3G02940	myb domain protein 107
 AT3G02940.1	myb domain protein 107
 AT3G02950	Tho complex subunit 7/Mft1p
 AT3G02950.1	Tho complex subunit 7/Mft1p
-AT3G02960	Heavy metal transport/detoxification superfamily protein
-AT3G02960.1	Heavy metal transport/detoxification superfamily protein
+AT3G02960	Heavy metal transport/detoxification superfamily protein 
+AT3G02960.1	Heavy metal transport/detoxification superfamily protein 
 AT3G02970	EXORDIUM like 6
 AT3G02970.1	EXORDIUM like 6
 AT3G02980	MEIOTIC CONTROL OF CROSSOVERS1
@@ -29804,20 +29804,20 @@ AT3G03800	syntaxin of plants 131
 AT3G03800.1	syntaxin of plants 131
 AT3G03810	O-fucosyltransferase family protein
 AT3G03810.1	O-fucosyltransferase family protein
-AT3G03820	SAUR-like auxin-responsive protein family
-AT3G03820.1	SAUR-like auxin-responsive protein family
+AT3G03820	SAUR-like auxin-responsive protein family 
+AT3G03820.1	SAUR-like auxin-responsive protein family 
 AT3G03826.1	unknown protein
 AT3G03828.1	unknown protein
-AT3G03830	SAUR-like auxin-responsive protein family
-AT3G03830.1	SAUR-like auxin-responsive protein family
-AT3G03840	SAUR-like auxin-responsive protein family
-AT3G03840.1	SAUR-like auxin-responsive protein family
+AT3G03830	SAUR-like auxin-responsive protein family 
+AT3G03830.1	SAUR-like auxin-responsive protein family 
+AT3G03840	SAUR-like auxin-responsive protein family 
+AT3G03840.1	SAUR-like auxin-responsive protein family 
 AT3G03845	pre-tRNA
 AT3G03845.1	pre-tRNA
-AT3G03847	SAUR-like auxin-responsive protein family
-AT3G03847.1	SAUR-like auxin-responsive protein family
-AT3G03850	SAUR-like auxin-responsive protein family
-AT3G03850.1	SAUR-like auxin-responsive protein family
+AT3G03847	SAUR-like auxin-responsive protein family 
+AT3G03847.1	SAUR-like auxin-responsive protein family 
+AT3G03850	SAUR-like auxin-responsive protein family 
+AT3G03850.1	SAUR-like auxin-responsive protein family 
 AT3G03852	pre-tRNA
 AT3G03852.1	pre-tRNA
 AT3G03855.1	unknown protein
@@ -30077,8 +30077,8 @@ AT3G04880.1	DNA-damage-repair/toleration protein (DRT102)
 AT3G04890	Uncharacterized conserved protein (DUF2358)
 AT3G04890.1	Uncharacterized conserved protein (DUF2358)
 AT3G04890.2	Uncharacterized conserved protein (DUF2358)
-AT3G04900	Heavy metal transport/detoxification superfamily protein
-AT3G04900.1	Heavy metal transport/detoxification superfamily protein
+AT3G04900	Heavy metal transport/detoxification superfamily protein 
+AT3G04900.1	Heavy metal transport/detoxification superfamily protein 
 AT3G04903	Defensin-like (DEFL) family protein
 AT3G04903.1	Defensin-like (DEFL) family protein
 AT3G04910	with no lysine (K) kinase 1
@@ -30164,9 +30164,9 @@ AT3G05200	RING/U-box superfamily protein
 AT3G05200.1	RING/U-box superfamily protein
 AT3G05210	nucleotide repair protein, putative
 AT3G05210.1	nucleotide repair protein, putative
-AT3G05220	Heavy metal transport/detoxification superfamily protein
-AT3G05220.1	Heavy metal transport/detoxification superfamily protein
-AT3G05220.2	Heavy metal transport/detoxification superfamily protein
+AT3G05220	Heavy metal transport/detoxification superfamily protein 
+AT3G05220.1	Heavy metal transport/detoxification superfamily protein 
+AT3G05220.2	Heavy metal transport/detoxification superfamily protein 
 AT3G05230	Signal peptidase subunit
 AT3G05230.1	Signal peptidase subunit
 AT3G05230.2	Signal peptidase subunit
@@ -30355,8 +30355,8 @@ AT3G05905.1	other RNA
 AT3G05910	Pectinacetylesterase family protein
 AT3G05910.1	Pectinacetylesterase family protein
 AT3G05910.2	Pectinacetylesterase family protein
-AT3G05920	Heavy metal transport/detoxification superfamily protein
-AT3G05920.1	Heavy metal transport/detoxification superfamily protein
+AT3G05920	Heavy metal transport/detoxification superfamily protein 
+AT3G05920.1	Heavy metal transport/detoxification superfamily protein 
 AT3G05930	germin-like protein 8
 AT3G05930.1	germin-like protein 8
 AT3G05932.1	unknown protein
@@ -30414,9 +30414,9 @@ AT3G06125	other RNA
 AT3G06125.1	other RNA
 AT3G06125.2	other RNA
 AT3G06125.3	other RNA
-AT3G06130	Heavy metal transport/detoxification superfamily protein
-AT3G06130.1	Heavy metal transport/detoxification superfamily protein
-AT3G06130.2	Heavy metal transport/detoxification superfamily protein
+AT3G06130	Heavy metal transport/detoxification superfamily protein 
+AT3G06130.1	Heavy metal transport/detoxification superfamily protein 
+AT3G06130.2	Heavy metal transport/detoxification superfamily protein 
 AT3G06140	RING/U-box superfamily protein
 AT3G06140.1	RING/U-box superfamily protein
 AT3G06142.1	unknown protein
@@ -30691,8 +30691,8 @@ AT3G07180.2	GPI transamidase component PIG-S-related
 AT3G07180.3	GPI transamidase component PIG-S-related
 AT3G07185	pre-tRNA
 AT3G07185.1	pre-tRNA
-AT3G07190	B-cell receptor-associated protein 31-like
-AT3G07190.1	B-cell receptor-associated protein 31-like
+AT3G07190	B-cell receptor-associated protein 31-like 
+AT3G07190.1	B-cell receptor-associated protein 31-like 
 AT3G07195	RPM1-interacting protein 4 (RIN4) family protein
 AT3G07195.1	RPM1-interacting protein 4 (RIN4) family protein
 AT3G07200	RING/U-box superfamily protein
@@ -30704,14 +30704,14 @@ AT3G07215.1	other RNA
 AT3G07215.2	other RNA
 AT3G07215.3	other RNA
 AT3G07215.4	unknown protein
-AT3G07220	SMAD/FHA domain-containing protein
-AT3G07220.1	SMAD/FHA domain-containing protein
+AT3G07220	SMAD/FHA domain-containing protein 
+AT3G07220.1	SMAD/FHA domain-containing protein 
 AT3G07230	wound-responsive protein-related
 AT3G07230.1	wound-responsive protein-related
 AT3G07250	nuclear transport factor 2 (NTF2) family protein / RNA recognition motif (RRM)-containing protein
 AT3G07250.1	nuclear transport factor 2 (NTF2) family protein / RNA recognition motif (RRM)-containing protein
-AT3G07260	SMAD/FHA domain-containing protein
-AT3G07260.1	SMAD/FHA domain-containing protein
+AT3G07260	SMAD/FHA domain-containing protein 
+AT3G07260.1	SMAD/FHA domain-containing protein 
 AT3G07270	GTP cyclohydrolase I
 AT3G07270.1	GTP cyclohydrolase I
 AT3G07270.2	GTP cyclohydrolase I
@@ -30732,8 +30732,8 @@ AT3G07330	Cellulose-synthase-like C6
 AT3G07330.1	Cellulose-synthase-like C6
 AT3G07340	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
 AT3G07340.1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
-AT3G07350	Protein of unknown function (DUF506)
-AT3G07350.1	Protein of unknown function (DUF506)
+AT3G07350	Protein of unknown function (DUF506) 
+AT3G07350.1	Protein of unknown function (DUF506) 
 AT3G07360	plant U-box 9
 AT3G07360.1	plant U-box 9
 AT3G07360.2	plant U-box 9
@@ -30796,8 +30796,8 @@ AT3G07580.2	unknown protein
 AT3G07590	Small nuclear ribonucleoprotein family protein
 AT3G07590.1	Small nuclear ribonucleoprotein family protein
 AT3G07590.2	Small nuclear ribonucleoprotein family protein
-AT3G07600	Heavy metal transport/detoxification superfamily protein
-AT3G07600.1	Heavy metal transport/detoxification superfamily protein
+AT3G07600	Heavy metal transport/detoxification superfamily protein 
+AT3G07600.1	Heavy metal transport/detoxification superfamily protein 
 AT3G07610	Transcription factor jumonji (jmjC) domain-containing protein
 AT3G07610.1	Transcription factor jumonji (jmjC) domain-containing protein
 AT3G07610.2	Transcription factor jumonji (jmjC) domain-containing protein
@@ -31137,8 +31137,8 @@ AT3G09480	Histone superfamily protein
 AT3G09480.1	Histone superfamily protein
 AT3G09490	Tetratricopeptide repeat (TPR)-like superfamily protein
 AT3G09490.1	Tetratricopeptide repeat (TPR)-like superfamily protein
-AT3G09500	Ribosomal L29 family protein
-AT3G09500.1	Ribosomal L29 family protein
+AT3G09500	Ribosomal L29 family protein 
+AT3G09500.1	Ribosomal L29 family protein 
 AT3G09505	pre-tRNA
 AT3G09505.1	pre-tRNA
 AT3G09510	Ribonuclease H-like superfamily protein
@@ -31228,8 +31228,8 @@ AT3G09850	D111/G-patch domain-containing protein
 AT3G09850.1	D111/G-patch domain-containing protein
 AT3G09860.1	unknown protein
 AT3G09863.1	unknown protein
-AT3G09870	SAUR-like auxin-responsive protein family
-AT3G09870.1	SAUR-like auxin-responsive protein family
+AT3G09870	SAUR-like auxin-responsive protein family 
+AT3G09870.1	SAUR-like auxin-responsive protein family 
 AT3G09880	Protein phosphatase 2A regulatory B subunit family protein
 AT3G09880.1	Protein phosphatase 2A regulatory B subunit family protein
 AT3G09890	Ankyrin repeat family protein
@@ -31261,8 +31261,8 @@ AT3G09960.1	Calcineurin-like metallo-phosphoesterase superfamily protein
 AT3G09970	Calcineurin-like metallo-phosphoesterase superfamily protein
 AT3G09970.1	Calcineurin-like metallo-phosphoesterase superfamily protein
 AT3G09975.1	unknown protein
-AT3G09980	Family of unknown function (DUF662)
-AT3G09980.1	Family of unknown function (DUF662)
+AT3G09980	Family of unknown function (DUF662) 
+AT3G09980.1	Family of unknown function (DUF662) 
 AT3G09990	Nucleoside transporter family protein
 AT3G09990.1	Nucleoside transporter family protein
 AT3G10000	Homeodomain-like superfamily protein
@@ -31538,8 +31538,8 @@ AT3G11020	DRE/CRT-binding protein 2B
 AT3G11020.1	DRE/CRT-binding protein 2B
 AT3G11030	TRICHOME BIREFRINGENCE-LIKE 32
 AT3G11030.1	TRICHOME BIREFRINGENCE-LIKE 32
-AT3G11040	Glycosyl hydrolase family 85
-AT3G11040.1	Glycosyl hydrolase family 85
+AT3G11040	Glycosyl hydrolase family 85 
+AT3G11040.1	Glycosyl hydrolase family 85 
 AT3G11050	ferritin 2
 AT3G11050.1	ferritin 2
 AT3G11060.1	unknown protein
@@ -31975,8 +31975,8 @@ AT3G12810	SNF2 domain-containing protein / helicase domain-containing protein
 AT3G12810.1	SNF2 domain-containing protein / helicase domain-containing protein
 AT3G12820	myb domain protein 10
 AT3G12820.1	myb domain protein 10
-AT3G12830	SAUR-like auxin-responsive protein family
-AT3G12830.1	SAUR-like auxin-responsive protein family
+AT3G12830	SAUR-like auxin-responsive protein family 
+AT3G12830.1	SAUR-like auxin-responsive protein family 
 AT3G12835.1	unknown protein
 AT3G12840.1	unknown protein
 AT3G12850	COP9 signalosome complex-related / CSN complex-related
@@ -32003,8 +32003,8 @@ AT3G12940	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protei
 AT3G12940.1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
 AT3G12950	Trypsin family protein
 AT3G12950.1	Trypsin family protein
-AT3G12955	SAUR-like auxin-responsive protein family
-AT3G12955.1	SAUR-like auxin-responsive protein family
+AT3G12955	SAUR-like auxin-responsive protein family 
+AT3G12955.1	SAUR-like auxin-responsive protein family 
 AT3G12960.1	unknown protein
 AT3G12965	other RNA
 AT3G12965.1	other RNA
@@ -32262,8 +32262,8 @@ AT3G13770	Pentatricopeptide repeat (PPR) superfamily protein
 AT3G13770.1	Pentatricopeptide repeat (PPR) superfamily protein
 AT3G13772	transmembrane nine 7
 AT3G13772.1	transmembrane nine 7
-AT3G13780	SMAD/FHA domain-containing protein
-AT3G13780.1	SMAD/FHA domain-containing protein
+AT3G13780	SMAD/FHA domain-containing protein 
+AT3G13780.1	SMAD/FHA domain-containing protein 
 AT3G13782	nucleosome assembly protein1;4
 AT3G13782.1	nucleosome assembly protein1;4
 AT3G13784	cell wall invertase 5
@@ -33472,9 +33472,9 @@ AT3G18530	ARM repeat superfamily protein
 AT3G18530.1	ARM repeat superfamily protein
 AT3G18535	tubulin-tyrosine ligases
 AT3G18535.1	tubulin-tyrosine ligases
-AT3G18550	TCP family transcription factor
-AT3G18550.1	TCP family transcription factor
-AT3G18550.2	TCP family transcription factor
+AT3G18550	TCP family transcription factor 
+AT3G18550.1	TCP family transcription factor 
+AT3G18550.2	TCP family transcription factor 
 AT3G18560.1	unknown protein
 AT3G18570	Oleosin family protein
 AT3G18570.1	Oleosin family protein
@@ -33729,9 +33729,9 @@ AT3G19553	Amino acid permease family protein
 AT3G19553.1	Amino acid permease family protein
 AT3G19560	F-box family protein
 AT3G19560.1	F-box family protein
-AT3G19570	Family of unknown function (DUF566)
-AT3G19570.1	Family of unknown function (DUF566)
-AT3G19570.2	Family of unknown function (DUF566)
+AT3G19570	Family of unknown function (DUF566) 
+AT3G19570.1	Family of unknown function (DUF566) 
+AT3G19570.2	Family of unknown function (DUF566) 
 AT3G19580	zinc-finger protein 2
 AT3G19580.1	zinc-finger protein 2
 AT3G19580.2	zinc-finger protein 2
@@ -33883,8 +33883,8 @@ AT3G20200.1	Protein kinase protein with adenine nucleotide alpha hydrolases-like
 AT3G20210	delta vacuolar processing enzyme
 AT3G20210.1	delta vacuolar processing enzyme
 AT3G20210.2	delta vacuolar processing enzyme
-AT3G20220	SAUR-like auxin-responsive protein family
-AT3G20220.1	SAUR-like auxin-responsive protein family
+AT3G20220	SAUR-like auxin-responsive protein family 
+AT3G20220.1	SAUR-like auxin-responsive protein family 
 AT3G20230	Ribosomal L18p/L5e family protein
 AT3G20230.1	Ribosomal L18p/L5e family protein
 AT3G20240	Mitochondrial substrate carrier family protein
@@ -33938,8 +33938,8 @@ AT3G20440	Alpha amylase family protein
 AT3G20440.1	Alpha amylase family protein
 AT3G20440.2	Alpha amylase family protein
 AT3G20440.3	Alpha amylase family protein
-AT3G20450	B-cell receptor-associated protein 31-like
-AT3G20450.1	B-cell receptor-associated protein 31-like
+AT3G20450	B-cell receptor-associated protein 31-like 
+AT3G20450.1	B-cell receptor-associated protein 31-like 
 AT3G20460	Major facilitator superfamily protein
 AT3G20460.1	Major facilitator superfamily protein
 AT3G20470	glycine-rich protein 5
@@ -33962,8 +33962,8 @@ AT3G20540	polymerase gamma 1
 AT3G20540.1	polymerase gamma 1
 AT3G20540.2	polymerase gamma 1
 AT3G20541.1	unknown protein
-AT3G20550	SMAD/FHA domain-containing protein
-AT3G20550.1	SMAD/FHA domain-containing protein
+AT3G20550	SMAD/FHA domain-containing protein 
+AT3G20550.1	SMAD/FHA domain-containing protein 
 AT3G20555.1	unknown protein
 AT3G20557.1	unknown protein
 AT3G20557.2	unknown protein
@@ -34198,8 +34198,8 @@ AT3G21475.1	pre-tRNA
 AT3G21480	BRCT domain-containing DNA repair protein
 AT3G21480.1	BRCT domain-containing DNA repair protein
 AT3G21481.1	unknown protein
-AT3G21490	Heavy metal transport/detoxification superfamily protein
-AT3G21490.1	Heavy metal transport/detoxification superfamily protein
+AT3G21490	Heavy metal transport/detoxification superfamily protein 
+AT3G21490.1	Heavy metal transport/detoxification superfamily protein 
 AT3G21500	1-deoxy-D-xylulose 5-phosphate synthase 1
 AT3G21500.1	1-deoxy-D-xylulose 5-phosphate synthase 1
 AT3G21500.2	1-deoxy-D-xylulose 5-phosphate synthase 1
@@ -34560,9 +34560,9 @@ AT3G22961	Paired amphipathic helix (PAH2) superfamily protein
 AT3G22961.1	Paired amphipathic helix (PAH2) superfamily protein
 AT3G22968	conserved peptide upstream open reading frame 59
 AT3G22968.1	conserved peptide upstream open reading frame 59
-AT3G22970	Protein of unknown function (DUF506)
-AT3G22970.1	Protein of unknown function (DUF506)
-AT3G22970.2	Protein of unknown function (DUF506)
+AT3G22970	Protein of unknown function (DUF506) 
+AT3G22970.1	Protein of unknown function (DUF506) 
+AT3G22970.2	Protein of unknown function (DUF506) 
 AT3G22980	Ribosomal protein S5/Elongation factor G/III/V family protein
 AT3G22980.1	Ribosomal protein S5/Elongation factor G/III/V family protein
 AT3G22990	ARM repeat superfamily protein
@@ -34935,8 +34935,8 @@ AT3G24430	ATP binding
 AT3G24430.1	ATP binding
 AT3G24440	Fibronectin type III domain-containing protein
 AT3G24440.1	Fibronectin type III domain-containing protein
-AT3G24450	Heavy metal transport/detoxification superfamily protein
-AT3G24450.1	Heavy metal transport/detoxification superfamily protein
+AT3G24450	Heavy metal transport/detoxification superfamily protein 
+AT3G24450.1	Heavy metal transport/detoxification superfamily protein 
 AT3G24460	Serinc-domain containing serine and sphingolipid biosynthesis protein
 AT3G24460.1	Serinc-domain containing serine and sphingolipid biosynthesis protein
 AT3G24465	Plant thionin family protein
@@ -35042,8 +35042,8 @@ AT3G24830	Ribosomal protein L13 family protein
 AT3G24830.1	Ribosomal protein L13 family protein
 AT3G24840	Sec14p-like phosphatidylinositol transfer family protein
 AT3G24840.1	Sec14p-like phosphatidylinositol transfer family protein
-AT3G24850	Domain of unknown function (DUF313)
-AT3G24850.1	Domain of unknown function (DUF313)
+AT3G24850	Domain of unknown function (DUF313) 
+AT3G24850.1	Domain of unknown function (DUF313) 
 AT3G24860	Homeodomain-like superfamily protein
 AT3G24860.1	Homeodomain-like superfamily protein
 AT3G24870	Helicase/SANT-associated, DNA binding protein
@@ -35121,8 +35121,8 @@ AT3G25230	rotamase FKBP 1
 AT3G25230.1	rotamase FKBP 1
 AT3G25230.2	rotamase FKBP 1
 AT3G25233.1	unknown protein
-AT3G25240	Protein of unknown function (DUF506)
-AT3G25240.1	Protein of unknown function (DUF506)
+AT3G25240	Protein of unknown function (DUF506) 
+AT3G25240.1	Protein of unknown function (DUF506) 
 AT3G25250	AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein
 AT3G25250.1	AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein
 AT3G25260	Major facilitator superfamily protein
@@ -37807,8 +37807,8 @@ AT3G43095.1	transposable element gene
 AT3G43100	transposable element gene
 AT3G43100.1	transposable element gene
 AT3G43110.1	unknown protein
-AT3G43120	SAUR-like auxin-responsive protein family
-AT3G43120.1	SAUR-like auxin-responsive protein family
+AT3G43120	SAUR-like auxin-responsive protein family 
+AT3G43120.1	SAUR-like auxin-responsive protein family 
 AT3G43123	transposable element gene
 AT3G43123.1	transposable element gene
 AT3G43126	transposable element gene
@@ -37866,8 +37866,8 @@ AT3G43230	RING/FYVE/PHD-type zinc finger family protein
 AT3G43230.1	RING/FYVE/PHD-type zinc finger family protein
 AT3G43240	ARID/BRIGHT DNA-binding domain-containing protein
 AT3G43240.1	ARID/BRIGHT DNA-binding domain-containing protein
-AT3G43250	Family of unknown function (DUF572)
-AT3G43250.1	Family of unknown function (DUF572)
+AT3G43250	Family of unknown function (DUF572) 
+AT3G43250.1	Family of unknown function (DUF572) 
 AT3G43251.1	unknown protein
 AT3G43260.1	unknown protein
 AT3G43270	Plant invertase/pectin methylesterase inhibitor superfamily
@@ -39371,8 +39371,8 @@ AT3G48950	Pectin lyase-like superfamily protein
 AT3G48950.1	Pectin lyase-like superfamily protein
 AT3G48960	Ribosomal protein L13e family protein
 AT3G48960.1	Ribosomal protein L13e family protein
-AT3G48970	Heavy metal transport/detoxification superfamily protein
-AT3G48970.1	Heavy metal transport/detoxification superfamily protein
+AT3G48970	Heavy metal transport/detoxification superfamily protein 
+AT3G48970.1	Heavy metal transport/detoxification superfamily protein 
 AT3G48980	Arabidopsis thaliana protein of unknown function (DUF821)
 AT3G48980.1	Arabidopsis thaliana protein of unknown function (DUF821)
 AT3G48990	AMP-dependent synthetase and ligase family protein
@@ -39520,8 +39520,8 @@ AT3G49590.3	Autophagy-related protein 13
 AT3G49600	ubiquitin-specific protease 26
 AT3G49600.1	ubiquitin-specific protease 26
 AT3G49601.1	unknown protein
-AT3G49610	Domain of unknown function (DUF313)
-AT3G49610.1	Domain of unknown function (DUF313)
+AT3G49610	Domain of unknown function (DUF313) 
+AT3G49610.1	Domain of unknown function (DUF313) 
 AT3G49620	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
 AT3G49620.1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
 AT3G49630	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
@@ -39884,8 +39884,8 @@ AT3G51180	Zinc finger C-x8-C-x5-C-x3-H type family protein
 AT3G51180.1	Zinc finger C-x8-C-x5-C-x3-H type family protein
 AT3G51190	Ribosomal protein L2 family
 AT3G51190.1	Ribosomal protein L2 family
-AT3G51200	SAUR-like auxin-responsive protein family
-AT3G51200.1	SAUR-like auxin-responsive protein family
+AT3G51200	SAUR-like auxin-responsive protein family 
+AT3G51200.1	SAUR-like auxin-responsive protein family 
 AT3G51210	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT3G51210.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT3G51220	Plant protein of unknown function (DUF827)
@@ -40311,15 +40311,15 @@ AT3G52880.2	monodehydroascorbate reductase 1
 AT3G52890	KCBP-interacting protein kinase
 AT3G52890.1	KCBP-interacting protein kinase
 AT3G52890.2	KCBP-interacting protein kinase
-AT3G52900	Family of unknown function (DUF662)
-AT3G52900.1	Family of unknown function (DUF662)
+AT3G52900	Family of unknown function (DUF662) 
+AT3G52900.1	Family of unknown function (DUF662) 
 AT3G52905	Polynucleotidyl transferase, ribonuclease H-like superfamily protein
 AT3G52905.1	Polynucleotidyl transferase, ribonuclease H-like superfamily protein
 AT3G52910	growth-regulating factor 4
 AT3G52910.1	growth-regulating factor 4
-AT3G52920	Family of unknown function (DUF662)
-AT3G52920.1	Family of unknown function (DUF662)
-AT3G52920.2	Family of unknown function (DUF662)
+AT3G52920	Family of unknown function (DUF662) 
+AT3G52920.1	Family of unknown function (DUF662) 
+AT3G52920.2	Family of unknown function (DUF662) 
 AT3G52930	Aldolase superfamily protein
 AT3G52930.1	Aldolase superfamily protein
 AT3G52940	Ergosterol biosynthesis ERG4/ERG24 family
@@ -40345,8 +40345,8 @@ AT3G52990.1	Pyruvate kinase family protein
 AT3G52990.2	Pyruvate kinase family protein
 AT3G53000	phloem protein 2-A15
 AT3G53000.1	phloem protein 2-A15
-AT3G53010	Domain of unknown function (DUF303)
-AT3G53010.1	Domain of unknown function (DUF303)
+AT3G53010	Domain of unknown function (DUF303) 
+AT3G53010.1	Domain of unknown function (DUF303) 
 AT3G53015	MIR771a; miRNA
 AT3G53015.1	MIR771a; miRNA
 AT3G53016	MIR851a; miRNA
@@ -40405,8 +40405,8 @@ AT3G53232.1	ROTUNDIFOLIA like 1
 AT3G53235.1	unknown protein
 AT3G53240	receptor like protein 45
 AT3G53240.1	receptor like protein 45
-AT3G53250	SAUR-like auxin-responsive protein family
-AT3G53250.1	SAUR-like auxin-responsive protein family
+AT3G53250	SAUR-like auxin-responsive protein family 
+AT3G53250.1	SAUR-like auxin-responsive protein family 
 AT3G53260	phenylalanine ammonia-lyase 2
 AT3G53260.1	phenylalanine ammonia-lyase 2
 AT3G53270	Small nuclear RNA activating complex (SNAPc), subunit SNAP43 protein
@@ -40567,9 +40567,9 @@ AT3G53870	Ribosomal protein S3 family protein
 AT3G53870.1	Ribosomal protein S3 family protein
 AT3G53880	NAD(P)-linked oxidoreductase superfamily protein
 AT3G53880.1	NAD(P)-linked oxidoreductase superfamily protein
-AT3G53890	Ribosomal protein S21e
-AT3G53890.1	Ribosomal protein S21e
-AT3G53890.2	Ribosomal protein S21e
+AT3G53890	Ribosomal protein S21e 
+AT3G53890.1	Ribosomal protein S21e 
+AT3G53890.2	Ribosomal protein S21e 
 AT3G53900	uracil phosphoribosyltransferase
 AT3G53900.1	uracil phosphoribosyltransferase
 AT3G53900.2	uracil phosphoribosyltransferase
@@ -40672,12 +40672,12 @@ AT3G54320	Integrase-type DNA-binding superfamily protein
 AT3G54320.1	Integrase-type DNA-binding superfamily protein
 AT3G54320.2	Integrase-type DNA-binding superfamily protein
 AT3G54320.3	Integrase-type DNA-binding superfamily protein
-AT3G54340	K-box region and MADS-box transcription factor family protein
-AT3G54340.1	K-box region and MADS-box transcription factor family protein
-AT3G54350	Forkhead-associated (FHA) domain-containing protein
-AT3G54350.1	Forkhead-associated (FHA) domain-containing protein
-AT3G54350.2	Forkhead-associated (FHA) domain-containing protein
-AT3G54350.3	Forkhead-associated (FHA) domain-containing protein
+AT3G54340	K-box region and MADS-box transcription factor family protein 
+AT3G54340.1	K-box region and MADS-box transcription factor family protein 
+AT3G54350	Forkhead-associated (FHA) domain-containing protein 
+AT3G54350.1	Forkhead-associated (FHA) domain-containing protein 
+AT3G54350.2	Forkhead-associated (FHA) domain-containing protein 
+AT3G54350.3	Forkhead-associated (FHA) domain-containing protein 
 AT3G54360	zinc ion binding
 AT3G54360.1	zinc ion binding
 AT3G54363.1	unknown protein
@@ -40723,8 +40723,8 @@ AT3G54530.1	unknown protein
 AT3G54530.2	unknown protein
 AT3G54540	general control non-repressible 4
 AT3G54540.1	general control non-repressible 4
-AT3G54550	Protein of unknown function (DUF506)
-AT3G54550.1	Protein of unknown function (DUF506)
+AT3G54550	Protein of unknown function (DUF506) 
+AT3G54550.1	Protein of unknown function (DUF506) 
 AT3G54560	histone H2A 11
 AT3G54560.1	histone H2A 11
 AT3G54570	Plant calmodulin-binding protein-related
@@ -40885,9 +40885,9 @@ AT3G55140.2	Pectin lyase-like superfamily protein
 AT3G55150	exocyst subunit exo70 family protein H1
 AT3G55150.1	exocyst subunit exo70 family protein H1
 AT3G55160.1	unknown protein
-AT3G55170	Ribosomal L29 family protein
-AT3G55170.1	Ribosomal L29 family protein
-AT3G55170.2	Ribosomal L29 family protein
+AT3G55170	Ribosomal L29 family protein 
+AT3G55170.1	Ribosomal L29 family protein 
+AT3G55170.2	Ribosomal L29 family protein 
 AT3G55180	alpha/beta-Hydrolases superfamily protein
 AT3G55180.1	alpha/beta-Hydrolases superfamily protein
 AT3G55190	alpha/beta-Hydrolases superfamily protein
@@ -41299,8 +41299,8 @@ AT3G56880	VQ motif-containing protein
 AT3G56880.1	VQ motif-containing protein
 AT3G56890	F-box associated ubiquitination effector family protein
 AT3G56890.1	F-box associated ubiquitination effector family protein
-AT3G56891	Heavy metal transport/detoxification superfamily protein
-AT3G56891.1	Heavy metal transport/detoxification superfamily protein
+AT3G56891	Heavy metal transport/detoxification superfamily protein 
+AT3G56891.1	Heavy metal transport/detoxification superfamily protein 
 AT3G56900	Transducin/WD40 repeat-like superfamily protein
 AT3G56900.1	Transducin/WD40 repeat-like superfamily protein
 AT3G56910	plastid-specific 50S ribosomal protein 5
@@ -41732,10 +41732,10 @@ AT3G58750.1	citrate synthase 2
 AT3G58760	Integrin-linked protein kinase family
 AT3G58760.1	Integrin-linked protein kinase family
 AT3G58770.1	unknown protein
-AT3G58780	K-box region and MADS-box transcription factor family protein
-AT3G58780.1	K-box region and MADS-box transcription factor family protein
-AT3G58780.2	K-box region and MADS-box transcription factor family protein
-AT3G58780.3	K-box region and MADS-box transcription factor family protein
+AT3G58780	K-box region and MADS-box transcription factor family protein 
+AT3G58780.1	K-box region and MADS-box transcription factor family protein 
+AT3G58780.2	K-box region and MADS-box transcription factor family protein 
+AT3G58780.3	K-box region and MADS-box transcription factor family protein 
 AT3G58790	galacturonosyltransferase 15
 AT3G58790.1	galacturonosyltransferase 15
 AT3G58795	other RNA
@@ -42033,9 +42033,9 @@ AT3G59990.1	methionine aminopeptidase 2B
 AT3G59990.2	methionine aminopeptidase 2B
 AT3G59990.3	methionine aminopeptidase 2B
 AT3G59990.4	methionine aminopeptidase 2B
-AT3G60000	Family of unknown function (DUF566)
-AT3G60000.1	Family of unknown function (DUF566)
-AT3G60000.2	Family of unknown function (DUF566)
+AT3G60000	Family of unknown function (DUF566) 
+AT3G60000.1	Family of unknown function (DUF566) 
+AT3G60000.2	Family of unknown function (DUF566) 
 AT3G60010	SKP1-like 13
 AT3G60010.1	SKP1-like 13
 AT3G60020	SKP1-like 5
@@ -42199,8 +42199,8 @@ AT3G60670	PLATZ transcription factor family protein
 AT3G60670.1	PLATZ transcription factor family protein
 AT3G60680	Plant protein of unknown function (DUF641)
 AT3G60680.1	Plant protein of unknown function (DUF641)
-AT3G60690	SAUR-like auxin-responsive protein family
-AT3G60690.1	SAUR-like auxin-responsive protein family
+AT3G60690	SAUR-like auxin-responsive protein family 
+AT3G60690.1	SAUR-like auxin-responsive protein family 
 AT3G60700	Protein of unknown function (DUF1163)
 AT3G60700.1	Protein of unknown function (DUF1163)
 AT3G60710	F-box family protein
@@ -42533,8 +42533,8 @@ AT3G61890.1	homeobox 12
 AT3G61897	MIR166/MIR166B; miRNA
 AT3G61897.1	MIR166/MIR166B; miRNA
 AT3G61898.1	unknown protein
-AT3G61900	SAUR-like auxin-responsive protein family
-AT3G61900.1	SAUR-like auxin-responsive protein family
+AT3G61900	SAUR-like auxin-responsive protein family 
+AT3G61900.1	SAUR-like auxin-responsive protein family 
 AT3G61910	NAC domain protein 66
 AT3G61910.1	NAC domain protein 66
 AT3G61920.1	unknown protein
@@ -43180,8 +43180,8 @@ AT4G00870	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
 AT4G00870.1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
 AT4G00872	Plant invertase/pectin methylesterase inhibitor superfamily protein
 AT4G00872.1	Plant invertase/pectin methylesterase inhibitor superfamily protein
-AT4G00880	SAUR-like auxin-responsive protein family
-AT4G00880.1	SAUR-like auxin-responsive protein family
+AT4G00880	SAUR-like auxin-responsive protein family 
+AT4G00880.1	SAUR-like auxin-responsive protein family 
 AT4G00885	MIR165/MIR165B; miRNA
 AT4G00885.1	MIR165/MIR165B; miRNA
 AT4G00890	proline-rich family protein
@@ -45611,8 +45611,8 @@ AT4G08550.1	electron carriers;protein disulfide oxidoreductases
 AT4G08555.1	unknown protein
 AT4G08560	pumilio 15
 AT4G08560.1	pumilio 15
-AT4G08570	Heavy metal transport/detoxification superfamily protein
-AT4G08570.1	Heavy metal transport/detoxification superfamily protein
+AT4G08570	Heavy metal transport/detoxification superfamily protein 
+AT4G08570.1	Heavy metal transport/detoxification superfamily protein 
 AT4G08580	microfibrillar-associated protein-related
 AT4G08580.1	microfibrillar-associated protein-related
 AT4G08590	ORTHRUS-like
@@ -45885,8 +45885,8 @@ AT4G09510.1	cytosolic invertase 2
 AT4G09510.2	cytosolic invertase 2
 AT4G09520	Cofactor-independent phosphoglycerate mutase
 AT4G09520.1	Cofactor-independent phosphoglycerate mutase
-AT4G09530	SAUR-like auxin-responsive protein family
-AT4G09530.1	SAUR-like auxin-responsive protein family
+AT4G09530	SAUR-like auxin-responsive protein family 
+AT4G09530.1	SAUR-like auxin-responsive protein family 
 AT4G09540	transposable element gene
 AT4G09540.1	transposable element gene
 AT4G09545	ECA1 gametogenesis related family protein
@@ -45994,11 +45994,11 @@ AT4G09940	P-loop containing nucleoside triphosphate hydrolases superfamily prote
 AT4G09940.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT4G09950	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT4G09950.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
-AT4G09960	K-box region and MADS-box transcription factor family protein
-AT4G09960.1	K-box region and MADS-box transcription factor family protein
-AT4G09960.2	K-box region and MADS-box transcription factor family protein
-AT4G09960.3	K-box region and MADS-box transcription factor family protein
-AT4G09960.4	K-box region and MADS-box transcription factor family protein
+AT4G09960	K-box region and MADS-box transcription factor family protein 
+AT4G09960.1	K-box region and MADS-box transcription factor family protein 
+AT4G09960.2	K-box region and MADS-box transcription factor family protein 
+AT4G09960.3	K-box region and MADS-box transcription factor family protein 
+AT4G09960.4	K-box region and MADS-box transcription factor family protein 
 AT4G09965.1	unknown protein
 AT4G09970.1	unknown protein
 AT4G09970.2	unknown protein
@@ -46121,8 +46121,8 @@ AT4G10457	SCR-like 1
 AT4G10457.1	SCR-like 1
 AT4G10460	transposable element gene
 AT4G10460.1	transposable element gene
-AT4G10465	Heavy metal transport/detoxification superfamily protein
-AT4G10465.1	Heavy metal transport/detoxification superfamily protein
+AT4G10465	Heavy metal transport/detoxification superfamily protein 
+AT4G10465.1	Heavy metal transport/detoxification superfamily protein 
 AT4G10470.1	unknown protein
 AT4G10480	Nascent polypeptide-associated complex (NAC), alpha subunit family protein
 AT4G10480.1	Nascent polypeptide-associated complex (NAC), alpha subunit family protein
@@ -46460,8 +46460,8 @@ AT4G11845	Interleukin-1 receptor-associated kinase 4 protein
 AT4G11845.1	Interleukin-1 receptor-associated kinase 4 protein
 AT4G11850	phospholipase D gamma 1
 AT4G11850.1	phospholipase D gamma 1
-AT4G11860	Protein of unknown function (DUF544)
-AT4G11860.1	Protein of unknown function (DUF544)
+AT4G11860	Protein of unknown function (DUF544)     
+AT4G11860.1	Protein of unknown function (DUF544)     
 AT4G11870.1	unknown protein
 AT4G11876.1	unknown protein
 AT4G11880	AGAMOUS-like 14
@@ -46594,8 +46594,8 @@ AT4G12400.1	stress-inducible protein, putative
 AT4G12400.2	stress-inducible protein, putative
 AT4G12405	pre-tRNA
 AT4G12405.1	pre-tRNA
-AT4G12410	SAUR-like auxin-responsive protein family
-AT4G12410.1	SAUR-like auxin-responsive protein family
+AT4G12410	SAUR-like auxin-responsive protein family 
+AT4G12410.1	SAUR-like auxin-responsive protein family 
 AT4G12420	Cupredoxin superfamily protein
 AT4G12420.1	Cupredoxin superfamily protein
 AT4G12420.2	Cupredoxin superfamily protein
@@ -46866,8 +46866,8 @@ AT4G13360	ATP-dependent caseinolytic (Clp) protease/crotonase family protein
 AT4G13360.1	ATP-dependent caseinolytic (Clp) protease/crotonase family protein
 AT4G13370	Plant protein of unknown function (DUF936)
 AT4G13370.1	Plant protein of unknown function (DUF936)
-AT4G13380	Heavy metal transport/detoxification superfamily protein
-AT4G13380.1	Heavy metal transport/detoxification superfamily protein
+AT4G13380	Heavy metal transport/detoxification superfamily protein 
+AT4G13380.1	Heavy metal transport/detoxification superfamily protein 
 AT4G13390	Proline-rich extensin-like family protein
 AT4G13390.1	Proline-rich extensin-like family protein
 AT4G13395	ROTUNDIFOLIA like 12
@@ -46979,8 +46979,8 @@ AT4G13770	cytochrome P450, family 83, subfamily A, polypeptide 1
 AT4G13770.1	cytochrome P450, family 83, subfamily A, polypeptide 1
 AT4G13780	methionine--tRNA ligase, putative / methionyl-tRNA synthetase, putative / MetRS, putative
 AT4G13780.1	methionine--tRNA ligase, putative / methionyl-tRNA synthetase, putative / MetRS, putative
-AT4G13790	SAUR-like auxin-responsive protein family
-AT4G13790.1	SAUR-like auxin-responsive protein family
+AT4G13790	SAUR-like auxin-responsive protein family 
+AT4G13790.1	SAUR-like auxin-responsive protein family 
 AT4G13800	Protein of unknown function (DUF803)
 AT4G13800.1	Protein of unknown function (DUF803)
 AT4G13810	receptor like protein 47
@@ -47197,8 +47197,8 @@ AT4G14470	transposable element gene
 AT4G14470.1	transposable element gene
 AT4G14480	Protein kinase superfamily protein
 AT4G14480.1	Protein kinase superfamily protein
-AT4G14490	SMAD/FHA domain-containing protein
-AT4G14490.1	SMAD/FHA domain-containing protein
+AT4G14490	SMAD/FHA domain-containing protein 
+AT4G14490.1	SMAD/FHA domain-containing protein 
 AT4G14500	Polyketide cyclase/dehydrase and lipid transport superfamily protein
 AT4G14500.1	Polyketide cyclase/dehydrase and lipid transport superfamily protein
 AT4G14500.2	Polyketide cyclase/dehydrase and lipid transport superfamily protein
@@ -47231,8 +47231,8 @@ AT4G14605	Mitochondrial transcription termination factor family protein
 AT4G14605.1	Mitochondrial transcription termination factor family protein
 AT4G14610.1	unknown protein
 AT4G14615.1	unknown protein
-AT4G14620	Protein of unknown function (DUF506)
-AT4G14620.1	Protein of unknown function (DUF506)
+AT4G14620	Protein of unknown function (DUF506) 
+AT4G14620.1	Protein of unknown function (DUF506) 
 AT4G14622	conserved peptide upstream open reading frame 60
 AT4G14622.1	conserved peptide upstream open reading frame 60
 AT4G14630	germin-like protein 9
@@ -47719,9 +47719,9 @@ AT4G16360.2	5'-AMP-activated protein kinase beta-2 subunit protein
 AT4G16360.3	5'-AMP-activated protein kinase beta-2 subunit protein
 AT4G16370	oligopeptide transporter
 AT4G16370.1	oligopeptide transporter
-AT4G16380	Heavy metal transport/detoxification superfamily protein
-AT4G16380.1	Heavy metal transport/detoxification superfamily protein
-AT4G16380.2	Heavy metal transport/detoxification superfamily protein
+AT4G16380	Heavy metal transport/detoxification superfamily protein 
+AT4G16380.1	Heavy metal transport/detoxification superfamily protein 
+AT4G16380.2	Heavy metal transport/detoxification superfamily protein 
 AT4G16390	pentatricopeptide (PPR) repeat-containing protein
 AT4G16390.1	pentatricopeptide (PPR) repeat-containing protein
 AT4G16400.1	unknown protein
@@ -48377,9 +48377,9 @@ AT4G18940	RNA ligase/cyclic nucleotide phosphodiesterase family protein
 AT4G18940.1	RNA ligase/cyclic nucleotide phosphodiesterase family protein
 AT4G18950	Integrin-linked protein kinase family
 AT4G18950.1	Integrin-linked protein kinase family
-AT4G18960	K-box region and MADS-box transcription factor family protein
-AT4G18960.1	K-box region and MADS-box transcription factor family protein
-AT4G18960.2	K-box region and MADS-box transcription factor family protein
+AT4G18960	K-box region and MADS-box transcription factor family protein 
+AT4G18960.1	K-box region and MADS-box transcription factor family protein 
+AT4G18960.2	K-box region and MADS-box transcription factor family protein 
 AT4G18970	GDSL-like Lipase/Acylhydrolase superfamily protein
 AT4G18970.1	GDSL-like Lipase/Acylhydrolase superfamily protein
 AT4G18970.2	GDSL-like Lipase/Acylhydrolase superfamily protein
@@ -49317,8 +49317,8 @@ AT4G22592.1	conserved peptide upstream open reading frame 27
 AT4G22600.1	unknown protein
 AT4G22610	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein
 AT4G22610.1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein
-AT4G22620	SAUR-like auxin-responsive protein family
-AT4G22620.1	SAUR-like auxin-responsive protein family
+AT4G22620	SAUR-like auxin-responsive protein family 
+AT4G22620.1	SAUR-like auxin-responsive protein family 
 AT4G22630	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein
 AT4G22630.1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein
 AT4G22635	pre-tRNA
@@ -49412,8 +49412,8 @@ AT4G22940	Protein kinase superfamily protein
 AT4G22940.1	Protein kinase superfamily protein
 AT4G22950	AGAMOUS-like 19
 AT4G22950.1	AGAMOUS-like 19
-AT4G22960	Protein of unknown function (DUF544)
-AT4G22960.1	Protein of unknown function (DUF544)
+AT4G22960	Protein of unknown function (DUF544)     
+AT4G22960.1	Protein of unknown function (DUF544)     
 AT4G22970	homolog of separase
 AT4G22970.1	homolog of separase
 AT4G22970.2	homolog of separase
@@ -49640,8 +49640,8 @@ AT4G23860.2	PHD finger protein-related
 AT4G23860.3	PHD finger protein-related
 AT4G23870.1	unknown protein
 AT4G23880.1	unknown protein
-AT4G23882	Heavy metal transport/detoxification superfamily protein
-AT4G23882.1	Heavy metal transport/detoxification superfamily protein
+AT4G23882	Heavy metal transport/detoxification superfamily protein 
+AT4G23882.1	Heavy metal transport/detoxification superfamily protein 
 AT4G23885.1	unknown protein
 AT4G23890.1	unknown protein
 AT4G23895	Pleckstrin homology (PH) domain-containing protein
@@ -49963,8 +49963,8 @@ AT4G25130	peptide met sulfoxide reductase 4
 AT4G25130.1	peptide met sulfoxide reductase 4
 AT4G25140	oleosin 1
 AT4G25140.1	oleosin 1
-AT4G25150	HAD superfamily, subfamily IIIB acid phosphatase
-AT4G25150.1	HAD superfamily, subfamily IIIB acid phosphatase
+AT4G25150	HAD superfamily, subfamily IIIB acid phosphatase 
+AT4G25150.1	HAD superfamily, subfamily IIIB acid phosphatase 
 AT4G25160	U-box domain-containing protein kinase family protein
 AT4G25160.1	U-box domain-containing protein kinase family protein
 AT4G25170	Uncharacterised conserved protein (UCP012943)
@@ -49972,9 +49972,9 @@ AT4G25170.1	Uncharacterised conserved protein (UCP012943)
 AT4G25170.2	Uncharacterised conserved protein (UCP012943)
 AT4G25180	RNA polymerase III RPC4
 AT4G25180.1	RNA polymerase III RPC4
-AT4G25190	Family of unknown function (DUF566)
-AT4G25190.1	Family of unknown function (DUF566)
-AT4G25190.2	Family of unknown function (DUF566)
+AT4G25190	Family of unknown function (DUF566) 
+AT4G25190.1	Family of unknown function (DUF566) 
+AT4G25190.2	Family of unknown function (DUF566) 
 AT4G25200	mitochondrion-localized small heat shock protein 23.6
 AT4G25200.1	mitochondrion-localized small heat shock protein 23.6
 AT4G25210	DNA-binding storekeeper protein-related transcriptional regulator
@@ -50582,9 +50582,9 @@ AT4G27570.1	UDP-Glycosyltransferase superfamily protein
 AT4G27580.1	unknown protein
 AT4G27585	SPFH/Band 7/PHB domain-containing membrane-associated protein family
 AT4G27585.1	SPFH/Band 7/PHB domain-containing membrane-associated protein family
-AT4G27590	Heavy metal transport/detoxification superfamily protein
-AT4G27590.1	Heavy metal transport/detoxification superfamily protein
-AT4G27590.2	Heavy metal transport/detoxification superfamily protein
+AT4G27590	Heavy metal transport/detoxification superfamily protein 
+AT4G27590.1	Heavy metal transport/detoxification superfamily protein 
+AT4G27590.2	Heavy metal transport/detoxification superfamily protein 
 AT4G27595	Plant protein of unknown function (DUF827)
 AT4G27595.1	Plant protein of unknown function (DUF827)
 AT4G27597	transposable element gene
@@ -51001,10 +51001,10 @@ AT4G29240	Leucine-rich repeat (LRR) family protein
 AT4G29240.1	Leucine-rich repeat (LRR) family protein
 AT4G29250	HXXXD-type acyl-transferase family protein
 AT4G29250.1	HXXXD-type acyl-transferase family protein
-AT4G29260	HAD superfamily, subfamily IIIB acid phosphatase
-AT4G29260.1	HAD superfamily, subfamily IIIB acid phosphatase
-AT4G29270	HAD superfamily, subfamily IIIB acid phosphatase
-AT4G29270.1	HAD superfamily, subfamily IIIB acid phosphatase
+AT4G29260	HAD superfamily, subfamily IIIB acid phosphatase 
+AT4G29260.1	HAD superfamily, subfamily IIIB acid phosphatase 
+AT4G29270	HAD superfamily, subfamily IIIB acid phosphatase 
+AT4G29270.1	HAD superfamily, subfamily IIIB acid phosphatase 
 AT4G29273	low-molecular-weight cysteine-rich 23
 AT4G29273.1	low-molecular-weight cysteine-rich 23
 AT4G29276.1	unknown protein
@@ -51334,9 +51334,9 @@ AT4G30690.1	Translation initiation factor 3 protein
 AT4G30690.2	Translation initiation factor 3 protein
 AT4G30700	Pentatricopeptide repeat (PPR) superfamily protein
 AT4G30700.1	Pentatricopeptide repeat (PPR) superfamily protein
-AT4G30710	Family of unknown function (DUF566)
-AT4G30710.1	Family of unknown function (DUF566)
-AT4G30710.2	Family of unknown function (DUF566)
+AT4G30710	Family of unknown function (DUF566) 
+AT4G30710.1	Family of unknown function (DUF566) 
+AT4G30710.2	Family of unknown function (DUF566) 
 AT4G30720	FAD/NAD(P)-binding oxidoreductase family protein
 AT4G30720.1	FAD/NAD(P)-binding oxidoreductase family protein
 AT4G30730.1	unknown protein
@@ -51495,8 +51495,8 @@ AT4G31300.2	N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily 
 AT4G31300.3	N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein
 AT4G31310	AIG2-like (avirulence induced gene) family protein
 AT4G31310.1	AIG2-like (avirulence induced gene) family protein
-AT4G31320	SAUR-like auxin-responsive protein family
-AT4G31320.1	SAUR-like auxin-responsive protein family
+AT4G31320	SAUR-like auxin-responsive protein family 
+AT4G31320.1	SAUR-like auxin-responsive protein family 
 AT4G31330	Protein of unknown function, DUF599
 AT4G31330.1	Protein of unknown function, DUF599
 AT4G31340	myosin heavy chain-related
@@ -51804,8 +51804,8 @@ AT4G32470.1	Cytochrome bd ubiquinol oxidase, 14kDa subunit
 AT4G32470.2	Cytochrome bd ubiquinol oxidase, 14kDa subunit
 AT4G32475	pre-tRNA
 AT4G32475.1	pre-tRNA
-AT4G32480	Protein of unknown function (DUF506)
-AT4G32480.1	Protein of unknown function (DUF506)
+AT4G32480	Protein of unknown function (DUF506) 
+AT4G32480.1	Protein of unknown function (DUF506) 
 AT4G32490	early nodulin-like protein 4
 AT4G32490.1	early nodulin-like protein 4
 AT4G32500	K+ transporter 5
@@ -52244,9 +52244,9 @@ AT4G34200	D-3-phosphoglycerate dehydrogenase
 AT4G34200.1	D-3-phosphoglycerate dehydrogenase
 AT4G34210	SKP1-like 11
 AT4G34210.1	SKP1-like 11
-AT4G34215	Domain of unknown function (DUF303)
-AT4G34215.1	Domain of unknown function (DUF303)
-AT4G34215.2	Domain of unknown function (DUF303)
+AT4G34215	Domain of unknown function (DUF303) 
+AT4G34215.1	Domain of unknown function (DUF303) 
+AT4G34215.2	Domain of unknown function (DUF303) 
 AT4G34220	Leucine-rich repeat protein kinase family protein
 AT4G34220.1	Leucine-rich repeat protein kinase family protein
 AT4G34230	cinnamyl alcohol dehydrogenase 5
@@ -52378,21 +52378,21 @@ AT4G34730	ribosome-binding factor A family protein
 AT4G34730.1	ribosome-binding factor A family protein
 AT4G34740	GLN phosphoribosyl pyrophosphate amidotransferase 2
 AT4G34740.1	GLN phosphoribosyl pyrophosphate amidotransferase 2
-AT4G34750	SAUR-like auxin-responsive protein family
-AT4G34750.1	SAUR-like auxin-responsive protein family
-AT4G34750.2	SAUR-like auxin-responsive protein family
-AT4G34760	SAUR-like auxin-responsive protein family
-AT4G34760.1	SAUR-like auxin-responsive protein family
-AT4G34770	SAUR-like auxin-responsive protein family
-AT4G34770.1	SAUR-like auxin-responsive protein family
-AT4G34780	SAUR-like auxin-responsive protein family
-AT4G34780.1	SAUR-like auxin-responsive protein family
-AT4G34790	SAUR-like auxin-responsive protein family
-AT4G34790.1	SAUR-like auxin-responsive protein family
-AT4G34800	SAUR-like auxin-responsive protein family
-AT4G34800.1	SAUR-like auxin-responsive protein family
-AT4G34810	SAUR-like auxin-responsive protein family
-AT4G34810.1	SAUR-like auxin-responsive protein family
+AT4G34750	SAUR-like auxin-responsive protein family 
+AT4G34750.1	SAUR-like auxin-responsive protein family 
+AT4G34750.2	SAUR-like auxin-responsive protein family 
+AT4G34760	SAUR-like auxin-responsive protein family 
+AT4G34760.1	SAUR-like auxin-responsive protein family 
+AT4G34770	SAUR-like auxin-responsive protein family 
+AT4G34770.1	SAUR-like auxin-responsive protein family 
+AT4G34780	SAUR-like auxin-responsive protein family 
+AT4G34780.1	SAUR-like auxin-responsive protein family 
+AT4G34790	SAUR-like auxin-responsive protein family 
+AT4G34790.1	SAUR-like auxin-responsive protein family 
+AT4G34800	SAUR-like auxin-responsive protein family 
+AT4G34800.1	SAUR-like auxin-responsive protein family 
+AT4G34810	SAUR-like auxin-responsive protein family 
+AT4G34810.1	SAUR-like auxin-responsive protein family 
 AT4G34830	Pentatricopeptide repeat (PPR) superfamily protein
 AT4G34830.1	Pentatricopeptide repeat (PPR) superfamily protein
 AT4G34840	Phosphorylase superfamily protein
@@ -52448,8 +52448,8 @@ AT4G35040	Basic-leucine zipper (bZIP) transcription factor family protein
 AT4G35040.1	Basic-leucine zipper (bZIP) transcription factor family protein
 AT4G35050	Transducin family protein / WD-40 repeat family protein
 AT4G35050.1	Transducin family protein / WD-40 repeat family protein
-AT4G35060	Heavy metal transport/detoxification superfamily protein
-AT4G35060.1	Heavy metal transport/detoxification superfamily protein
+AT4G35060	Heavy metal transport/detoxification superfamily protein 
+AT4G35060.1	Heavy metal transport/detoxification superfamily protein 
 AT4G35070	SBP (S-ribonuclease binding protein) family protein
 AT4G35070.1	SBP (S-ribonuclease binding protein) family protein
 AT4G35070.2	SBP (S-ribonuclease binding protein) family protein
@@ -52618,9 +52618,9 @@ AT4G35730.1	Regulator of Vps4 activity in the MVB pathway protein
 AT4G35731.1	unknown protein
 AT4G35733	F-box family protein with a domain of unknown function (DUF295)
 AT4G35733.1	F-box family protein with a domain of unknown function (DUF295)
-AT4G35740	DEAD/DEAH box RNA helicase family protein
-AT4G35740.1	DEAD/DEAH box RNA helicase family protein
-AT4G35740.2	DEAD/DEAH box RNA helicase family protein
+AT4G35740	DEAD/DEAH box RNA helicase family protein 
+AT4G35740.1	DEAD/DEAH box RNA helicase family protein 
+AT4G35740.2	DEAD/DEAH box RNA helicase family protein 
 AT4G35750	SEC14 cytosolic factor family protein / phosphoglyceride transfer family protein
 AT4G35750.1	SEC14 cytosolic factor family protein / phosphoglyceride transfer family protein
 AT4G35760	NAD(P)H dehydrogenase (quinone)s
@@ -52723,8 +52723,8 @@ AT4G36100	Sec1/munc18-like (SM) proteins superfamily
 AT4G36100.1	Sec1/munc18-like (SM) proteins superfamily
 AT4G36105.1	unknown protein
 AT4G36105.2	unknown protein
-AT4G36110	SAUR-like auxin-responsive protein family
-AT4G36110.1	SAUR-like auxin-responsive protein family
+AT4G36110	SAUR-like auxin-responsive protein family 
+AT4G36110.1	SAUR-like auxin-responsive protein family 
 AT4G36120	Plant protein of unknown function (DUF869)
 AT4G36120.1	Plant protein of unknown function (DUF869)
 AT4G36130	Ribosomal protein L2 family
@@ -53348,16 +53348,16 @@ AT4G38810	Calcium-binding EF-hand family protein
 AT4G38810.1	Calcium-binding EF-hand family protein
 AT4G38810.2	Calcium-binding EF-hand family protein
 AT4G38820.1	unknown protein
-AT4G38825	SAUR-like auxin-responsive protein family
-AT4G38825.1	SAUR-like auxin-responsive protein family
+AT4G38825	SAUR-like auxin-responsive protein family 
+AT4G38825.1	SAUR-like auxin-responsive protein family 
 AT4G38830	cysteine-rich RLK (RECEPTOR-like protein kinase) 26
 AT4G38830.1	cysteine-rich RLK (RECEPTOR-like protein kinase) 26
-AT4G38840	SAUR-like auxin-responsive protein family
-AT4G38840.1	SAUR-like auxin-responsive protein family
-AT4G38850	SAUR-like auxin-responsive protein family
-AT4G38850.1	SAUR-like auxin-responsive protein family
-AT4G38860	SAUR-like auxin-responsive protein family
-AT4G38860.1	SAUR-like auxin-responsive protein family
+AT4G38840	SAUR-like auxin-responsive protein family 
+AT4G38840.1	SAUR-like auxin-responsive protein family 
+AT4G38850	SAUR-like auxin-responsive protein family 
+AT4G38850.1	SAUR-like auxin-responsive protein family 
+AT4G38860	SAUR-like auxin-responsive protein family 
+AT4G38860.1	SAUR-like auxin-responsive protein family 
 AT4G38870	F-box and associated interaction domains-containing protein
 AT4G38870.1	F-box and associated interaction domains-containing protein
 AT4G38880	GLN phosphoribosyl pyrophosphate amidotransferase 3
@@ -53569,8 +53569,8 @@ AT4G39680	SAP domain-containing protein
 AT4G39680.1	SAP domain-containing protein
 AT4G39680.2	SAP domain-containing protein
 AT4G39690.1	unknown protein
-AT4G39700	Heavy metal transport/detoxification superfamily protein
-AT4G39700.1	Heavy metal transport/detoxification superfamily protein
+AT4G39700	Heavy metal transport/detoxification superfamily protein 
+AT4G39700.1	Heavy metal transport/detoxification superfamily protein 
 AT4G39710	FK506-binding protein 16-2
 AT4G39710.1	FK506-binding protein 16-2
 AT4G39710.2	FK506-binding protein 16-2
@@ -54070,12 +54070,12 @@ AT5G02580.1	Plant protein 1589 of unknown function
 AT5G02580.2	Plant protein 1589 of unknown function
 AT5G02590	Tetratricopeptide repeat (TPR)-like superfamily protein
 AT5G02590.1	Tetratricopeptide repeat (TPR)-like superfamily protein
-AT5G02600	Heavy metal transport/detoxification superfamily protein
-AT5G02600.1	Heavy metal transport/detoxification superfamily protein
-AT5G02600.2	Heavy metal transport/detoxification superfamily protein
-AT5G02610	Ribosomal L29 family protein
-AT5G02610.1	Ribosomal L29 family protein
-AT5G02610.2	Ribosomal L29 family protein
+AT5G02600	Heavy metal transport/detoxification superfamily protein 
+AT5G02600.1	Heavy metal transport/detoxification superfamily protein 
+AT5G02600.2	Heavy metal transport/detoxification superfamily protein 
+AT5G02610	Ribosomal L29 family protein 
+AT5G02610.1	Ribosomal L29 family protein 
+AT5G02610.2	Ribosomal L29 family protein 
 AT5G02615	pre-tRNA
 AT5G02615.1	pre-tRNA
 AT5G02620	ankyrin-like1
@@ -54222,8 +54222,8 @@ AT5G03290	isocitrate dehydrogenase V
 AT5G03290.1	isocitrate dehydrogenase V
 AT5G03300	adenosine kinase 2
 AT5G03300.1	adenosine kinase 2
-AT5G03310	SAUR-like auxin-responsive protein family
-AT5G03310.1	SAUR-like auxin-responsive protein family
+AT5G03310	SAUR-like auxin-responsive protein family 
+AT5G03310.1	SAUR-like auxin-responsive protein family 
 AT5G03320	Protein kinase superfamily protein
 AT5G03320.1	Protein kinase superfamily protein
 AT5G03330	Cysteine proteinases superfamily protein
@@ -54241,9 +54241,9 @@ AT5G03360.2	DC1 domain-containing protein
 AT5G03370	acylphosphatase family
 AT5G03370.1	acylphosphatase family
 AT5G03377.1	unknown protein
-AT5G03380	Heavy metal transport/detoxification superfamily protein
-AT5G03380.1	Heavy metal transport/detoxification superfamily protein
-AT5G03380.2	Heavy metal transport/detoxification superfamily protein
+AT5G03380	Heavy metal transport/detoxification superfamily protein 
+AT5G03380.1	Heavy metal transport/detoxification superfamily protein 
+AT5G03380.2	Heavy metal transport/detoxification superfamily protein 
 AT5G03390	Protein of unknown function (DUF295)
 AT5G03390.1	Protein of unknown function (DUF295)
 AT5G03400.1	unknown protein
@@ -54320,9 +54320,9 @@ AT5G03640	Protein kinase superfamily protein
 AT5G03640.1	Protein kinase superfamily protein
 AT5G03650	starch branching enzyme 2.2
 AT5G03650.1	starch branching enzyme 2.2
-AT5G03660	Family of unknown function (DUF662)
-AT5G03660.1	Family of unknown function (DUF662)
-AT5G03660.2	Family of unknown function (DUF662)
+AT5G03660	Family of unknown function (DUF662) 
+AT5G03660.1	Family of unknown function (DUF662) 
+AT5G03660.2	Family of unknown function (DUF662) 
 AT5G03668	other RNA
 AT5G03668.1	other RNA
 AT5G03670.1	unknown protein
@@ -54720,8 +54720,8 @@ AT5G05350	PLAC8 family protein
 AT5G05350.1	PLAC8 family protein
 AT5G05360.1	unknown protein
 AT5G05360.2	unknown protein
-AT5G05365	Heavy metal transport/detoxification superfamily protein
-AT5G05365.1	Heavy metal transport/detoxification superfamily protein
+AT5G05365	Heavy metal transport/detoxification superfamily protein 
+AT5G05365.1	Heavy metal transport/detoxification superfamily protein 
 AT5G05370	Cytochrome b-c1 complex, subunit 8 protein
 AT5G05370.1	Cytochrome b-c1 complex, subunit 8 protein
 AT5G05380	prenylated RAB acceptor 1.B3
@@ -54743,8 +54743,8 @@ AT5G05440	Polyketide cyclase/dehydrase and lipid transport superfamily protein
 AT5G05440.1	Polyketide cyclase/dehydrase and lipid transport superfamily protein
 AT5G05450	P-loop containing nucleoside triphosphate hydrolases superfamily protein
 AT5G05450.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
-AT5G05460	Glycosyl hydrolase family 85
-AT5G05460.1	Glycosyl hydrolase family 85
+AT5G05460	Glycosyl hydrolase family 85 
+AT5G05460.1	Glycosyl hydrolase family 85 
 AT5G05470	eukaryotic translation initiation factor 2 alpha subunit
 AT5G05470.1	eukaryotic translation initiation factor 2 alpha subunit
 AT5G05480	Peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase A protein
@@ -55459,8 +55459,8 @@ AT5G08315.1	Defensin-like (DEFL) family protein
 AT5G08320.1	unknown protein
 AT5G08330	TCP family transcription factor
 AT5G08330.1	TCP family transcription factor
-AT5G08335	Isoprenylcysteine carboxyl methyltransferase (ICMT) family
-AT5G08335.1	Isoprenylcysteine carboxyl methyltransferase (ICMT) family
+AT5G08335	Isoprenylcysteine carboxyl methyltransferase (ICMT) family 
+AT5G08335.1	Isoprenylcysteine carboxyl methyltransferase (ICMT) family 
 AT5G08340	Nucleotidylyl transferase superfamily protein
 AT5G08340.1	Nucleotidylyl transferase superfamily protein
 AT5G08340.2	Nucleotidylyl transferase superfamily protein
@@ -55828,10 +55828,10 @@ AT5G10120	Ethylene insensitive 3 family protein
 AT5G10120.1	Ethylene insensitive 3 family protein
 AT5G10130	Pollen Ole e 1 allergen and extensin family protein
 AT5G10130.1	Pollen Ole e 1 allergen and extensin family protein
-AT5G10140	K-box region and MADS-box transcription factor family protein
-AT5G10140.1	K-box region and MADS-box transcription factor family protein
-AT5G10140.2	K-box region and MADS-box transcription factor family protein
-AT5G10140.3	K-box region and MADS-box transcription factor family protein
+AT5G10140	K-box region and MADS-box transcription factor family protein 
+AT5G10140.1	K-box region and MADS-box transcription factor family protein 
+AT5G10140.2	K-box region and MADS-box transcription factor family protein 
+AT5G10140.3	K-box region and MADS-box transcription factor family protein 
 AT5G10140.4	K-box region and MADS-box transcription factor family protein
 AT5G10150	Domain of unknown function (DUF966)
 AT5G10150.1	Domain of unknown function (DUF966)
@@ -56042,8 +56042,8 @@ AT5G10970	C2H2 and C2HC zinc fingers superfamily protein
 AT5G10970.1	C2H2 and C2HC zinc fingers superfamily protein
 AT5G10980	Histone superfamily protein
 AT5G10980.1	Histone superfamily protein
-AT5G10990	SAUR-like auxin-responsive protein family
-AT5G10990.1	SAUR-like auxin-responsive protein family
+AT5G10990	SAUR-like auxin-responsive protein family 
+AT5G10990.1	SAUR-like auxin-responsive protein family 
 AT5G11000	Plant protein of unknown function (DUF868)
 AT5G11000.1	Plant protein of unknown function (DUF868)
 AT5G11010	Pre-mRNA cleavage complex II protein family
@@ -56081,17 +56081,17 @@ AT5G11150	vesicle-associated membrane protein 713
 AT5G11150.1	vesicle-associated membrane protein 713
 AT5G11160	adenine phosphoribosyltransferase 5
 AT5G11160.1	adenine phosphoribosyltransferase 5
-AT5G11170	DEAD/DEAH box RNA helicase family protein
-AT5G11170.1	DEAD/DEAH box RNA helicase family protein
-AT5G11170.2	DEAD/DEAH box RNA helicase family protein
+AT5G11170	DEAD/DEAH box RNA helicase family protein 
+AT5G11170.1	DEAD/DEAH box RNA helicase family protein 
+AT5G11170.2	DEAD/DEAH box RNA helicase family protein 
 AT5G11180	glutamate receptor 2.6
 AT5G11180.1	glutamate receptor 2.6
 AT5G11190	Integrase-type DNA-binding superfamily protein
 AT5G11190.1	Integrase-type DNA-binding superfamily protein
-AT5G11200	DEAD/DEAH box RNA helicase family protein
-AT5G11200.1	DEAD/DEAH box RNA helicase family protein
-AT5G11200.2	DEAD/DEAH box RNA helicase family protein
-AT5G11200.3	DEAD/DEAH box RNA helicase family protein
+AT5G11200	DEAD/DEAH box RNA helicase family protein 
+AT5G11200.1	DEAD/DEAH box RNA helicase family protein 
+AT5G11200.2	DEAD/DEAH box RNA helicase family protein 
+AT5G11200.3	DEAD/DEAH box RNA helicase family protein 
 AT5G11210	glutamate receptor 2.5
 AT5G11210.1	glutamate receptor 2.5
 AT5G11220.1	unknown protein
@@ -56622,10 +56622,10 @@ AT5G13870.1	xyloglucan endotransglucosylase/hydrolase 5
 AT5G13880.1	unknown protein
 AT5G13887	MIR848a; miRNA
 AT5G13887.1	MIR848a; miRNA
-AT5G13890	Family of unknown function (DUF716)
-AT5G13890.1	Family of unknown function (DUF716)
-AT5G13890.2	Family of unknown function (DUF716)
-AT5G13890.3	Family of unknown function (DUF716)
+AT5G13890	Family of unknown function (DUF716) 
+AT5G13890.1	Family of unknown function (DUF716) 
+AT5G13890.2	Family of unknown function (DUF716) 
+AT5G13890.3	Family of unknown function (DUF716) 
 AT5G13900	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein
 AT5G13900.1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein
 AT5G13910	Integrase-type DNA-binding superfamily protein
@@ -56857,8 +56857,8 @@ AT5G14890	NHL domain-containing protein
 AT5G14890.1	NHL domain-containing protein
 AT5G14900	helicase associated (HA2) domain-containing protein
 AT5G14900.1	helicase associated (HA2) domain-containing protein
-AT5G14910	Heavy metal transport/detoxification superfamily protein
-AT5G14910.1	Heavy metal transport/detoxification superfamily protein
+AT5G14910	Heavy metal transport/detoxification superfamily protein 
+AT5G14910.1	Heavy metal transport/detoxification superfamily protein 
 AT5G14920	Gibberellin-regulated family protein
 AT5G14920.1	Gibberellin-regulated family protein
 AT5G14920.2	Gibberellin-regulated family protein
@@ -57060,9 +57060,9 @@ AT5G15780.1	Pollen Ole e 1 allergen and extensin family protein
 AT5G15790	RING/U-box superfamily protein
 AT5G15790.1	RING/U-box superfamily protein
 AT5G15790.2	RING/U-box superfamily protein
-AT5G15800	K-box region and MADS-box transcription factor family protein
-AT5G15800.1	K-box region and MADS-box transcription factor family protein
-AT5G15800.2	K-box region and MADS-box transcription factor family protein
+AT5G15800	K-box region and MADS-box transcription factor family protein 
+AT5G15800.1	K-box region and MADS-box transcription factor family protein 
+AT5G15800.2	K-box region and MADS-box transcription factor family protein 
 AT5G15802.1	unknown protein
 AT5G15805	pre-tRNA
 AT5G15805.1	pre-tRNA
@@ -57451,9 +57451,9 @@ AT5G17430	Integrase-type DNA-binding superfamily protein
 AT5G17430.1	Integrase-type DNA-binding superfamily protein
 AT5G17440	LUC7 related protein
 AT5G17440.1	LUC7 related protein
-AT5G17450	Heavy metal transport/detoxification superfamily protein
-AT5G17450.1	Heavy metal transport/detoxification superfamily protein
-AT5G17450.2	Heavy metal transport/detoxification superfamily protein
+AT5G17450	Heavy metal transport/detoxification superfamily protein 
+AT5G17450.1	Heavy metal transport/detoxification superfamily protein 
+AT5G17450.2	Heavy metal transport/detoxification superfamily protein 
 AT5G17460.1	unknown protein
 AT5G17460.2	unknown protein
 AT5G17470	EF hand calcium-binding protein family
@@ -57576,22 +57576,22 @@ AT5G18010	SAUR-like auxin-responsive protein family
 AT5G18010.1	SAUR-like auxin-responsive protein family
 AT5G18015	pre-tRNA
 AT5G18015.1	pre-tRNA
-AT5G18020	SAUR-like auxin-responsive protein family
-AT5G18020.1	SAUR-like auxin-responsive protein family
-AT5G18030	SAUR-like auxin-responsive protein family
-AT5G18030.1	SAUR-like auxin-responsive protein family
+AT5G18020	SAUR-like auxin-responsive protein family 
+AT5G18020.1	SAUR-like auxin-responsive protein family 
+AT5G18030	SAUR-like auxin-responsive protein family 
+AT5G18030.1	SAUR-like auxin-responsive protein family 
 AT5G18037	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein
 AT5G18037.1	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein
 AT5G18040.1	unknown protein
-AT5G18050	SAUR-like auxin-responsive protein family
-AT5G18050.1	SAUR-like auxin-responsive protein family
-AT5G18060	SAUR-like auxin-responsive protein family
-AT5G18060.1	SAUR-like auxin-responsive protein family
+AT5G18050	SAUR-like auxin-responsive protein family 
+AT5G18050.1	SAUR-like auxin-responsive protein family 
+AT5G18060	SAUR-like auxin-responsive protein family 
+AT5G18060.1	SAUR-like auxin-responsive protein family 
 AT5G18065.1	unknown protein
 AT5G18070	phosphoglucosamine mutase-related
 AT5G18070.1	phosphoglucosamine mutase-related
-AT5G18080	SAUR-like auxin-responsive protein family
-AT5G18080.1	SAUR-like auxin-responsive protein family
+AT5G18080	SAUR-like auxin-responsive protein family 
+AT5G18080.1	SAUR-like auxin-responsive protein family 
 AT5G18085	pre-tRNA
 AT5G18085.1	pre-tRNA
 AT5G18090	AP2/B3-like transcriptional factor family protein
@@ -57848,10 +57848,10 @@ AT5G19070	SNARE associated Golgi protein family
 AT5G19070.1	SNARE associated Golgi protein family
 AT5G19080	RING/U-box superfamily protein
 AT5G19080.1	RING/U-box superfamily protein
-AT5G19090	Heavy metal transport/detoxification superfamily protein
-AT5G19090.1	Heavy metal transport/detoxification superfamily protein
-AT5G19090.2	Heavy metal transport/detoxification superfamily protein
-AT5G19090.3	Heavy metal transport/detoxification superfamily protein
+AT5G19090	Heavy metal transport/detoxification superfamily protein 
+AT5G19090.1	Heavy metal transport/detoxification superfamily protein 
+AT5G19090.2	Heavy metal transport/detoxification superfamily protein 
+AT5G19090.3	Heavy metal transport/detoxification superfamily protein 
 AT5G19095	pre-tRNA
 AT5G19095.1	pre-tRNA
 AT5G19097	transposable element gene
@@ -58041,8 +58041,8 @@ AT5G19855	Chaperonin-like RbcX protein
 AT5G19855.1	Chaperonin-like RbcX protein
 AT5G19860	Protein of unknown function, DUF538
 AT5G19860.1	Protein of unknown function, DUF538
-AT5G19870	Family of unknown function (DUF716)
-AT5G19870.1	Family of unknown function (DUF716)
+AT5G19870	Family of unknown function (DUF716) 
+AT5G19870.1	Family of unknown function (DUF716) 
 AT5G19875.1	unknown protein
 AT5G19880	Peroxidase superfamily protein
 AT5G19880.1	Peroxidase superfamily protein
@@ -58133,8 +58133,8 @@ AT5G20225	other RNA
 AT5G20225.1	other RNA
 AT5G20230	blue-copper-binding protein
 AT5G20230.1	blue-copper-binding protein
-AT5G20240	K-box region and MADS-box transcription factor family protein
-AT5G20240.1	K-box region and MADS-box transcription factor family protein
+AT5G20240	K-box region and MADS-box transcription factor family protein 
+AT5G20240.1	K-box region and MADS-box transcription factor family protein 
 AT5G20250	Raffinose synthase family protein
 AT5G20250.1	Raffinose synthase family protein
 AT5G20250.2	Raffinose synthase family protein
@@ -58262,11 +58262,11 @@ AT5G20790.1	unknown protein
 AT5G20790.2	unknown protein
 AT5G20800	transposable element gene
 AT5G20800.1	transposable element gene
-AT5G20810	SAUR-like auxin-responsive protein family
-AT5G20810.1	SAUR-like auxin-responsive protein family
-AT5G20810.2	SAUR-like auxin-responsive protein family
-AT5G20820	SAUR-like auxin-responsive protein family
-AT5G20820.1	SAUR-like auxin-responsive protein family
+AT5G20810	SAUR-like auxin-responsive protein family 
+AT5G20810.1	SAUR-like auxin-responsive protein family 
+AT5G20810.2	SAUR-like auxin-responsive protein family 
+AT5G20820	SAUR-like auxin-responsive protein family 
+AT5G20820.1	SAUR-like auxin-responsive protein family 
 AT5G20830	sucrose synthase 1
 AT5G20830.1	sucrose synthase 1
 AT5G20830.2	sucrose synthase 1
@@ -58693,14 +58693,14 @@ AT5G23240.1	DNAJ heat shock N-terminal domain-containing protein
 AT5G23250	Succinyl-CoA ligase, alpha subunit
 AT5G23250.1	Succinyl-CoA ligase, alpha subunit
 AT5G23250.2	Succinyl-CoA ligase, alpha subunit
-AT5G23260	K-box region and MADS-box transcription factor family protein
-AT5G23260.1	K-box region and MADS-box transcription factor family protein
-AT5G23260.2	K-box region and MADS-box transcription factor family protein
-AT5G23260.3	K-box region and MADS-box transcription factor family protein
+AT5G23260	K-box region and MADS-box transcription factor family protein 
+AT5G23260.1	K-box region and MADS-box transcription factor family protein 
+AT5G23260.2	K-box region and MADS-box transcription factor family protein 
+AT5G23260.3	K-box region and MADS-box transcription factor family protein 
 AT5G23270	sugar transporter 11
 AT5G23270.1	sugar transporter 11
-AT5G23280	TCP family transcription factor
-AT5G23280.1	TCP family transcription factor
+AT5G23280	TCP family transcription factor 
+AT5G23280.1	TCP family transcription factor 
 AT5G23290	prefoldin 5
 AT5G23290.1	prefoldin 5
 AT5G23300	pyrimidine d
@@ -58877,8 +58877,8 @@ AT5G24030.1	SLAC1 homologue 3
 AT5G24040	Protein of unknown function (DUF295)
 AT5G24040.1	Protein of unknown function (DUF295)
 AT5G24040.2	Protein of unknown function (DUF295)
-AT5G24050	Domain of unknown function (DUF313)
-AT5G24050.1	Domain of unknown function (DUF313)
+AT5G24050	Domain of unknown function (DUF313) 
+AT5G24050.1	Domain of unknown function (DUF313) 
 AT5G24060	Pentatricopeptide repeat (PPR) superfamily protein
 AT5G24060.1	Pentatricopeptide repeat (PPR) superfamily protein
 AT5G24060.2	Pentatricopeptide repeat (PPR) superfamily protein
@@ -59013,10 +59013,10 @@ AT5G24557.1	unknown protein
 AT5G24560	phloem protein 2-B12
 AT5G24560.1	phloem protein 2-B12
 AT5G24570.1	unknown protein
-AT5G24580	Heavy metal transport/detoxification superfamily protein
-AT5G24580.1	Heavy metal transport/detoxification superfamily protein
-AT5G24580.2	Heavy metal transport/detoxification superfamily protein
-AT5G24580.3	Heavy metal transport/detoxification superfamily protein
+AT5G24580	Heavy metal transport/detoxification superfamily protein 
+AT5G24580.1	Heavy metal transport/detoxification superfamily protein 
+AT5G24580.2	Heavy metal transport/detoxification superfamily protein 
+AT5G24580.3	Heavy metal transport/detoxification superfamily protein 
 AT5G24590	TCV-interacting protein
 AT5G24590.2	TCV-interacting protein
 AT5G24593.1	unknown protein
@@ -59477,8 +59477,8 @@ AT5G26673.1	Putative membrane lipoprotein
 AT5G26680	5'-3' exonuclease family protein
 AT5G26680.1	5'-3' exonuclease family protein
 AT5G26680.2	5'-3' exonuclease family protein
-AT5G26690	Heavy metal transport/detoxification superfamily protein
-AT5G26690.1	Heavy metal transport/detoxification superfamily protein
+AT5G26690	Heavy metal transport/detoxification superfamily protein 
+AT5G26690.1	Heavy metal transport/detoxification superfamily protein 
 AT5G26692	Putative membrane lipoprotein
 AT5G26692.1	Putative membrane lipoprotein
 AT5G26700	RmlC-like cupins superfamily protein
@@ -59722,10 +59722,10 @@ AT5G27670	histone H2A 7
 AT5G27670.1	histone H2A 7
 AT5G27680	RECQ helicase SIM
 AT5G27680.1	RECQ helicase SIM
-AT5G27690	Heavy metal transport/detoxification superfamily protein
-AT5G27690.1	Heavy metal transport/detoxification superfamily protein
-AT5G27700	Ribosomal protein S21e
-AT5G27700.1	Ribosomal protein S21e
+AT5G27690	Heavy metal transport/detoxification superfamily protein 
+AT5G27690.1	Heavy metal transport/detoxification superfamily protein 
+AT5G27700	Ribosomal protein S21e 
+AT5G27700.1	Ribosomal protein S21e 
 AT5G27705	transposable element gene
 AT5G27705.1	transposable element gene
 AT5G27710.1	unknown protein
@@ -59735,8 +59735,8 @@ AT5G27720	Small nuclear ribonucleoprotein family protein
 AT5G27720.1	Small nuclear ribonucleoprotein family protein
 AT5G27730	Protein of unknown function (DUF1624)
 AT5G27730.1	Protein of unknown function (DUF1624)
-AT5G27740	ATPase family associated with various cellular activities (AAA)
-AT5G27740.1	ATPase family associated with various cellular activities (AAA)
+AT5G27740	ATPase family associated with various cellular activities (AAA) 
+AT5G27740.1	ATPase family associated with various cellular activities (AAA) 
 AT5G27750	F-box/FBD-like domains containing protein
 AT5G27750.1	F-box/FBD-like domains containing protein
 AT5G27760	Hypoxia-responsive family protein
@@ -59744,8 +59744,8 @@ AT5G27760.1	Hypoxia-responsive family protein
 AT5G27770	Ribosomal L22e protein family
 AT5G27770.1	Ribosomal L22e protein family
 AT5G27771.1	unknown protein
-AT5G27780	SAUR-like auxin-responsive protein family
-AT5G27780.1	SAUR-like auxin-responsive protein family
+AT5G27780	SAUR-like auxin-responsive protein family 
+AT5G27780.1	SAUR-like auxin-responsive protein family 
 AT5G27790	Protein kinase superfamily protein
 AT5G27790.1	Protein kinase superfamily protein
 AT5G27800	Class II aminoacyl-tRNA and biotin synthetases superfamily protein
@@ -61976,8 +61976,8 @@ AT5G37850	pfkB-like carbohydrate kinase family protein
 AT5G37850.1	pfkB-like carbohydrate kinase family protein
 AT5G37850.2	pfkB-like carbohydrate kinase family protein
 AT5G37850.3	pfkB-like carbohydrate kinase family protein
-AT5G37860	Heavy metal transport/detoxification superfamily protein
-AT5G37860.1	Heavy metal transport/detoxification superfamily protein
+AT5G37860	Heavy metal transport/detoxification superfamily protein 
+AT5G37860.1	Heavy metal transport/detoxification superfamily protein 
 AT5G37870	Protein with RING/U-box and TRAF-like domains
 AT5G37870.1	Protein with RING/U-box and TRAF-like domains
 AT5G37872	transposable element gene
@@ -62149,10 +62149,10 @@ AT5G38470.2	Rad23 UV excision repair protein family
 AT5G38480	general regulatory factor 3
 AT5G38480.1	general regulatory factor 3
 AT5G38480.2	general regulatory factor 3
-AT5G38490	Domain of unknown function (DUF313)
-AT5G38490.1	Domain of unknown function (DUF313)
-AT5G38500	Domain of unknown function (DUF313)
-AT5G38500.1	Domain of unknown function (DUF313)
+AT5G38490	Domain of unknown function (DUF313) 
+AT5G38490.1	Domain of unknown function (DUF313) 
+AT5G38500	Domain of unknown function (DUF313) 
+AT5G38500.1	Domain of unknown function (DUF313) 
 AT5G38510	Rhomboid-related intramembrane serine protease family protein
 AT5G38510.1	Rhomboid-related intramembrane serine protease family protein
 AT5G38510.2	Rhomboid-related intramembrane serine protease family protein
@@ -62226,8 +62226,8 @@ AT5G38820	Transmembrane amino acid transporter family protein
 AT5G38820.1	Transmembrane amino acid transporter family protein
 AT5G38830	Cysteinyl-tRNA synthetase, class Ia family protein
 AT5G38830.1	Cysteinyl-tRNA synthetase, class Ia family protein
-AT5G38840	SMAD/FHA domain-containing protein
-AT5G38840.1	SMAD/FHA domain-containing protein
+AT5G38840	SMAD/FHA domain-containing protein 
+AT5G38840.1	SMAD/FHA domain-containing protein 
 AT5G38850	Disease resistance protein (TIR-NBS-LRR class)
 AT5G38850.1	Disease resistance protein (TIR-NBS-LRR class)
 AT5G38860	BES1-interacting Myc-like protein 3
@@ -62360,8 +62360,8 @@ AT5G39390	Leucine-rich repeat protein kinase family protein
 AT5G39390.1	Leucine-rich repeat protein kinase family protein
 AT5G39400	Calcium/lipid-binding (CaLB) phosphatase
 AT5G39400.1	Calcium/lipid-binding (CaLB) phosphatase
-AT5G39410	Saccharopine dehydrogenase
-AT5G39410.1	Saccharopine dehydrogenase
+AT5G39410	Saccharopine dehydrogenase 
+AT5G39410.1	Saccharopine dehydrogenase 
 AT5G39420	CDC2C
 AT5G39420.1	CDC2C
 AT5G39430	Protein of unknown function (DUF1336)
@@ -62748,8 +62748,8 @@ AT5G41010	DNA directed RNA polymerase, 7 kDa subunit
 AT5G41010.1	DNA directed RNA polymerase, 7 kDa subunit
 AT5G41020	myb family transcription factor
 AT5G41020.1	myb family transcription factor
-AT5G41030	TCP family transcription factor
-AT5G41030.1	TCP family transcription factor
+AT5G41030	TCP family transcription factor 
+AT5G41030.1	TCP family transcription factor 
 AT5G41040	HXXXD-type acyl-transferase family protein
 AT5G41040.1	HXXXD-type acyl-transferase family protein
 AT5G41040.2	HXXXD-type acyl-transferase family protein
@@ -63080,8 +63080,8 @@ AT5G42390.1	Insulinase (Peptidase family M16) family protein
 AT5G42400	SET domain protein 25
 AT5G42400.1	SET domain protein 25
 AT5G42405.1	unknown protein
-AT5G42410	SAUR-like auxin-responsive protein family
-AT5G42410.1	SAUR-like auxin-responsive protein family
+AT5G42410	SAUR-like auxin-responsive protein family 
+AT5G42410.1	SAUR-like auxin-responsive protein family 
 AT5G42420	Nucleotide-sugar transporter family protein
 AT5G42420.1	Nucleotide-sugar transporter family protein
 AT5G42420.2	Nucleotide-sugar transporter family protein
@@ -63282,8 +63282,8 @@ AT5G43130.2	TBP-associated factor 4
 AT5G43140	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein
 AT5G43140.1	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein
 AT5G43150.1	unknown protein
-AT5G43160	Family of unknown function (DUF566)
-AT5G43160.1	Family of unknown function (DUF566)
+AT5G43160	Family of unknown function (DUF566) 
+AT5G43160.1	Family of unknown function (DUF566) 
 AT5G43170	zinc-finger protein 3
 AT5G43170.1	zinc-finger protein 3
 AT5G43175	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
@@ -63522,8 +63522,8 @@ AT5G44000	Glutathione S-transferase family protein
 AT5G44000.1	Glutathione S-transferase family protein
 AT5G44005.1	unknown protein
 AT5G44010.1	unknown protein
-AT5G44020	HAD superfamily, subfamily IIIB acid phosphatase
-AT5G44020.1	HAD superfamily, subfamily IIIB acid phosphatase
+AT5G44020	HAD superfamily, subfamily IIIB acid phosphatase 
+AT5G44020.1	HAD superfamily, subfamily IIIB acid phosphatase 
 AT5G44030	cellulose synthase A4
 AT5G44030.1	cellulose synthase A4
 AT5G44040.1	unknown protein
@@ -64481,8 +64481,8 @@ AT5G47770	farnesyl diphosphate synthase 1
 AT5G47770.1	farnesyl diphosphate synthase 1
 AT5G47780	galacturonosyltransferase 4
 AT5G47780.1	galacturonosyltransferase 4
-AT5G47790	SMAD/FHA domain-containing protein
-AT5G47790.1	SMAD/FHA domain-containing protein
+AT5G47790	SMAD/FHA domain-containing protein 
+AT5G47790.1	SMAD/FHA domain-containing protein 
 AT5G47800	Phototropic-responsive NPH3 family protein
 AT5G47800.1	Phototropic-responsive NPH3 family protein
 AT5G47810	phosphofructokinase 2
@@ -64599,9 +64599,9 @@ AT5G48250.1	B-box type zinc finger protein with CCT domain
 AT5G48270	Plant protein of unknown function (DUF868)
 AT5G48270.1	Plant protein of unknown function (DUF868)
 AT5G48280.1	unknown protein
-AT5G48290	Heavy metal transport/detoxification superfamily protein
-AT5G48290.1	Heavy metal transport/detoxification superfamily protein
-AT5G48290.2	Heavy metal transport/detoxification superfamily protein
+AT5G48290	Heavy metal transport/detoxification superfamily protein 
+AT5G48290.1	Heavy metal transport/detoxification superfamily protein 
+AT5G48290.2	Heavy metal transport/detoxification superfamily protein 
 AT5G48300	ADP glucose pyrophosphorylase  1
 AT5G48300.1	ADP glucose pyrophosphorylase  1
 AT5G48310.1	unknown protein
@@ -64704,8 +64704,8 @@ AT5G48655.3	RING/U-box superfamily protein
 AT5G48657	defense protein-related
 AT5G48657.1	defense protein-related
 AT5G48657.2	defense protein-related
-AT5G48660	B-cell receptor-associated protein 31-like
-AT5G48660.1	B-cell receptor-associated protein 31-like
+AT5G48660	B-cell receptor-associated protein 31-like 
+AT5G48660.1	B-cell receptor-associated protein 31-like 
 AT5G48670	AGAMOUS-like 80
 AT5G48670.1	AGAMOUS-like 80
 AT5G48675	pre-tRNA
@@ -65206,15 +65206,15 @@ AT5G50717	MIR405B; miRNA
 AT5G50717.1	MIR405B; miRNA
 AT5G50720	HVA22 homologue E
 AT5G50720.1	HVA22 homologue E
-AT5G50740	Heavy metal transport/detoxification superfamily protein
-AT5G50740.1	Heavy metal transport/detoxification superfamily protein
-AT5G50740.2	Heavy metal transport/detoxification superfamily protein
-AT5G50740.3	Heavy metal transport/detoxification superfamily protein
-AT5G50740.4	Heavy metal transport/detoxification superfamily protein
+AT5G50740	Heavy metal transport/detoxification superfamily protein 
+AT5G50740.1	Heavy metal transport/detoxification superfamily protein 
+AT5G50740.2	Heavy metal transport/detoxification superfamily protein 
+AT5G50740.3	Heavy metal transport/detoxification superfamily protein 
+AT5G50740.4	Heavy metal transport/detoxification superfamily protein 
 AT5G50750	reversibly glycosylated polypeptide 4
 AT5G50750.1	reversibly glycosylated polypeptide 4
-AT5G50760	SAUR-like auxin-responsive protein family
-AT5G50760.1	SAUR-like auxin-responsive protein family
+AT5G50760	SAUR-like auxin-responsive protein family 
+AT5G50760.1	SAUR-like auxin-responsive protein family 
 AT5G50770	hydroxysteroid dehydrogenase 6
 AT5G50770.1	hydroxysteroid dehydrogenase 6
 AT5G50780	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein
@@ -65334,8 +65334,8 @@ AT5G51230.2	VEFS-Box of polycomb protein
 AT5G51230.3	VEFS-Box of polycomb protein
 AT5G51250	Galactose oxidase/kelch repeat superfamily protein
 AT5G51250.1	Galactose oxidase/kelch repeat superfamily protein
-AT5G51260	HAD superfamily, subfamily IIIB acid phosphatase
-AT5G51260.1	HAD superfamily, subfamily IIIB acid phosphatase
+AT5G51260	HAD superfamily, subfamily IIIB acid phosphatase 
+AT5G51260.1	HAD superfamily, subfamily IIIB acid phosphatase 
 AT5G51270	U-box domain-containing protein kinase family protein
 AT5G51270.1	U-box domain-containing protein kinase family protein
 AT5G51280	DEAD-box protein abstrakt, putative
@@ -65469,9 +65469,9 @@ AT5G51840.1	unknown protein
 AT5G51845	Defensin-like (DEFL) family protein
 AT5G51845.1	Defensin-like (DEFL) family protein
 AT5G51850.1	unknown protein
-AT5G51860	K-box region and MADS-box transcription factor family protein
-AT5G51860.1	K-box region and MADS-box transcription factor family protein
-AT5G51860.2	K-box region and MADS-box transcription factor family protein
+AT5G51860	K-box region and MADS-box transcription factor family protein 
+AT5G51860.1	K-box region and MADS-box transcription factor family protein 
+AT5G51860.2	K-box region and MADS-box transcription factor family protein 
 AT5G51870	AGAMOUS-like 71
 AT5G51870.1	AGAMOUS-like 71
 AT5G51870.2	AGAMOUS-like 71
@@ -65482,9 +65482,9 @@ AT5G51890	Peroxidase superfamily protein
 AT5G51890.1	Peroxidase superfamily protein
 AT5G51900	Cytochrome P450 family protein
 AT5G51900.1	Cytochrome P450 family protein
-AT5G51910	TCP family transcription factor
-AT5G51910.1	TCP family transcription factor
-AT5G51910.2	TCP family transcription factor
+AT5G51910	TCP family transcription factor 
+AT5G51910.1	TCP family transcription factor 
+AT5G51910.2	TCP family transcription factor 
 AT5G51920	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
 AT5G51920.1	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
 AT5G51930	Glucose-methanol-choline (GMC) oxidoreductase family protein
@@ -65683,8 +65683,8 @@ AT5G52730	Copper transport protein family
 AT5G52730.1	Copper transport protein family
 AT5G52740	Copper transport protein family
 AT5G52740.1	Copper transport protein family
-AT5G52750	Heavy metal transport/detoxification superfamily protein
-AT5G52750.1	Heavy metal transport/detoxification superfamily protein
+AT5G52750	Heavy metal transport/detoxification superfamily protein 
+AT5G52750.1	Heavy metal transport/detoxification superfamily protein 
 AT5G52760	Copper transport protein family
 AT5G52760.1	Copper transport protein family
 AT5G52770	Copper transport protein family
@@ -65898,8 +65898,8 @@ AT5G53580	NAD(P)-linked oxidoreductase superfamily protein
 AT5G53580.1	NAD(P)-linked oxidoreductase superfamily protein
 AT5G53588	conserved peptide upstream open reading frame 50
 AT5G53588.1	conserved peptide upstream open reading frame 50
-AT5G53590	SAUR-like auxin-responsive protein family
-AT5G53590.1	SAUR-like auxin-responsive protein family
+AT5G53590	SAUR-like auxin-responsive protein family 
+AT5G53590.1	SAUR-like auxin-responsive protein family 
 AT5G53592	FBD-like domain family protein
 AT5G53592.1	FBD-like domain family protein
 AT5G53600	Carbohydrate-binding X8 domain superfamily protein
@@ -67642,9 +67642,9 @@ AT5G60780	nitrate transporter 2.3
 AT5G60780.1	nitrate transporter 2.3
 AT5G60790	ABC transporter family protein
 AT5G60790.1	ABC transporter family protein
-AT5G60800	Heavy metal transport/detoxification superfamily protein
-AT5G60800.1	Heavy metal transport/detoxification superfamily protein
-AT5G60800.2	Heavy metal transport/detoxification superfamily protein
+AT5G60800	Heavy metal transport/detoxification superfamily protein 
+AT5G60800.1	Heavy metal transport/detoxification superfamily protein 
+AT5G60800.2	Heavy metal transport/detoxification superfamily protein 
 AT5G60805	Putative membrane lipoprotein
 AT5G60805.1	Putative membrane lipoprotein
 AT5G60810	root meristem growth factor 1
@@ -68682,16 +68682,16 @@ AT5G65050	AGAMOUS-like 31
 AT5G65050.1	AGAMOUS-like 31
 AT5G65050.2	AGAMOUS-like 31
 AT5G65050.3	AGAMOUS-like 31
-AT5G65060	K-box region and MADS-box transcription factor family protein
-AT5G65060.1	K-box region and MADS-box transcription factor family protein
-AT5G65060.2	K-box region and MADS-box transcription factor family protein
-AT5G65070	K-box region and MADS-box transcription factor family protein
-AT5G65070.1	K-box region and MADS-box transcription factor family protein
-AT5G65070.2	K-box region and MADS-box transcription factor family protein
-AT5G65070.3	K-box region and MADS-box transcription factor family protein
-AT5G65080	K-box region and MADS-box transcription factor family protein
-AT5G65080.1	K-box region and MADS-box transcription factor family protein
-AT5G65080.2	K-box region and MADS-box transcription factor family protein
+AT5G65060	K-box region and MADS-box transcription factor family protein 
+AT5G65060.1	K-box region and MADS-box transcription factor family protein 
+AT5G65060.2	K-box region and MADS-box transcription factor family protein 
+AT5G65070	K-box region and MADS-box transcription factor family protein 
+AT5G65070.1	K-box region and MADS-box transcription factor family protein 
+AT5G65070.2	K-box region and MADS-box transcription factor family protein 
+AT5G65070.3	K-box region and MADS-box transcription factor family protein 
+AT5G65080	K-box region and MADS-box transcription factor family protein 
+AT5G65080.1	K-box region and MADS-box transcription factor family protein 
+AT5G65080.2	K-box region and MADS-box transcription factor family protein 
 AT5G65090	DNAse I-like superfamily protein
 AT5G65090.1	DNAse I-like superfamily protein
 AT5G65090.2	DNAse I-like superfamily protein
@@ -68730,8 +68730,8 @@ AT5G65210.3	bZIP transcription factor family protein
 AT5G65210.4	bZIP transcription factor family protein
 AT5G65210.5	bZIP transcription factor family protein
 AT5G65210.6	bZIP transcription factor family protein
-AT5G65220	Ribosomal L29 family protein
-AT5G65220.1	Ribosomal L29 family protein
+AT5G65220	Ribosomal L29 family protein 
+AT5G65220.1	Ribosomal L29 family protein 
 AT5G65230	myb domain protein 53
 AT5G65230.1	myb domain protein 53
 AT5G65240	Leucine-rich repeat protein kinase family protein
@@ -68960,8 +68960,8 @@ AT5G66080.1	Protein phosphatase 2C family protein
 AT5G66090.1	unknown protein
 AT5G66100	winged-helix DNA-binding transcription factor family protein
 AT5G66100.1	winged-helix DNA-binding transcription factor family protein
-AT5G66110	Heavy metal transport/detoxification superfamily protein
-AT5G66110.1	Heavy metal transport/detoxification superfamily protein
+AT5G66110	Heavy metal transport/detoxification superfamily protein 
+AT5G66110.1	Heavy metal transport/detoxification superfamily protein 
 AT5G66120	3-dehydroquinate synthase, putative
 AT5G66120.1	3-dehydroquinate synthase, putative
 AT5G66120.2	3-dehydroquinate synthase, putative
@@ -69007,8 +69007,8 @@ AT5G66250.1	kinectin-related
 AT5G66250.2	kinectin-related
 AT5G66250.3	kinectin-related
 AT5G66250.4	kinectin-related
-AT5G66260	SAUR-like auxin-responsive protein family
-AT5G66260.1	SAUR-like auxin-responsive protein family
+AT5G66260	SAUR-like auxin-responsive protein family 
+AT5G66260.1	SAUR-like auxin-responsive protein family 
 AT5G66270	Zinc finger C-x8-C-x5-C-x3-H type family protein
 AT5G66270.1	Zinc finger C-x8-C-x5-C-x3-H type family protein
 AT5G66280	GDP-D-mannose 4,6-dehydratase 1
