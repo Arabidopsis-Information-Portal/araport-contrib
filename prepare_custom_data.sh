@@ -1,7 +1,9 @@
 #!/bin/bash
 
-## set path variables (source araport env)
-source araport.env
+## set up the environment
+## and immport the data configuration file
+source araport.env $*
+source data.cfg
 
 mkdir -p $GO_ANNOT_CUSTOM
 cd $GO_ANNOT_CUSTOM
@@ -14,3 +16,5 @@ grep -P "locus:\d+" ${TAIR10_CUSTOM_GFF3}/TAIR10_GFF3_genes_transposons.AIP.gff 
     | cut -f2 | sort -u | paste -d"|" -s - \
     | xargs -I{} grep -vP "{}" ${GO_ANNOT}/gene_association.tair \
     > gene_association.tair
+
+cd -
