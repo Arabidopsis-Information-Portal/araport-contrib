@@ -72,7 +72,7 @@ python -m jcvi.formats.base reorder ${TAIR_AGI_MAPPING} 2,1 \
 
 # prepare the enriched GFF3 file with the required attributes
 python -m jcvi.formats.gff format --nostrict --invent_name_attr --multiparents="merge" \
-    --remove_feat="protein,chromosome" --remove_attr="Derives_from" \
+    --remove_feats="protein,chromosome" --remove_attr="Derives_from" \
     --add_dbxref="locus.tsv,gene.tsv" --note="Note.tsv" \
     --add_attribute="Locus_type.tsv,Alias.tsv,conf_class.tsv,conf_rating.tsv,Full_name.tsv,Curator_summary.tsv,Computational_description.tsv,Symbol.tsv" \
    ${SOURCE_GFF} 2> format.gff.log \

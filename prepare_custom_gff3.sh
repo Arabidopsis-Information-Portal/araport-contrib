@@ -11,7 +11,7 @@ mkdir -p $TAIR9_CUSTOM_GFF3/Community_annotation_GFF
 ## TMP filename
 TMP=tmp$$
 
-python -m jcvi.formats.gff format --gff --unique ${SRNA_GFF} \
+python -m jcvi.formats.gff format --gff --nostrict --unique ${SRNA_GFF} \
     > $TAIR9_CUSTOM_GFF3/Expression_GFF/tair9_smallRNA_17_summary.gff
 
 sed -e "s/quesneville_//g" ${TRANSP_GFF} \
