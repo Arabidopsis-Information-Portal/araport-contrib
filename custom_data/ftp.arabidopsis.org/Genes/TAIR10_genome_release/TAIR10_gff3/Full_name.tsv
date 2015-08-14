@@ -8,6 +8,8 @@ AT1G01030.1	NGATHA3
 AT1G01040	dicer-like 1
 AT1G01040.1	dicer-like 1
 AT1G01040.2	dicer-like 1
+AT1G01046	microRNA838A
+AT1G01046.1	microRNA838A
 AT1G01050	pyrophosphorylase 1
 AT1G01050.1	pyrophosphorylase 1
 AT1G01060	LATE ELONGATED HYPOCOTYL
@@ -33,6 +35,8 @@ AT1G01140.3	CBL-interacting protein kinase 9
 AT1G01160	GRF1-interacting factor 2
 AT1G01160.1	GRF1-interacting factor 2
 AT1G01160.2	GRF1-interacting factor 2
+AT1G01183	microRNA165A
+AT1G01183.1	microRNA165A
 AT1G01190	"cytochrome P450, family 78, subfamily A, polypeptide 8"
 AT1G01190.1	"cytochrome P450, family 78, subfamily A, polypeptide 8"
 AT1G01200	RAB GTPase homolog A3
@@ -665,6 +669,8 @@ AT1G07010	Shewenella-like protein phosphatase 1
 AT1G07010.1	Shewenella-like protein phosphatase 1
 AT1G07010.2	Shewenella-like protein phosphatase 1
 AT1G07010.3	Shewenella-like protein phosphatase 1
+AT1G07051	microRNA847A
+AT1G07051.1	microRNA847A
 AT1G07060	DSB formation
 AT1G07060.1	DSB formation
 AT1G07090	LIGHT SENSITIVE HYPOCOTYLS 6
@@ -1218,6 +1224,8 @@ AT1G11680.1	CYTOCHROME P450 51G1
 AT1G11720	starch synthase 3
 AT1G11720.1	starch synthase 3
 AT1G11720.2	starch synthase 3
+AT1G11735	microRNA171B
+AT1G11735.1	microRNA171B
 AT1G11750	CLP protease proteolytic subunit 6
 AT1G11750.1	CLP protease proteolytic subunit 6
 AT1G11750.2	CLP protease proteolytic subunit 6
@@ -1245,6 +1253,8 @@ AT1G11910	aspartic proteinase A1
 AT1G11910.1	aspartic proteinase A1
 AT1G11980	ubiquitin-related protein 3
 AT1G11980.1	ubiquitin-related protein 3
+AT1G12013	small nucleolar RNA111
+AT1G12013.1	small nucleolar RNA111
 AT1G12040	leucine-rich repeat/extensin 1
 AT1G12040.1	leucine-rich repeat/extensin 1
 AT1G12060	BCL-2-associated athanogene 5
@@ -1271,6 +1281,8 @@ AT1G12270	Hop1
 AT1G12270.1	Hop1
 AT1G12280	suppressor of mkk1 mkk2 2
 AT1G12280.1	suppressor of mkk1 mkk2 2
+AT1G12294	microRNA472A
+AT1G12294.1	microRNA472A
 AT1G12350	4-phospho-panto-thenoylcysteine synthetase
 AT1G12350.1	4-phospho-panto-thenoylcysteine synthetase
 AT1G12360	keule
@@ -1348,6 +1360,8 @@ AT1G13020.1	eukaryotic initiation factor 4B2
 AT1G13060	20S proteasome beta subunit E1
 AT1G13060.1	20S proteasome beta subunit E1
 AT1G13060.2	20S proteasome beta subunit E1
+AT1G13070	"cytochrome P450, family 71, subfamily B, polypeptide 27"
+AT1G13070.1	"cytochrome P450, family 71, subfamily B, polypeptide 27"
 AT1G13080	"cytochrome P450, family 71, subfamily B, polypeptide 2"
 AT1G13080.1	"cytochrome P450, family 71, subfamily B, polypeptide 2"
 AT1G13080.2	"cytochrome P450, family 71, subfamily B, polypeptide 2"
@@ -1461,6 +1475,8 @@ AT1G14030	lysine methyltransferase (LSMT)-like
 AT1G14030.1	lysine methyltransferase (LSMT)-like
 AT1G14070	fucosyltransferase 7
 AT1G14070.1	fucosyltransferase 7
+AT1G14071	microRNA830A
+AT1G14071.1	microRNA830A
 AT1G14080	fucosyltransferase 6
 AT1G14080.1	fucosyltransferase 6
 AT1G14100	fucosyltransferase 8
@@ -1472,6 +1488,8 @@ AT1G14140.1	Uncoupling Protein 3
 AT1G14150	Photosynthetic NDH  subcomplex L 2
 AT1G14150.1	Photosynthetic NDH  subcomplex L 2
 AT1G14150.2	Photosynthetic NDH  subcomplex L 2
+AT1G14182	SCR-like 28
+AT1G14182.1	SCR-like 28
 AT1G14280	phytochrome kinase substrate 2
 AT1G14280.1	phytochrome kinase substrate 2
 AT1G14290	sphingoid base hydroxylase 2
@@ -1670,6 +1688,8 @@ AT1G16120	wall associated kinase-like 1
 AT1G16120.1	wall associated kinase-like 1
 AT1G16130	wall associated kinase-like 2
 AT1G16130.1	wall associated kinase-like 2
+AT1G16140	wall associated kinase-like 3
+AT1G16140.1	wall associated kinase-like 3
 AT1G16150	wall associated kinase-like 4
 AT1G16150.1	wall associated kinase-like 4
 AT1G16160	wall associated kinase-like 5
@@ -1880,6 +1900,8 @@ AT1G17980.1	poly(A) polymerase 1
 AT1G17980.2	poly(A) polymerase 1
 AT1G18040	cyclin-dependent kinase D1;3
 AT1G18040.1	cyclin-dependent kinase D1;3
+AT1G18075	microRNA159B
+AT1G18075.1	microRNA159B
 AT1G18080	
 AT1G18080.1	
 AT1G18100	
@@ -1967,6 +1989,8 @@ AT1G18860.1	WRKY DNA-binding protein 61
 AT1G18870	isochorismate synthase 2
 AT1G18870.1	isochorismate synthase 2
 AT1G18870.2	isochorismate synthase 2
+AT1G18879	microRNA837A
+AT1G18879.1	microRNA837A
 AT1G18880	nitrate transporter 1.9
 AT1G18880.1	nitrate transporter 1.9
 AT1G18890	calcium-dependent protein kinase 1
@@ -2005,8 +2029,12 @@ AT1G19350.5	BRI1-EMS-SUPPRESSOR 1
 AT1G19350.6	BRI1-EMS-SUPPRESSOR 1
 AT1G19360	reduced residual arabinose 3
 AT1G19360.1	reduced residual arabinose 3
+AT1G19371	microRNA169H
+AT1G19371.1	microRNA169H
 AT1G19440	3-ketoacyl-CoA synthase 4
 AT1G19440.1	3-ketoacyl-CoA synthase 4
+AT1G19464	microRNA864A
+AT1G19464.1	microRNA864A
 AT1G19510	RAD-like 5
 AT1G19510.1	RAD-like 5
 AT1G19520	NUCLEAR FUSION DEFECTIVE 5
@@ -2088,6 +2116,8 @@ AT1G20340	DNA-DAMAGE-REPAIR/TOLERATION PROTEIN 112
 AT1G20340.1	DNA-DAMAGE-REPAIR/TOLERATION PROTEIN 112
 AT1G20350	translocase inner membrane subunit 17-1
 AT1G20350.1	translocase inner membrane subunit 17-1
+AT1G20375	microRNA394A
+AT1G20375.1	microRNA394A
 AT1G20440	cold-regulated 47
 AT1G20440.1	cold-regulated 47
 AT1G20450	EARLY RESPONSIVE TO DEHYDRATION 10
@@ -2156,6 +2186,8 @@ AT1G21170
 AT1G21170.1	
 AT1G21190	SM-like 3A
 AT1G21190.1	SM-like 3A
+AT1G21202	microRNA781A
+AT1G21202.1	microRNA781A
 AT1G21210	wall associated kinase 4
 AT1G21210.1	wall associated kinase 4
 AT1G21230	wall associated kinase 5
@@ -2517,6 +2549,8 @@ AT1G26210.1	SOB five-like 1
 AT1G26230	chaperonin-60beta4
 AT1G26230.1	chaperonin-60beta4
 AT1G26230.2	chaperonin-60beta4
+AT1G26233	small nucleolar RNA95
+AT1G26233.1	small nucleolar RNA95
 AT1G26260	cryptochrome-interacting basic-helix-loop-helix 5
 AT1G26260.1	cryptochrome-interacting basic-helix-loop-helix 5
 AT1G26260.2	cryptochrome-interacting basic-helix-loop-helix 5
@@ -2573,6 +2607,12 @@ AT1G26945	KIDARI
 AT1G26945.1	KIDARI
 AT1G26960	homeobox protein 23
 AT1G26960.1	homeobox protein 23
+AT1G26973	microRNA395A
+AT1G26973.1	microRNA395A
+AT1G26975	microRNA395B
+AT1G26975.1	microRNA395B
+AT1G26985	microRNA395C
+AT1G26985.1	microRNA395C
 AT1G27045	homeobox protein 54
 AT1G27045.1	homeobox protein 54
 AT1G27080	nitrate transporter 1.6
@@ -2737,6 +2777,8 @@ AT1G28960.4	nudix hydrolase homolog 15
 AT1G28960.5	nudix hydrolase homolog 15
 AT1G29050	TRICHOME BIREFRINGENCE-LIKE 38
 AT1G29050.1	TRICHOME BIREFRINGENCE-LIKE 38
+AT1G29071	small nucleolar RNA105
+AT1G29071.1	small nucleolar RNA105
 AT1G29150	non-ATPase subunit 9
 AT1G29150.1	non-ATPase subunit 9
 AT1G29170	
@@ -2747,6 +2789,8 @@ AT1G29230	CBL-interacting protein kinase 18
 AT1G29230.1	CBL-interacting protein kinase 18
 AT1G29260	peroxin 7
 AT1G29260.1	peroxin 7
+AT1G29265	microRNA399A
+AT1G29265.1	microRNA399A
 AT1G29280	WRKY DNA-binding protein 65
 AT1G29280.1	WRKY DNA-binding protein 65
 AT1G29300	unfertilized embryo sac 1
@@ -2921,6 +2965,8 @@ AT1G31170.1	sulfiredoxin
 AT1G31170.2	sulfiredoxin
 AT1G31170.3	sulfiredoxin
 AT1G31170.4	sulfiredoxin
+AT1G31173	microRNA167D
+AT1G31173.1	microRNA167D
 AT1G31180	isopropylmalate dehydrogenase 3
 AT1G31180.1	isopropylmalate dehydrogenase 3
 AT1G31190	myo-inositol monophosphatase like 1
@@ -2943,6 +2989,8 @@ AT1G31340	related to ubiquitin 1
 AT1G31340.1	related to ubiquitin 1
 AT1G31350	KAR-UP F-box 1
 AT1G31350.1	KAR-UP F-box 1
+AT1G31358	microRNA404
+AT1G31358.1	microRNA404
 AT1G31360	RECQ helicase L2
 AT1G31360.1	RECQ helicase L2
 AT1G31360.2	RECQ helicase L2
@@ -3077,8 +3125,12 @@ AT1G32550.1	ferredoxin C 2
 AT1G32550.2	ferredoxin C 2
 AT1G32560	Late Embryogenesis Abundant 4-1
 AT1G32560.1	Late Embryogenesis Abundant 4-1
+AT1G32582	microRNA400
+AT1G32582.1	microRNA400
 AT1G32640	
 AT1G32640.1	
+AT1G32713	microRNA829A
+AT1G32713.1	microRNA829A
 AT1G32750	
 AT1G32750.1	
 AT1G32770	NAC domain containing protein 12
@@ -3099,6 +3151,8 @@ AT1G32960
 AT1G32960.1	
 AT1G32990	plastid ribosomal protein l11
 AT1G32990.1	plastid ribosomal protein l11
+AT1G32992	microRNA856A
+AT1G32992.1	microRNA856A
 AT1G33040	nascent polypeptide-associated complex subunit alpha-like protein 5
 AT1G33040.1	nascent polypeptide-associated complex subunit alpha-like protein 5
 AT1G33060	NAC 014
@@ -3224,6 +3278,8 @@ AT1G35467.1	RALF-like 5
 AT1G35470	Ran-binding protein in the microtubule-organizing centre
 AT1G35470.1	Ran-binding protein in the microtubule-organizing centre
 AT1G35470.2	Ran-binding protein in the microtubule-organizing centre
+AT1G35501	microRNA773A
+AT1G35501.1	microRNA773A
 AT1G35515	high response to osmotic stress 10
 AT1G35515.1	high response to osmotic stress 10
 AT1G35520	auxin response factor 15
@@ -3456,6 +3512,8 @@ AT1G47560	exocyst complex component sec3B
 AT1G47560.1	exocyst complex component sec3B
 AT1G47580	DYW domain protein 1
 AT1G47580.1	DYW domain protein 1
+AT1G47590	
+AT1G47590.1	
 AT1G47600	beta glucosidase 34
 AT1G47600.1	beta glucosidase 34
 AT1G47600.2	beta glucosidase 34
@@ -3463,6 +3521,8 @@ AT1G47603	purine permease 19
 AT1G47603.1	purine permease 19
 AT1G47620	"cytochrome P450, family 96, subfamily A, polypeptide 8"
 AT1G47620.1	"cytochrome P450, family 96, subfamily A, polypeptide 8"
+AT1G47630	"cytochrome P450, family 96, subfamily A, polypeptide 7"
+AT1G47630.1	"cytochrome P450, family 96, subfamily A, polypeptide 7"
 AT1G47710	
 AT1G47710.1	
 AT1G47720	Organellar Single-stranded
@@ -3505,6 +3565,8 @@ AT1G48240	novel plant snare 12
 AT1G48240.1	novel plant snare 12
 AT1G48260	CBL-interacting protein kinase  17
 AT1G48260.1	CBL-interacting protein kinase  17
+AT1G48267	microRNA161
+AT1G48267.1	microRNA161
 AT1G48270	G-protein-coupled receptor 1
 AT1G48270.1	G-protein-coupled receptor 1
 AT1G48300	diacylglycerol acyltransferase 3
@@ -3552,6 +3614,8 @@ AT1G48630.1	receptor for activated C kinase 1B
 AT1G48635	peroxin 3
 AT1G48635.1	peroxin 3
 AT1G48635.2	peroxin 3
+AT1G48742	microRNA157D
+AT1G48742.1	microRNA157D
 AT1G48760	delta-adaptin
 AT1G48760.1	delta-adaptin
 AT1G48760.2	delta-adaptin
@@ -3666,6 +3730,8 @@ AT1G50010.1	tubulin alpha-2 chain
 AT1G50030	target of rapamycin
 AT1G50030.1	target of rapamycin
 AT1G50030.2	target of rapamycin
+AT1G50055	trans-acting siRNA1B
+AT1G50055.1	trans-acting siRNA1B
 AT1G50090	branched-chain amino acid transaminase 7
 AT1G50090.1	branched-chain amino acid transaminase 7
 AT1G50170	sirohydrochlorin ferrochelatase B
@@ -3706,6 +3772,8 @@ AT1G50500.1	HEAT-INTOLERANT 1
 AT1G50500.2	HEAT-INTOLERANT 1
 AT1G50520	"cytochrome P450, family 705, subfamily A, polypeptide 27"
 AT1G50520.1	"cytochrome P450, family 705, subfamily A, polypeptide 27"
+AT1G50550	"cytochrome P450, family 705, subfamily A, polypeptide 26, pseudogene"
+AT1G50550.1	"cytochrome P450, family 705, subfamily A, polypeptide 26, pseudogene"
 AT1G50560	"cytochrome P450, family 705, subfamily A, polypeptide 25"
 AT1G50560.1	"cytochrome P450, family 705, subfamily A, polypeptide 25"
 AT1G50600	scarecrow-like 5
@@ -3823,6 +3891,8 @@ AT1G52150.2
 AT1G52150.3	
 AT1G52160	tRNAse Z3
 AT1G52160.1	tRNAse Z3
+AT1G52185	microRNA406
+AT1G52185.1	microRNA406
 AT1G52230	photosystem I subunit H2
 AT1G52230.1	photosystem I subunit H2
 AT1G52240	ROP (rho of plants) guanine nucleotide exchange factor 11
@@ -3877,6 +3947,8 @@ AT1G52980	nuclear/nucleolar GTPase 2
 AT1G52980.1	nuclear/nucleolar GTPase 2
 AT1G53000	CMP-KDO synthetase
 AT1G53000.1	CMP-KDO synthetase
+AT1G53020	ubiquitin-conjugating enzyme 26
+AT1G53020.1	ubiquitin-conjugating enzyme 26
 AT1G53090	SPA1-related 4
 AT1G53090.1	SPA1-related 4
 AT1G53090.2	SPA1-related 4
@@ -3943,6 +4015,10 @@ AT1G53670.1	methionine sulfoxide reductase B 1
 AT1G53670.2	methionine sulfoxide reductase B 1
 AT1G53680	glutathione S-transferase TAU 28
 AT1G53680.1	glutathione S-transferase TAU 28
+AT1G53683	microRNA169D
+AT1G53683.1	microRNA169D
+AT1G53687	microRNA169E
+AT1G53687.1	microRNA169E
 AT1G53700	WAG 1
 AT1G53700.1	WAG 1
 AT1G53708	ROTUNDIFOLIA like 9
@@ -4146,6 +4222,8 @@ AT1G55570	SKU5  similar 12
 AT1G55570.1	SKU5  similar 12
 AT1G55580	Lateral Suppressor
 AT1G55580.1	Lateral Suppressor
+AT1G55591	microRNA158B
+AT1G55591.1	microRNA158B
 AT1G55600	WRKY DNA-binding protein 10
 AT1G55600.1	WRKY DNA-binding protein 10
 AT1G55610	BRI1 like
@@ -4400,12 +4478,18 @@ AT1G59980	ARG1-like 2
 AT1G59980.1	ARG1-like 2
 AT1G59990	EMBRYO DEFECTIVE 3108
 AT1G59990.1	EMBRYO DEFECTIVE 3108
+AT1G60025	microRNA426
+AT1G60025.1	microRNA426
 AT1G60030	nucleobase-ascorbate transporter 7
 AT1G60030.1	nucleobase-ascorbate transporter 7
 AT1G60040	AGAMOUS-like 49
 AT1G60040.1	AGAMOUS-like 49
 AT1G60050	Usually multiple acids move in and out Transporters 35
 AT1G60050.1	Usually multiple acids move in and out Transporters 35
+AT1G60072	microRNA859A
+AT1G60072.1	microRNA859A
+AT1G60073	microRNA774A
+AT1G60073.1	microRNA774A
 AT1G60090	beta glucosidase 4
 AT1G60090.1	beta glucosidase 4
 AT1G60140	trehalose phosphate synthase
@@ -4441,8 +4525,12 @@ AT1G60490	vacuolar protein sorting 34
 AT1G60490.1	vacuolar protein sorting 34
 AT1G60500	Dynamin related protein 4C
 AT1G60500.1	Dynamin related protein 4C
+AT1G60510	Dynamin related protein 4D
+AT1G60510.1	Dynamin related protein 4D
 AT1G60530	Dynamin related protein 4A
 AT1G60530.1	Dynamin related protein 4A
+AT1G60540	Dynamin related protein 4B
+AT1G60540.1	Dynamin related protein 4B
 AT1G60550	enoyl-CoA hydratase/isomerase D
 AT1G60550.1	enoyl-CoA hydratase/isomerase D
 AT1G60600	ABERRANT CHLOROPLAST DEVELOPMENT 4
@@ -4525,9 +4613,15 @@ AT1G61210.1	DWD hypersensitive to ABA 3
 AT1G61210.2	DWD hypersensitive to ABA 3
 AT1G61215	bromodomain 4
 AT1G61215.1	bromodomain 4
+AT1G61224	microRNA842A
+AT1G61224.1	microRNA842A
+AT1G61226	microRNA846A
+AT1G61226.1	microRNA846A
 AT1G61250	secretory carrier 3
 AT1G61250.1	secretory carrier 3
 AT1G61250.2	secretory carrier 3
+AT1G61275	U12 small nucleolar RNA
+AT1G61275.1	U12 small nucleolar RNA
 AT1G61290	syntaxin of plants 124
 AT1G61290.1	syntaxin of plants 124
 AT1G61340	F-box stress induced 1
@@ -4559,6 +4653,8 @@ AT1G61680.1	terpene synthase 14
 AT1G61680.2	terpene synthase 14
 AT1G61720	BANYULS
 AT1G61720.1	BANYULS
+AT1G61732	microRNA776A
+AT1G61732.1	microRNA776A
 AT1G61800	glucose-6-phosphate/phosphate translocator 2
 AT1G61800.1	glucose-6-phosphate/phosphate translocator 2
 AT1G61810	beta-glucosidase 45
@@ -4574,6 +4670,8 @@ AT1G61940	tubby like protein 4
 AT1G61940.1	tubby like protein 4
 AT1G61950	calcium-dependent protein kinase 19
 AT1G61950.1	calcium-dependent protein kinase 19
+AT1G62035	microRNA171C
+AT1G62035.1	microRNA171C
 AT1G62040	autophagy 8c
 AT1G62040.1	autophagy 8c
 AT1G62040.2	autophagy 8c
@@ -4592,6 +4690,8 @@ AT1G62300
 AT1G62300.1	
 AT1G62340	ABNORMAL LEAF-SHAPE 1
 AT1G62340.1	ABNORMAL LEAF-SHAPE 1
+AT1G62355	microRNA413
+AT1G62355.1	microRNA413
 AT1G62360	SHOOT MERISTEMLESS
 AT1G62360.1	SHOOT MERISTEMLESS
 AT1G62380	ACC oxidase 2
@@ -4646,6 +4746,8 @@ AT1G62990	KNOTTED-like homeobox of Arabidopsis thaliana 7
 AT1G62990.1	KNOTTED-like homeobox of Arabidopsis thaliana 7
 AT1G63000	nucleotide-rhamnose synthase/epimerase-reductase
 AT1G63000.1	nucleotide-rhamnose synthase/epimerase-reductase
+AT1G63005	microRNA399B
+AT1G63005.1	microRNA399B
 AT1G63020	nuclear RNA polymerase D1A
 AT1G63020.1	nuclear RNA polymerase D1A
 AT1G63020.2	nuclear RNA polymerase D1A
@@ -4695,6 +4797,8 @@ AT1G63700	YODA
 AT1G63700.1	YODA
 AT1G63710	"cytochrome P450, family 86, subfamily A, polypeptide 7"
 AT1G63710.1	"cytochrome P450, family 86, subfamily A, polypeptide 7"
+AT1G63760	ARIADNE 6
+AT1G63760.1	ARIADNE 6
 AT1G63780	
 AT1G63780.1	
 AT1G63800	ubiquitin-conjugating enzyme 5
@@ -5015,6 +5119,8 @@ AT1G66680.1
 AT1G66700	
 AT1G66700.1	
 AT1G66700.3	
+AT1G66725	microRNA163
+AT1G66725.1	microRNA163
 AT1G66730	DNA LIGASE 6
 AT1G66730.1	DNA LIGASE 6
 AT1G66740	
@@ -5023,6 +5129,10 @@ AT1G66750	CDK-activating kinase 4
 AT1G66750.1	CDK-activating kinase 4
 AT1G66770	
 AT1G66770.1	
+AT1G66783	microRNA157A
+AT1G66783.1	microRNA157A
+AT1G66795	microRNA157B
+AT1G66795.1	microRNA157B
 AT1G66840	plastid movement impaired 2
 AT1G66840.1	plastid movement impaired 2
 AT1G66950	ATP-binding cassette G39
@@ -5053,6 +5163,9 @@ AT1G67140	SWEETIE
 AT1G67140.1	SWEETIE
 AT1G67140.2	SWEETIE
 AT1G67140.3	SWEETIE
+AT1G67195	microRNA414
+AT1G67195.1	microRNA414
+AT1G67195.2	microRNA414
 AT1G67220	histone acetyltransferase of the CBP family 2
 AT1G67220.1	histone acetyltransferase of the CBP family 2
 AT1G67230	LITTLE NUCLEI1
@@ -5072,6 +5185,8 @@ AT1G67370	ASYNAPTIC 1
 AT1G67370.1	ASYNAPTIC 1
 AT1G67440	embryo defective 1688
 AT1G67440.1	embryo defective 1688
+AT1G67481	microRNA839A
+AT1G67481.1	microRNA839A
 AT1G67490	glucosidase 1
 AT1G67490.1	glucosidase 1
 AT1G67490.2	glucosidase 1
@@ -5301,6 +5416,12 @@ AT1G69770	chromomethylase 3
 AT1G69770.1	chromomethylase 3
 AT1G69780	
 AT1G69780.1	
+AT1G69792	microRNA395D
+AT1G69792.1	microRNA395D
+AT1G69795	microRNA395E
+AT1G69795.1	microRNA395E
+AT1G69797	microRNA395F
+AT1G69797.1	microRNA395F
 AT1G69810	WRKY DNA-binding protein 36
 AT1G69810.1	WRKY DNA-binding protein 36
 AT1G69820	gamma-glutamyl transpeptidase 3
@@ -5385,6 +5506,8 @@ AT1G70580.3	alanine-2-oxoglutarate aminotransferase 2
 AT1G70580.4	alanine-2-oxoglutarate aminotransferase 2
 AT1G70610	ATP-binding cassette B26
 AT1G70610.1	ATP-binding cassette B26
+AT1G70645	microRNA777A
+AT1G70645.1	microRNA777A
 AT1G70660	MMS ZWEI homologue 2
 AT1G70660.1	MMS ZWEI homologue 2
 AT1G70660.2	MMS ZWEI homologue 2
@@ -5432,6 +5555,8 @@ AT1G70940	PIN-FORMED 3
 AT1G70940.1	PIN-FORMED 3
 AT1G70980	
 AT1G70980.1	
+AT1G71002	microRNA858A
+AT1G71002.1	microRNA858A
 AT1G71010	FORMS APLOID AND BINUCLEATE CELLS 1C
 AT1G71010.1	FORMS APLOID AND BINUCLEATE CELLS 1C
 AT1G71030	MYB-like 2
@@ -5662,6 +5787,8 @@ AT1G73670.1	MAP kinase 15
 AT1G73680	alpha dioxygenase
 AT1G73680.1	alpha dioxygenase
 AT1G73680.2	alpha dioxygenase
+AT1G73687	microRNA159A
+AT1G73687.1	microRNA159A
 AT1G73690	cyclin-dependent kinase D1;1
 AT1G73690.1	cyclin-dependent kinase D1;1
 AT1G73720	SUPPRESSORS OF MEC-8 AND UNC-52 1
@@ -5897,6 +6024,8 @@ AT1G76040.1	calcium-dependent protein kinase 29
 AT1G76040.2	calcium-dependent protein kinase 29
 AT1G76060	EMBRYO DEFECTIVE 1793
 AT1G76060.1	EMBRYO DEFECTIVE 1793
+AT1G76062	microRNA835A
+AT1G76062.1	microRNA835A
 AT1G76080	chloroplastic drought-induced stress protein of 32 kD
 AT1G76080.1	chloroplastic drought-induced stress protein of 32 kD
 AT1G76090	sterol methyltransferase 3
@@ -5905,6 +6034,8 @@ AT1G76100	plastocyanin 1
 AT1G76100.1	plastocyanin 1
 AT1G76130	alpha-amylase-like 2
 AT1G76130.1	alpha-amylase-like 2
+AT1G76135	microRNA394B
+AT1G76135.1	microRNA394B
 AT1G76150	enoyl-CoA hydratase 2
 AT1G76150.1	enoyl-CoA hydratase 2
 AT1G76160	SKU5 similar 5
@@ -6005,6 +6136,8 @@ AT1G77180.3	SNW/Ski-interacting protein
 AT1G77210	sugar transport protein 14
 AT1G77210.1	sugar transport protein 14
 AT1G77210.2	sugar transport protein 14
+AT1G77235	microRNA402
+AT1G77235.1	microRNA402
 AT1G77240	acyl activating enzyme 2
 AT1G77240.1	acyl activating enzyme 2
 AT1G77300	EARLY FLOWERING IN SHORT DAYS
@@ -6078,6 +6211,8 @@ AT1G78130	unfertilized embryo sac 2
 AT1G78130.1	unfertilized embryo sac 2
 AT1G78160	pumilio 7
 AT1G78160.1	pumilio 7
+AT1G78206	microRNA775A
+AT1G78206.1	microRNA775A
 AT1G78220	general regulatory factor 13
 AT1G78220.1	general regulatory factor 13
 AT1G78240	TUMOROUS SHOOT DEVELOPMENT 2
@@ -6106,6 +6241,8 @@ AT1G78430	ROP interactive partner 4
 AT1G78430.1	ROP interactive partner 4
 AT1G78440	Arabidopsis thaliana gibberellin 2-oxidase 1
 AT1G78440.1	Arabidopsis thaliana gibberellin 2-oxidase 1
+AT1G78478	microRNA833A
+AT1G78478.1	microRNA833A
 AT1G78490	"cytochrome P450, family 708, subfamily A, polypeptide 3"
 AT1G78490.1	"cytochrome P450, family 708, subfamily A, polypeptide 3"
 AT1G78510	solanesyl diphosphate synthase 1
@@ -6562,6 +6699,8 @@ AT2G02120
 AT2G02120.1	
 AT2G02130	low-molecular-weight cysteine-rich 68
 AT2G02130.1	low-molecular-weight cysteine-rich 68
+AT2G02135	low-molecular-weight cysteine-rich 71
+AT2G02135.1	low-molecular-weight cysteine-rich 71
 AT2G02140	low-molecular-weight cysteine-rich 72
 AT2G02140.1	low-molecular-weight cysteine-rich 72
 AT2G02147	low-molecular-weight cysteine-rich 73
@@ -6578,6 +6717,8 @@ AT2G02240	maternal effect embryo arrest 66
 AT2G02240.1	maternal effect embryo arrest 66
 AT2G02250	phloem protein 2-B2
 AT2G02250.1	phloem protein 2-B2
+AT2G02270	
+AT2G02270.1	
 AT2G02280	phloem protein 2-B4
 AT2G02280.1	phloem protein 2-B4
 AT2G02300	phloem protein 2-B5
@@ -6622,6 +6763,8 @@ AT2G02710.3	PAS/LOV protein B
 AT2G02740	WHIRLY 3
 AT2G02740.1	WHIRLY 3
 AT2G02740.2	WHIRLY 3
+AT2G02741	microRNA840A
+AT2G02741.1	microRNA840A
 AT2G02760	ubiquiting-conjugating enzyme 2
 AT2G02760.1	ubiquiting-conjugating enzyme 2
 AT2G02790	IQ-domain 29
@@ -6676,6 +6819,8 @@ AT2G03340	WRKY DNA-binding protein 3
 AT2G03340.1	WRKY DNA-binding protein 3
 AT2G03440	nodulin-related protein 1
 AT2G03440.1	nodulin-related protein 1
+AT2G03445	microRNA398A
+AT2G03445.1	microRNA398A
 AT2G03450	purple acid phosphatase 9
 AT2G03450.1	purple acid phosphatase 9
 AT2G03480	QUASIMODO2 LIKE 2
@@ -6887,6 +7032,8 @@ AT2G10410	sadhu non-coding retrotransposon 1-1
 AT2G10410.1	sadhu non-coding retrotransposon 1-1
 AT2G10535	low-molecular-weight cysteine-rich 29
 AT2G10535.1	low-molecular-weight cysteine-rich 29
+AT2G10606	microRNA396A
+AT2G10606.1	microRNA396A
 AT2G11000	MAK10 homologue
 AT2G11000.1	MAK10 homologue
 AT2G11000.2	MAK10 homologue
@@ -6895,6 +7042,8 @@ AT2G11520.1	calmodulin-binding receptor-like cytoplasmic kinase 3
 AT2G11810	monogalactosyldiacylglycerol synthase type C
 AT2G11810.1	monogalactosyldiacylglycerol synthase type C
 AT2G11810.2	monogalactosyldiacylglycerol synthase type C
+AT2G11990	AGAMOUS-like 88
+AT2G11990.1	AGAMOUS-like 88
 AT2G12465	low-molecular-weight cysteine-rich 50
 AT2G12465.1	low-molecular-weight cysteine-rich 50
 AT2G12480	serine carboxypeptidase-like 43
@@ -6999,6 +7148,8 @@ AT2G14935	low-molecular-weight cysteine-rich 40
 AT2G14935.1	low-molecular-weight cysteine-rich 40
 AT2G14960	
 AT2G14960.1	
+AT2G15040	receptor like protein 18
+AT2G15040.1	receptor like protein 18
 AT2G15050	lipid transfer protein
 AT2G15050.1	lipid transfer protein
 AT2G15050.2	lipid transfer protein
@@ -7070,6 +7221,10 @@ AT2G16120	polyol/monosaccharide transporter 1
 AT2G16120.1	polyol/monosaccharide transporter 1
 AT2G16130	polyol/monosaccharide transporter 2
 AT2G16130.1	polyol/monosaccharide transporter 2
+AT2G16145	microRNA416
+AT2G16145.1	microRNA416
+AT2G16260	glycine-rich RNA-binding protein 1
+AT2G16260.1	glycine-rich RNA-binding protein 1
 AT2G16280	3-ketoacyl-CoA synthase 9
 AT2G16280.1	3-ketoacyl-CoA synthase 9
 AT2G16370	thymidylate synthase 1
@@ -7148,6 +7303,8 @@ AT2G17290	calcium dependent protein kinase 6
 AT2G17290.1	calcium dependent protein kinase 6
 AT2G17310	SUPPRESSOR OF NIM1-1 1
 AT2G17310.1	SUPPRESSOR OF NIM1-1 1
+AT2G17330	CYTOCHROME P450  51G2
+AT2G17330.1	CYTOCHROME P450  51G2
 AT2G17370	3-hydroxy-3-methylglutaryl-CoA reductase 2
 AT2G17370.1	3-hydroxy-3-methylglutaryl-CoA reductase 2
 AT2G17380	associated protein 19
@@ -7272,6 +7429,9 @@ AT2G18380	GATA transcription factor 20
 AT2G18380.1	GATA transcription factor 20
 AT2G18390	TITAN 5
 AT2G18390.1	TITAN 5
+AT2G18440	GENE WITH UNSTABLE TRANSCRIPT 15
+AT2G18440.1	GENE WITH UNSTABLE TRANSCRIPT 15
+AT2G18440.2	GENE WITH UNSTABLE TRANSCRIPT 15
 AT2G18450	succinate dehydrogenase 1-2
 AT2G18450.1	succinate dehydrogenase 1-2
 AT2G18460	like COV 3
@@ -7333,6 +7493,8 @@ AT2G19190	FLG22-induced receptor-like kinase 1
 AT2G19190.1	FLG22-induced receptor-like kinase 1
 AT2G19330	plant intracellular ras group-related LRR 6
 AT2G19330.1	plant intracellular ras group-related LRR 6
+AT2G19425	microRNA156G
+AT2G19425.1	microRNA156G
 AT2G19430	DWD (DDB1-binding WD40 protein) hypersensitive to ABA 1
 AT2G19430.1	DWD (DDB1-binding WD40 protein) hypersensitive to ABA 1
 AT2G19450	TRIACYLGLYCEROL BIOSYNTHESIS DEFECT 1
@@ -7645,6 +7807,8 @@ AT2G22310.1	ubiquitin-specific protease 4
 AT2G22310.2	ubiquitin-specific protease 4
 AT2G22330	"cytochrome P450, family 79, subfamily B, polypeptide 3"
 AT2G22330.1	"cytochrome P450, family 79, subfamily B, polypeptide 3"
+AT2G22390	RAB GTPase homolog A4E
+AT2G22390.1	RAB GTPase homolog A4E
 AT2G22410	SLOW GROWTH 1
 AT2G22410.1	SLOW GROWTH 1
 AT2G22430	homeobox protein 6
@@ -7661,6 +7825,8 @@ AT2G22480.1	phosphofructokinase 5
 AT2G22490	Cyclin D2;1
 AT2G22490.1	Cyclin D2;1
 AT2G22490.2	Cyclin D2;1
+AT2G22496	microRNA779A
+AT2G22496.1	microRNA779A
 AT2G22500	uncoupling protein 5
 AT2G22500.1	uncoupling protein 5
 AT2G22540	SHORT VEGETATIVE PHASE
@@ -7675,6 +7841,8 @@ AT2G22630	AGAMOUS-like 17
 AT2G22630.1	AGAMOUS-like 17
 AT2G22640	BRICK1
 AT2G22640.1	BRICK1
+AT2G22668	microRNA405A
+AT2G22668.1	microRNA405A
 AT2G22670	indoleacetic acid-induced protein 8
 AT2G22670.1	indoleacetic acid-induced protein 8
 AT2G22670.2	indoleacetic acid-induced protein 8
@@ -7775,6 +7943,8 @@ AT2G23320.1	WRKY DNA-binding protein 15
 AT2G23320.2	WRKY DNA-binding protein 15
 AT2G23340	DREB and EAR motif protein 3
 AT2G23340.1	DREB and EAR motif protein 3
+AT2G23347	microRNA844A
+AT2G23347.1	microRNA844A
 AT2G23350	poly(A) binding protein 4
 AT2G23350.1	poly(A) binding protein 4
 AT2G23380	CURLY LEAF
@@ -7853,6 +8023,8 @@ AT2G24090	plastid ribosomal protein L35
 AT2G24090.1	plastid ribosomal protein L35
 AT2G24100	ALTERED SEED GERMINATION 1
 AT2G24100.1	ALTERED SEED GERMINATION 1
+AT2G24103	microRNA831A
+AT2G24103.1	microRNA831A
 AT2G24120	SCABRA 3
 AT2G24120.1	SCABRA 3
 AT2G24120.2	SCABRA 3
@@ -7930,12 +8102,16 @@ AT2G24980	extensin 6
 AT2G24980.1	extensin 6
 AT2G25000	WRKY DNA-binding protein 60
 AT2G25000.1	WRKY DNA-binding protein 60
+AT2G25011	microRNA836A
+AT2G25011.1	microRNA836A
 AT2G25060	early nodulin-like protein 14
 AT2G25060.1	early nodulin-like protein 14
 AT2G25080	glutathione peroxidase 1
 AT2G25080.1	glutathione peroxidase 1
 AT2G25090	CBL-interacting protein kinase 16
 AT2G25090.1	CBL-interacting protein kinase 16
+AT2G25095	microRNA156A
+AT2G25095.1	microRNA156A
 AT2G25110	stromal cell-derived factor 2-like protein precursor
 AT2G25110.1	stromal cell-derived factor 2-like protein precursor
 AT2G25140	casein lytic proteinase B4
@@ -7944,6 +8120,8 @@ AT2G25160	"cytochrome P450, family 82, subfamily F, polypeptide 1"
 AT2G25160.1	"cytochrome P450, family 82, subfamily F, polypeptide 1"
 AT2G25170	PICKLE
 AT2G25170.1	PICKLE
+AT2G25171	microRNA862A
+AT2G25171.1	microRNA862A
 AT2G25180	response regulator 12
 AT2G25180.1	response regulator 12
 AT2G25230	myb domain protein 100
@@ -8036,6 +8214,8 @@ AT2G26170.1	cytochrome P450, family 711, subfamily A, polypeptide 1
 AT2G26170.2	cytochrome P450, family 711, subfamily A, polypeptide 1
 AT2G26180	IQ-domain 6
 AT2G26180.1	IQ-domain 6
+AT2G26211	microRNA825A
+AT2G26211.1	microRNA825A
 AT2G26250	3-ketoacyl-CoA synthase 10
 AT2G26250.1	3-ketoacyl-CoA synthase 10
 AT2G26260	3beta-hydroxysteroid-dehydrogenase/decarboxylase isoform 2
@@ -8209,6 +8389,8 @@ AT2G27370	Casparian strip membrane domain protein 3
 AT2G27370.1	Casparian strip membrane domain protein 3
 AT2G27380	extensin proline-rich 1
 AT2G27380.1	extensin proline-rich 1
+AT2G27400	trans-acting siRNA1A
+AT2G27400.1	trans-acting siRNA1A
 AT2G27450	nitrilase-like protein 1
 AT2G27450.1	nitrilase-like protein 1
 AT2G27450.2	nitrilase-like protein 1
@@ -8255,6 +8437,8 @@ AT2G27990	BEL1-like homeodomain 8
 AT2G27990.1	BEL1-like homeodomain 8
 AT2G28000	chaperonin-60alpha
 AT2G28000.1	chaperonin-60alpha
+AT2G28056	microRNA172A
+AT2G28056.1	microRNA172A
 AT2G28070	ATP-binding cassette G3
 AT2G28070.1	ATP-binding cassette G3
 AT2G28100	alpha-L-fucosidase 1
@@ -8743,6 +8927,8 @@ AT2G32260	phosphorylcholine cytidylyltransferase
 AT2G32260.1	phosphorylcholine cytidylyltransferase
 AT2G32270	zinc transporter 3 precursor
 AT2G32270.1	zinc transporter 3 precursor
+AT2G32273	microRNA417
+AT2G32273.1	microRNA417
 AT2G32290	beta-amylase 6
 AT2G32290.1	beta-amylase 6
 AT2G32300	uclacyanin 1
@@ -8790,6 +8976,8 @@ AT2G32690.1	glycine-rich protein 23
 AT2G32690.2	glycine-rich protein 23
 AT2G32690.3	glycine-rich protein 23
 AT2G32690.4	glycine-rich protein 23
+AT2G32698	microRNA407
+AT2G32698.1	microRNA407
 AT2G32700	LEUNIG_homolog
 AT2G32700.1	LEUNIG_homolog
 AT2G32700.2	LEUNIG_homolog
@@ -8974,6 +9162,12 @@ AT2G34130	maternal effect embryo arrest 19
 AT2G34130.1	maternal effect embryo arrest 19
 AT2G34180	CBL-interacting protein kinase 13
 AT2G34180.1	CBL-interacting protein kinase 13
+AT2G34202	microRNA399D
+AT2G34202.1	microRNA399D
+AT2G34204	microRNA399E
+AT2G34204.1	microRNA399E
+AT2G34208	microRNA399F
+AT2G34208.1	microRNA399F
 AT2G34220	maternal effect embryo arrest 20
 AT2G34220.1	maternal effect embryo arrest 20
 AT2G34260	human WDR55 (WD40 repeat) homolog
@@ -9210,6 +9404,8 @@ AT2G36270	ABA INSENSITIVE 5
 AT2G36270.1	ABA INSENSITIVE 5
 AT2G36305	farnesylated protein-converting enzyme 2
 AT2G36305.1	farnesylated protein-converting enzyme 2
+AT2G36307	LITTLE ZIPPER 4
+AT2G36307.1	LITTLE ZIPPER 4
 AT2G36310	uridine-ribohydrolase 1
 AT2G36310.1	uridine-ribohydrolase 1
 AT2G36380	ATP-binding cassette G34
@@ -9436,6 +9632,8 @@ AT2G38310	PYR1-like 4
 AT2G38310.1	PYR1-like 4
 AT2G38320	TRICHOME BIREFRINGENCE-LIKE 34
 AT2G38320.1	TRICHOME BIREFRINGENCE-LIKE 34
+AT2G38325	microRNA390A
+AT2G38325.1	microRNA390A
 AT2G38340	dehydration response element-binding protein 19
 AT2G38340.1	dehydration response element-binding protein 19
 AT2G38360	prenylated RAB acceptor 1.B4
@@ -9517,6 +9715,8 @@ AT2G39120	what's this factor 9
 AT2G39120.1	what's this factor 9
 AT2G39140	SUPPRESSOR OF VARIEGATION 1
 AT2G39140.1	SUPPRESSOR OF VARIEGATION 1
+AT2G39175	microRNA160A
+AT2G39175.1	microRNA160A
 AT2G39180	CRINKLY4 related 2
 AT2G39180.1	CRINKLY4 related 2
 AT2G39190	
@@ -9568,6 +9768,10 @@ AT2G39570	ACT domain repeats 9
 AT2G39570.1	ACT domain repeats 9
 AT2G39660	botrytis-induced kinase1
 AT2G39660.1	botrytis-induced kinase1
+AT2G39675	trans-acting siRNA1C
+AT2G39675.1	trans-acting siRNA1C
+AT2G39681	trans-acting siRNA2
+AT2G39681.1	trans-acting siRNA2
 AT2G39700	expansin A4
 AT2G39700.1	expansin A4
 AT2G39705	ROTUNDIFOLIA like 8
@@ -9604,6 +9808,8 @@ AT2G39840	type one serine/threonine protein phosphatase 4
 AT2G39840.1	type one serine/threonine protein phosphatase 4
 AT2G39880	myb domain protein 25
 AT2G39880.1	myb domain protein 25
+AT2G39885	microRNA393A
+AT2G39885.1	microRNA393A
 AT2G39890	proline transporter 1
 AT2G39890.1	proline transporter 1
 AT2G39890.2	proline transporter 1
@@ -9690,6 +9896,8 @@ AT2G40750	WRKY DNA-binding protein 54
 AT2G40750.1	WRKY DNA-binding protein 54
 AT2G40790	C-terminal cysteine residue is changed to a serine 2
 AT2G40790.1	C-terminal cysteine residue is changed to a serine 2
+AT2G40805	microRNA319C
+AT2G40805.1	microRNA319C
 AT2G40810	homolog of yeast autophagy 18C
 AT2G40810.1	homolog of yeast autophagy 18C
 AT2G40810.2	homolog of yeast autophagy 18C
@@ -9788,6 +9996,8 @@ AT2G41540.2
 AT2G41540.3	
 AT2G41560	"autoinhibited Ca(2+)-ATPase, isoform 4"
 AT2G41560.1	"autoinhibited Ca(2+)-ATPase, isoform 4"
+AT2G41616	microRNA778A
+AT2G41616.1	microRNA778A
 AT2G41630	transcription factor IIB
 AT2G41630.1	transcription factor IIB
 AT2G41660	mizu-kussei 1
@@ -10020,6 +10230,8 @@ AT2G44150	histone-lysine N-methyltransferase ASHH3
 AT2G44150.1	histone-lysine N-methyltransferase ASHH3
 AT2G44160	methylenetetrahydrofolate reductase 2
 AT2G44160.1	methylenetetrahydrofolate reductase 2
+AT2G44170	N-myristoyltransferase 2
+AT2G44170.1	N-myristoyltransferase 2
 AT2G44180	methionine aminopeptidase 2A
 AT2G44180.1	methionine aminopeptidase 2A
 AT2G44190	ENDOSPERM DEFECTIVE 1
@@ -10247,6 +10459,8 @@ AT2G46225.2	ABI-1-like 1
 AT2G46225.3	ABI-1-like 1
 AT2G46240	BCL-2-associated athanogene 6
 AT2G46240.1	BCL-2-associated athanogene 6
+AT2G46255	microRNA159C
+AT2G46255.1	microRNA159C
 AT2G46260	light-response BTB 1
 AT2G46260.1	light-response BTB 1
 AT2G46270	G-box binding factor 3
@@ -10314,6 +10528,8 @@ AT2G46660.1	cytochrome P450, family 78, subfamily A, polypeptide 6
 AT2G46680	homeobox 7
 AT2G46680.1	homeobox 7
 AT2G46680.2	homeobox 7
+AT2G46685	microRNA166A
+AT2G46685.1	microRNA166A
 AT2G46700	CDPK-related kinase 3
 AT2G46700.1	CDPK-related kinase 3
 AT2G46700.2	CDPK-related kinase 3
@@ -10368,6 +10584,8 @@ AT2G46990	indole-3-acetic acid inducible 20
 AT2G46990.1	indole-3-acetic acid inducible 20
 AT2G47000	ATP-binding cassette B4
 AT2G47000.1	ATP-binding cassette B4
+AT2G47015	microRNA408
+AT2G47015.1	microRNA408
 AT2G47030	
 AT2G47030.1	
 AT2G47040	VANGUARD1
@@ -10408,6 +10626,8 @@ AT2G47260	WRKY DNA-binding protein 23
 AT2G47260.1	WRKY DNA-binding protein 23
 AT2G47270	UPBEAT1
 AT2G47270.1	UPBEAT1
+AT2G47275	microRNA403
+AT2G47275.1	microRNA403
 AT2G47300	similar to yeast POP1
 AT2G47300.2	similar to yeast POP1
 AT2G47300.3	similar to yeast POP1
@@ -10435,6 +10655,8 @@ AT2G47520	ethylene response factor 71
 AT2G47520.1	ethylene response factor 71
 AT2G47580	spliceosomal protein U1A
 AT2G47580.1	spliceosomal protein U1A
+AT2G47585	microRNA164A
+AT2G47585.1	microRNA164A
 AT2G47590	photolyase/blue-light receptor 2
 AT2G47590.1	photolyase/blue-light receptor 2
 AT2G47600	magnesium/proton exchanger
@@ -10895,6 +11117,8 @@ AT3G04735	RALF-like 21
 AT3G04735.1	RALF-like 21
 AT3G04740	STRUWWELPETER
 AT3G04740.1	STRUWWELPETER
+AT3G04765	microRNA167C
+AT3G04765.1	microRNA167C
 AT3G04770	40s ribosomal protein SA B
 AT3G04770.1	40s ribosomal protein SA B
 AT3G04770.2	40s ribosomal protein SA B
@@ -11116,6 +11340,8 @@ AT3G06850.1
 AT3G06850.2	
 AT3G06860	multifunctional protein 2
 AT3G06860.1	multifunctional protein 2
+AT3G06900	U4 small nucleolar RNA2
+AT3G06900.1	U4 small nucleolar RNA2
 AT3G06910	UB-like protease 1A
 AT3G06910.1	UB-like protease 1A
 AT3G06930	protein arginine methyltransferase 4B
@@ -11283,6 +11509,8 @@ AT3G09260
 AT3G09260.1	
 AT3G09270	glutathione S-transferase TAU 8
 AT3G09270.1	glutathione S-transferase TAU 8
+AT3G09285	microRNA 2111A
+AT3G09285.1	microRNA 2111A
 AT3G09290	telomerase activator1
 AT3G09290.1	telomerase activator1
 AT3G09300	OSBP(oxysterol binding protein)-related protein 3B
@@ -11443,6 +11671,8 @@ AT3G10730	SAD1/UNC-84 domain protein 2
 AT3G10730.1	SAD1/UNC-84 domain protein 2
 AT3G10740	alpha-L-arabinofuranosidase 1
 AT3G10740.1	alpha-L-arabinofuranosidase 1
+AT3G10745	microRNA158A
+AT3G10745.1	microRNA158A
 AT3G10800	
 AT3G10800.1	
 AT3G10850	
@@ -11502,6 +11732,8 @@ AT3G11410	protein phosphatase 2CA
 AT3G11410.1	protein phosphatase 2CA
 AT3G11430	GLYCEROL-3-PHOSPHATE sn-2-ACYLTRANSFERASE 5
 AT3G11430.1	GLYCEROL-3-PHOSPHATE sn-2-ACYLTRANSFERASE 5
+AT3G11435	microRNA172C
+AT3G11435.1	microRNA172C
 AT3G11440	myb domain protein 65
 AT3G11440.1	myb domain protein 65
 AT3G11480	
@@ -11724,6 +11956,8 @@ AT3G13390	SKU5  similar 11
 AT3G13390.1	SKU5  similar 11
 AT3G13400	SKU5  similar 13
 AT3G13400.1	SKU5  similar 13
+AT3G13405	microRNA169A
+AT3G13405.1	microRNA169A
 AT3G13438	sadhu non-coding retrotransposon 7-1
 AT3G13438.1	sadhu non-coding retrotransposon 7-1
 AT3G13445	TATA binding protein 1
@@ -11761,6 +11995,8 @@ AT3G13710	prenylated RAB acceptor 1.F4
 AT3G13710.1	prenylated RAB acceptor 1.F4
 AT3G13720	
 AT3G13720.1	
+AT3G13724	microRNA823A
+AT3G13724.1	microRNA823A
 AT3G13730	"cytochrome P450, family 90, subfamily D, polypeptide 1"
 AT3G13730.1	"cytochrome P450, family 90, subfamily D, polypeptide 1"
 AT3G13750	beta galactosidase 1
@@ -11780,6 +12016,8 @@ AT3G13810.2	indeterminate(ID)-domain 11
 AT3G13810.3	indeterminate(ID)-domain 11
 AT3G13850	LOB domain-containing protein 22
 AT3G13850.1	LOB domain-containing protein 22
+AT3G13855	U6 small nucleolar RNA26
+AT3G13855.1	U6 small nucleolar RNA26
 AT3G13860	heat shock protein 60-3A
 AT3G13860.1	heat shock protein 60-3A
 AT3G13870	ROOT HAIR DEFECTIVE 3
@@ -11851,6 +12089,8 @@ AT3G14362	ROTUNDIFOLIA like 10
 AT3G14362.1	ROTUNDIFOLIA like 10
 AT3G14370	
 AT3G14370.1	
+AT3G14385	microRNA169F
+AT3G14385.1	microRNA169F
 AT3G14400	ubiquitin-specific protease 25
 AT3G14400.1	ubiquitin-specific protease 25
 AT3G14415	glycolate oxidase 2
@@ -11895,6 +12135,8 @@ AT3G14690	"cytochrome P450, family 72, subfamily A, polypeptide 15"
 AT3G14690.1	"cytochrome P450, family 72, subfamily A, polypeptide 15"
 AT3G14720	MAP kinase 19
 AT3G14720.1	MAP kinase 19
+AT3G14735	U6 small nucleolar RNA1
+AT3G14735.1	U6 small nucleolar RNA1
 AT3G14770	
 AT3G14770.1	
 AT3G14790	rhamnose biosynthesis 3
@@ -12138,6 +12380,11 @@ AT3G17170	REGULATOR OF FATTY-ACID COMPOSITION 3
 AT3G17170.1	REGULATOR OF FATTY-ACID COMPOSITION 3
 AT3G17180	serine carboxypeptidase-like 33
 AT3G17180.1	serine carboxypeptidase-like 33
+AT3G17185	trans-acting siRNA3
+AT3G17185.1	trans-acting siRNA3
+AT3G17185.2	trans-acting siRNA3
+AT3G17203	gibberellin 2-oxidase 5
+AT3G17203.1	gibberellin 2-oxidase 5
 AT3G17205	ubiquitin protein ligase 6
 AT3G17205.1	ubiquitin protein ligase 6
 AT3G17205.2	ubiquitin protein ligase 6
@@ -12271,6 +12518,8 @@ AT3G18165.1	Modifier of snc1,4
 AT3G18200	Usually multiple acids move in and out Transporters 4
 AT3G18200.1	Usually multiple acids move in and out Transporters 4
 AT3G18200.2	Usually multiple acids move in and out Transporters 4
+AT3G18217	microRNA157C
+AT3G18217.1	microRNA157C
 AT3G18220	lipid phosphate phosphatase 4
 AT3G18220.1	lipid phosphate phosphatase 4
 AT3G18270	"cytochrome P450, family 77, subfamily A, polypeptide 5 pseudogene"
@@ -12338,6 +12587,8 @@ AT3G18810	proline-rich extensin-like receptor kinase 6
 AT3G18810.1	proline-rich extensin-like receptor kinase 6
 AT3G18820	RAB GTPase homolog G3F
 AT3G18820.1	RAB GTPase homolog G3F
+AT3G18827	microRNA868A
+AT3G18827.1	microRNA868A
 AT3G18830	polyol/monosaccharide transporter 5
 AT3G18830.1	polyol/monosaccharide transporter 5
 AT3G18850	lysophosphatidyl acyltransferase 5
@@ -12348,6 +12599,8 @@ AT3G18850.4	lysophosphatidyl acyltransferase 5
 AT3G18850.5	lysophosphatidyl acyltransferase 5
 AT3G18890	translocon at the inner envelope membrane of chloroplasts 62
 AT3G18890.1	translocon at the inner envelope membrane of chloroplasts 62
+AT3G18895	microRNA418
+AT3G18895.1	microRNA418
 AT3G18910	EIN2 targeting protein2
 AT3G18910.1	EIN2 targeting protein2
 AT3G18970	mitochondrial editing factor  20
@@ -12470,10 +12723,16 @@ AT3G20060.2	ubiquitin-conjugating enzyme19
 AT3G20070	TITAN9
 AT3G20070.1	TITAN9
 AT3G20070.2	TITAN9
+AT3G20075	"cytochrome P450, family 705, subfamily A, polypeptide 14 pseudogene"
+AT3G20075.1	"cytochrome P450, family 705, subfamily A, polypeptide 14 pseudogene"
 AT3G20080	"cytochrome P450, family 705, subfamily A, polypeptide 15"
 AT3G20080.1	"cytochrome P450, family 705, subfamily A, polypeptide 15"
 AT3G20080.2	"cytochrome P450, family 705, subfamily A, polypeptide 15"
 AT3G20080.3	"cytochrome P450, family 705, subfamily A, polypeptide 15"
+AT3G20083	"cytochrome P450, family 705, subfamily A, polypeptide 16"
+AT3G20083.1	"cytochrome P450, family 705, subfamily A, polypeptide 16"
+AT3G20087	"cytochrome P450, family 705, subfamily A, polypeptide 17 pseudogene"
+AT3G20087.1	"cytochrome P450, family 705, subfamily A, polypeptide 17 pseudogene"
 AT3G20090	"cytochrome P450, family 705, subfamily A, polypeptide 18"
 AT3G20090.1	"cytochrome P450, family 705, subfamily A, polypeptide 18"
 AT3G20100	"cytochrome P450, family 705, subfamily A, polypeptide 19"
@@ -12763,6 +13022,8 @@ AT3G22860	eukaryotic translation initiation factor 3 subunit C2
 AT3G22860.1	eukaryotic translation initiation factor 3 subunit C2
 AT3G22880	DISRUPTION OF MEIOTIC CONTROL 1
 AT3G22880.1	DISRUPTION OF MEIOTIC CONTROL 1
+AT3G22886	microRNA167A
+AT3G22886.1	microRNA167A
 AT3G22890	ATP sulfurylase 1
 AT3G22890.1	ATP sulfurylase 1
 AT3G22900	
@@ -12798,6 +13059,8 @@ AT3G23110	receptor like protein 37
 AT3G23110.1	receptor like protein 37
 AT3G23120	receptor like protein 38
 AT3G23120.1	receptor like protein 38
+AT3G23125	microRNA173
+AT3G23125.1	microRNA173
 AT3G23130	SUPERMAN
 AT3G23130.1	SUPERMAN
 AT3G23140	UPRIGHT ROSETTE
@@ -12824,6 +13087,8 @@ AT3G23280.1	XB3 ortholog 5 in Arabidopsis thaliana
 AT3G23280.2	XB3 ortholog 5 in Arabidopsis thaliana
 AT3G23290	LIGHT SENSITIVE HYPOCOTYLS 4
 AT3G23290.2	LIGHT SENSITIVE HYPOCOTYLS 4
+AT3G23326	microRNA853A
+AT3G23326.1	microRNA853A
 AT3G23340	casein kinase I-like 10
 AT3G23340.1	casein kinase I-like 10
 AT3G23380	ROP-interactive CRIB motif-containing protein 5
@@ -12930,6 +13195,8 @@ AT3G24340.1	chromatin remodeling 40
 AT3G24350	syntaxin of plants  32
 AT3G24350.1	syntaxin of plants  32
 AT3G24350.2	syntaxin of plants  32
+AT3G24400	proline-rich extensin-like receptor kinase 2
+AT3G24400.1	proline-rich extensin-like receptor kinase 2
 AT3G24430	HIGH-CHLOROPHYLL-FLUORESCENCE 101
 AT3G24430.1	HIGH-CHLOROPHYLL-FLUORESCENCE 101
 AT3G24440	VERNALIZATION 5
@@ -13100,6 +13367,8 @@ AT3G26150	"cytochrome P450, family 71, subfamily B, polypeptide 16"
 AT3G26150.1	"cytochrome P450, family 71, subfamily B, polypeptide 16"
 AT3G26160	"cytochrome P450, family 71, subfamily B, polypeptide 17"
 AT3G26160.1	"cytochrome P450, family 71, subfamily B, polypeptide 17"
+AT3G26165	"cytochrome P450, family 71, subfamily B, polypeptide 18"
+AT3G26165.1	"cytochrome P450, family 71, subfamily B, polypeptide 18"
 AT3G26170	"cytochrome P450, family 71, subfamily B, polypeptide 19"
 AT3G26170.1	"cytochrome P450, family 71, subfamily B, polypeptide 19"
 AT3G26180	"cytochrome P450, family 71, subfamily B, polypeptide 20"
@@ -13121,6 +13390,8 @@ AT3G26280	"cytochrome P450, family 71, subfamily B, polypeptide 4"
 AT3G26280.1	"cytochrome P450, family 71, subfamily B, polypeptide 4"
 AT3G26290	"cytochrome P450, family 71, subfamily B, polypeptide 26"
 AT3G26290.1	"cytochrome P450, family 71, subfamily B, polypeptide 26"
+AT3G26295	"cytochrome P450, family 71, subfamily B, polypeptide 33"
+AT3G26295.1	"cytochrome P450, family 71, subfamily B, polypeptide 33"
 AT3G26300	"cytochrome P450, family 71, subfamily B, polypeptide 34"
 AT3G26300.1	"cytochrome P450, family 71, subfamily B, polypeptide 34"
 AT3G26310	"cytochrome P450, family 71, subfamily B, polypeptide 35"
@@ -13175,6 +13446,18 @@ AT3G26790	FUSCA 3
 AT3G26790.1	FUSCA 3
 AT3G26810	auxin signaling F-box 2
 AT3G26810.1	auxin signaling F-box 2
+AT3G26812	microRNA169I
+AT3G26812.1	microRNA169I
+AT3G26813	microRNA169J
+AT3G26813.1	microRNA169J
+AT3G26815	microRNA169K
+AT3G26815.1	microRNA169K
+AT3G26816	microRNA169L
+AT3G26816.1	microRNA169L
+AT3G26818	microRNA169M
+AT3G26818.1	microRNA169M
+AT3G26819	microRNA169N
+AT3G26819.1	microRNA169N
 AT3G26830	PHYTOALEXIN DEFICIENT 3
 AT3G26830.1	PHYTOALEXIN DEFICIENT 3
 AT3G26840	phytyl ester synthase 2
@@ -13384,6 +13667,8 @@ AT3G29350.2	histidine-containing phosphotransmitter 2
 AT3G29360	UDP-glucose dehydrogenase 2
 AT3G29360.1	UDP-glucose dehydrogenase 2
 AT3G29360.2	UDP-glucose dehydrogenase 2
+AT3G29365	expansin A19
+AT3G29365.1	expansin A19
 AT3G29370	P1R3
 AT3G29370.1	P1R3
 AT3G29380	plant-specific TFIIB-related protein 2
@@ -13513,6 +13798,8 @@ AT3G44340.2	clone eighty-four
 AT3G44350	NAC domain containing protein 61
 AT3G44350.1	NAC domain containing protein 61
 AT3G44350.2	NAC domain containing protein 61
+AT3G44444	microRNA849A
+AT3G44444.1	microRNA849A
 AT3G44460	
 AT3G44460.1	
 AT3G44480	recognition of peronospora parasitica 1
@@ -13803,6 +14090,8 @@ AT3G48040.1	RHO-related protein from plants 10
 AT3G48050	'shuttle' in chinese
 AT3G48050.1	'shuttle' in chinese
 AT3G48050.2	'shuttle' in chinese
+AT3G48057	microRNA843A
+AT3G48057.1	microRNA843A
 AT3G48090	enhanced disease susceptibility 1
 AT3G48090.1	enhanced disease susceptibility 1
 AT3G48090.2	enhanced disease susceptibility 1
@@ -13810,6 +14099,8 @@ AT3G48100	response regulator 5
 AT3G48100.1	response regulator 5
 AT3G48110	EMBRYO-DEFECTIVE-DEVELOPMENT 1
 AT3G48110.1	EMBRYO-DEFECTIVE-DEVELOPMENT 1
+AT3G48130	
+AT3G48130.1	
 AT3G48150	anaphase-promoting complex subunit 8
 AT3G48150.1	anaphase-promoting complex subunit 8
 AT3G48160	DP-E2F-like 1
@@ -13819,6 +14110,8 @@ AT3G48170	aldehyde dehydrogenase 10A9
 AT3G48170.1	aldehyde dehydrogenase 10A9
 AT3G48190	ataxia-telangiectasia mutated
 AT3G48190.1	ataxia-telangiectasia mutated
+AT3G48201	microRNA861A
+AT3G48201.1	microRNA861A
 AT3G48231	low-molecular-weight cysteine-rich 48
 AT3G48231.1	low-molecular-weight cysteine-rich 48
 AT3G48250	Buthionine sulfoximine-insensitive roots 6
@@ -14089,6 +14382,8 @@ AT3G51300	RHO-related protein from plants 1
 AT3G51300.1	RHO-related protein from plants 1
 AT3G51310	VPS35 homolog C
 AT3G51310.1	VPS35 homolog C
+AT3G51375	microRNA171A
+AT3G51375.1	microRNA171A
 AT3G51380	IQ-domain 20
 AT3G51380.1	IQ-domain 20
 AT3G51420	strictosidine synthase-like 4
@@ -14269,6 +14564,10 @@ AT3G52970.1	"cytochrome P450, family 76, subfamily G, polypeptide 1"
 AT3G52970.2	"cytochrome P450, family 76, subfamily G, polypeptide 1"
 AT3G53000	phloem protein 2-A15
 AT3G53000.1	phloem protein 2-A15
+AT3G53015	microRNA771A
+AT3G53015.1	microRNA771A
+AT3G53016	microRNA851A
+AT3G53016.1	microRNA851A
 AT3G53020	SHORT VALVE1
 AT3G53020.1	SHORT VALVE1
 AT3G53030	ser/arg-rich protein kinase 4
@@ -14581,6 +14880,8 @@ AT3G55500	expansin A16
 AT3G55500.1	expansin A16
 AT3G55510	REBELOTE
 AT3G55510.1	REBELOTE
+AT3G55512	microRNA172D
+AT3G55512.1	microRNA172D
 AT3G55515	ROTUNDIFOLIA like 7
 AT3G55515.1	ROTUNDIFOLIA like 7
 AT3G55530	SALT- AND DROUGHT-INDUCED RING FINGER1
@@ -14600,6 +14901,8 @@ AT3G55660	ROP (rho of plants) guanine nucleotide exchange factor 6
 AT3G55660.1	ROP (rho of plants) guanine nucleotide exchange factor 6
 AT3G55730	myb domain protein 109
 AT3G55730.1	myb domain protein 109
+AT3G55734	microRNA393B
+AT3G55734.1	microRNA393B
 AT3G55740	proline transporter 2
 AT3G55740.1	proline transporter 2
 AT3G55740.2	proline transporter 2
@@ -14681,10 +14984,14 @@ AT3G56690	Cam interacting protein 111
 AT3G56690.1	Cam interacting protein 111
 AT3G56700	fatty acid reductase 6
 AT3G56700.1	fatty acid reductase 6
+AT3G56705	U2 small nucleolar RNA6
+AT3G56705.1	U2 small nucleolar RNA6
 AT3G56710	sigma factor binding protein 1
 AT3G56710.1	sigma factor binding protein 1
 AT3G56800	calmodulin 3
 AT3G56800.1	calmodulin 3
+AT3G56825	U2 small nucleolar RNA4
+AT3G56825.1	U2 small nucleolar RNA4
 AT3G56850	ABA-responsive element binding protein 3
 AT3G56850.1	ABA-responsive element binding protein 3
 AT3G56860	UBP1-associated protein 2A
@@ -14769,6 +15076,8 @@ AT3G57560	N-acetyl-l-glutamate kinase
 AT3G57560.1	N-acetyl-l-glutamate kinase
 AT3G57610	adenylosuccinate synthase
 AT3G57610.1	adenylosuccinate synthase
+AT3G57645	U2 small nucleolar RNA2
+AT3G57645.1	U2 small nucleolar RNA2
 AT3G57650	lysophosphatidyl acyltransferase 2
 AT3G57650.1	lysophosphatidyl acyltransferase 2
 AT3G57660	nuclear RNA polymerase A1
@@ -14777,6 +15086,8 @@ AT3G57670	NO TRANSMITTING TRACT
 AT3G57670.1	NO TRANSMITTING TRACT
 AT3G57690	arabinogalactan protein 23
 AT3G57690.1	arabinogalactan protein 23
+AT3G57765	U2 small nucleolar RNA3
+AT3G57765.1	U2 small nucleolar RNA3
 AT3G57860	UV-B-insensitive 4-like
 AT3G57860.1	UV-B-insensitive 4-like
 AT3G57870	sumo conjugation enzyme 1
@@ -14907,6 +15218,8 @@ AT3G59810.1	SM-like 6A
 AT3G59820	leucine zipper-EF-hand-containing transmembrane protein 1
 AT3G59820.1	leucine zipper-EF-hand-containing transmembrane protein 1
 AT3G59820.2	leucine zipper-EF-hand-containing transmembrane protein 1
+AT3G59884	microRNA827A
+AT3G59884.1	microRNA827A
 AT3G59900	AUXIN-REGULATED GENE INVOLVED IN ORGAN SIZE
 AT3G59900.1	AUXIN-REGULATED GENE INVOLVED IN ORGAN SIZE
 AT3G59920	RAB GDP dissociation inhibitor 2
@@ -15011,6 +15324,8 @@ AT3G60890.1	LITTLE ZIPPER 2
 AT3G60890.2	LITTLE ZIPPER 2
 AT3G60900	FASCICLIN-like arabinogalactan-protein 10
 AT3G60900.1	FASCICLIN-like arabinogalactan-protein 10
+AT3G60955	"cytochrome P450, family 76, subfamily C, polypeptide 8, pseudogene"
+AT3G60955.1	"cytochrome P450, family 76, subfamily C, polypeptide 8, pseudogene"
 AT3G60970	ATP-binding cassette C15
 AT3G60970.1	ATP-binding cassette C15
 AT3G61040	"cytochrome P450, family 76, subfamily C, polypeptide 7"
@@ -15126,6 +15441,8 @@ AT3G61880.1	cytochrome p450 78a9
 AT3G61880.2	cytochrome p450 78a9
 AT3G61890	homeobox 12
 AT3G61890.1	homeobox 12
+AT3G61897	microRNA166B
+AT3G61897.1	microRNA166B
 AT3G61910	NAC domain protein 66
 AT3G61910.1	NAC domain protein 66
 AT3G61940	
@@ -15270,6 +15587,8 @@ AT3G63350
 AT3G63350.1	
 AT3G63370	ORGANELLE TRANSCRIPT PROCESSING 86
 AT3G63370.1	ORGANELLE TRANSCRIPT PROCESSING 86
+AT3G63375	microRNA167B
+AT3G63375.1	microRNA167B
 AT3G63410	ALBINO OR PALE GREEN MUTANT 1
 AT3G63410.1	ALBINO OR PALE GREEN MUTANT 1
 AT3G63420	Ggamma-subunit 1
@@ -15425,6 +15744,8 @@ AT4G00850	GRF1-interacting factor 3
 AT4G00850.1	GRF1-interacting factor 3
 AT4G00860	
 AT4G00860.1	
+AT4G00885	microRNA165B
+AT4G00885.1	microRNA165B
 AT4G00900	ER-type Ca2+-ATPase 2
 AT4G00900.1	ER-type Ca2+-ATPase 2
 AT4G00930	COP1-interacting protein 4.1
@@ -15464,6 +15785,8 @@ AT4G01220.1	male gametophyte defective 4
 AT4G01220.2	male gametophyte defective 4
 AT4G01250	
 AT4G01250.1	
+AT4G01265	raffinose synthase 3
+AT4G01265.1	raffinose synthase 3
 AT4G01320	
 AT4G01320.1	
 AT4G01360	BYPASS 3
@@ -15645,9 +15968,13 @@ AT4G02980	endoplasmic reticulum auxin binding protein 1
 AT4G02980.1	endoplasmic reticulum auxin binding protein 1
 AT4G02990	BELAYA SMERT
 AT4G02990.1	BELAYA SMERT
+AT4G03039	microRNA826A
+AT4G03039.1	microRNA826A
 AT4G03050	
 AT4G03050.1	
 AT4G03050.2	
+AT4G03060	alkenyl hydroxalkyl producing 2
+AT4G03060.1	alkenyl hydroxalkyl producing 2
 AT4G03070	
 AT4G03070.1	
 AT4G03080	BRI1 suppressor 1 (BSU1)-like 1
@@ -15687,6 +16014,12 @@ AT4G03415.1	2C-type protein phosphatase 52
 AT4G03415.2	2C-type protein phosphatase 52
 AT4G03430	EMBRYO DEFECTIVE 2770
 AT4G03430.1	EMBRYO DEFECTIVE 2770
+AT4G03438	microRNA447C
+AT4G03438.1	microRNA447C
+AT4G03445	microRNA447A
+AT4G03445.1	microRNA447A
+AT4G03455	microRNA447B
+AT4G03455.1	microRNA447B
 AT4G03510	RING membrane-anchor 1
 AT4G03510.1	RING membrane-anchor 1
 AT4G03510.2	RING membrane-anchor 1
@@ -15795,6 +16128,8 @@ AT4G05010.1	F-box stress induced 3
 AT4G05020	NAD(P)H dehydrogenase B2
 AT4G05020.1	NAD(P)H dehydrogenase B2
 AT4G05020.2	NAD(P)H dehydrogenase B2
+AT4G05048	
+AT4G05048.1	
 AT4G05050	ubiquitin 11
 AT4G05050.1	ubiquitin 11
 AT4G05050.2	ubiquitin 11
@@ -15802,6 +16137,8 @@ AT4G05050.3	ubiquitin 11
 AT4G05050.4	ubiquitin 11
 AT4G05100	myb domain protein 74
 AT4G05100.1	myb domain protein 74
+AT4G05105	microRNA397A
+AT4G05105.1	microRNA397A
 AT4G05110	equilibrative nucleoside transporter 6
 AT4G05110.1	equilibrative nucleoside transporter 6
 AT4G05120	FUDR RESISTANT 1
@@ -15838,6 +16175,8 @@ AT4G05440.1	embryo sac development arrest 35
 AT4G05440.2	embryo sac development arrest 35
 AT4G05450	mitochondrial ferredoxin 1
 AT4G05450.1	mitochondrial ferredoxin 1
+AT4G05508	microRNA405D
+AT4G05508.1	microRNA405D
 AT4G05520	EPS15 homology domain 2
 AT4G05520.1	EPS15 homology domain 2
 AT4G05520.2	EPS15 homology domain 2
@@ -15858,6 +16197,8 @@ AT4G07960	Cellulose-synthase-like C12
 AT4G07960.1	Cellulose-synthase-like C12
 AT4G08040	1-aminocyclopropane-1-carboxylate synthase 11
 AT4G08040.1	1-aminocyclopropane-1-carboxylate synthase 11
+AT4G08116	microRNA401
+AT4G08116.1	microRNA401
 AT4G08150	KNOTTED-like from Arabidopsis thaliana
 AT4G08150.1	KNOTTED-like from Arabidopsis thaliana
 AT4G08180	OSBP(oxysterol binding protein)-related protein 1C
@@ -16016,6 +16357,8 @@ AT4G10310	high-affinity K+ transporter 1
 AT4G10310.1	high-affinity K+ transporter 1
 AT4G10340	light harvesting complex of photosystem II 5
 AT4G10340.1	light harvesting complex of photosystem II 5
+AT4G10345	microRNA832A
+AT4G10345.1	microRNA832A
 AT4G10350	NAC domain containing protein 70
 AT4G10350.1	NAC domain containing protein 70
 AT4G10380	NOD26-like intrinsic protein 5;1
@@ -16295,12 +16638,22 @@ AT4G13460.1	SU(VAR)3-9 homolog 9
 AT4G13460.2	SU(VAR)3-9 homolog 9
 AT4G13480	myb domain protein 79
 AT4G13480.1	myb domain protein 79
+AT4G13493	microRNA850A
+AT4G13493.1	microRNA850A
+AT4G13494	microRNA863A
+AT4G13494.1	microRNA863A
 AT4G13510	ammonium transporter 1;1
 AT4G13510.1	ammonium transporter 1;1
 AT4G13520	small acidic protein 1
 AT4G13520.1	small acidic protein 1
+AT4G13554	microRNA857A
+AT4G13554.1	microRNA857A
+AT4G13555	microRNA397B
+AT4G13555.1	microRNA397B
 AT4G13560	unfertilized embryo sac 15
 AT4G13560.1	unfertilized embryo sac 15
+AT4G13564	microRNA841A
+AT4G13564.1	microRNA841A
 AT4G13570	histone H2A 4
 AT4G13570.1	histone H2A 4
 AT4G13570.2	histone H2A 4
@@ -16337,6 +16690,8 @@ AT4G13880	receptor like protein 48
 AT4G13880.1	receptor like protein 48
 AT4G13890	EMBRYO SAC DEVELOPMENT ARREST 37
 AT4G13890.1	EMBRYO SAC DEVELOPMENT ARREST 37
+AT4G13900	receptor like protein 49
+AT4G13900.1	receptor like protein 49
 AT4G13920	receptor like protein 50
 AT4G13920.1	receptor like protein 50
 AT4G13930	serine hydroxymethyltransferase 4
@@ -16401,6 +16756,8 @@ AT4G14455
 AT4G14455.1	
 AT4G14465	AT-hook motif nuclear-localized protein 20
 AT4G14465.1	AT-hook motif nuclear-localized protein 20
+AT4G14504	microRNA852A
+AT4G14504.1	microRNA852A
 AT4G14510	CRM family member 3B
 AT4G14510.1	CRM family member 3B
 AT4G14540	"nuclear factor Y, subunit B3"
@@ -16459,6 +16816,8 @@ AT4G14790.1
 AT4G14800	20S proteasome beta subunit D2
 AT4G14800.1	20S proteasome beta subunit D2
 AT4G14800.2	20S proteasome beta subunit D2
+AT4G14811	microRNA780A
+AT4G14811.1	microRNA780A
 AT4G14830	heat shock protein 20-like protein 1
 AT4G14830.1	heat shock protein 20-like protein 1
 AT4G14850	lovastatin insensitive 1
@@ -16520,6 +16879,8 @@ AT4G15248	B-box domain protein 30
 AT4G15248.1	B-box domain protein 30
 AT4G15250	B-box domain protein 9
 AT4G15250.1	B-box domain protein 9
+AT4G15258	small nucleolar RNA37-2
+AT4G15258.1	small nucleolar RNA37-2
 AT4G15280	UDP-glucosyl transferase 71B5
 AT4G15280.1	UDP-glucosyl transferase 71B5
 AT4G15290	
@@ -16534,6 +16895,8 @@ AT4G15330	"cytochrome P450, family 705, subfamily A, polypeptide 1"
 AT4G15330.1	"cytochrome P450, family 705, subfamily A, polypeptide 1"
 AT4G15340	pentacyclic triterpene synthase 1
 AT4G15340.1	pentacyclic triterpene synthase 1
+AT4G15345	"cytochrome P450, family 702, subfamily A, polypeptide 4 pseudogene"
+AT4G15345.1	"cytochrome P450, family 702, subfamily A, polypeptide 4 pseudogene"
 AT4G15350	"cytochrome P450, family 705, subfamily A, polypeptide 2"
 AT4G15350.1	"cytochrome P450, family 705, subfamily A, polypeptide 2"
 AT4G15360	"cytochrome P450, family 705, subfamily A, polypeptide 3"
@@ -16548,6 +16911,8 @@ AT4G15393.2	"cytochrome P450, family 702, subfamily A, polypeptide 5"
 AT4G15393.3	"cytochrome P450, family 702, subfamily A, polypeptide 5"
 AT4G15396	"cytochrome P450, family 702, subfamily A, polypeptide 6"
 AT4G15396.1	"cytochrome P450, family 702, subfamily A, polypeptide 6"
+AT4G15398	"cytochrome P450, family 702, subfamily A, polypeptide 7 pseudogene"
+AT4G15398.1	"cytochrome P450, family 702, subfamily A, polypeptide 7 pseudogene"
 AT4G15400	BRASSINOSTEROID INACTIVATOR1
 AT4G15400.1	BRASSINOSTEROID INACTIVATOR1
 AT4G15410	serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B prime gamma
@@ -16769,6 +17134,8 @@ AT4G17770	trehalose phosphatase/synthase 5
 AT4G17770.1	trehalose phosphatase/synthase 5
 AT4G17785	myb domain protein 39
 AT4G17785.1	myb domain protein 39
+AT4G17788	microRNA160B
+AT4G17788.1	microRNA160B
 AT4G17870	PYRABACTIN RESISTANCE 1
 AT4G17870.1	PYRABACTIN RESISTANCE 1
 AT4G17880	
@@ -16922,6 +17289,8 @@ AT4G19230.1	"cytochrome P450, family 707, subfamily A, polypeptide 1"
 AT4G19230.2	"cytochrome P450, family 707, subfamily A, polypeptide 1"
 AT4G19350	embryo defective 3006
 AT4G19350.1	embryo defective 3006
+AT4G19395	microRNA168A
+AT4G19395.1	microRNA168A
 AT4G19490	
 AT4G19490.1	
 AT4G19490.2	
@@ -17105,6 +17474,10 @@ AT4G21340
 AT4G21340.1	
 AT4G21350	plant U-box 8
 AT4G21350.1	plant U-box 8
+AT4G21362	microRNA867A
+AT4G21362.1	microRNA867A
+AT4G21370	pseudogene of S-locus receptor kinase a
+AT4G21370.1	pseudogene of S-locus receptor kinase a
 AT4G21380	receptor kinase 3
 AT4G21380.1	receptor kinase 3
 AT4G21390	
@@ -17144,6 +17517,8 @@ AT4G21585.1	endonuclease 4
 AT4G21590	endonuclease 3
 AT4G21590.1	endonuclease 3
 AT4G21590.2	endonuclease 3
+AT4G21595	microRNA169G
+AT4G21595.1	microRNA169G
 AT4G21600	endonuclease 5
 AT4G21600.1	endonuclease 5
 AT4G21610	lsd one like 2
@@ -17346,6 +17721,10 @@ AT4G23310	cysteine-rich RLK (RECEPTOR-like protein kinase) 23
 AT4G23310.1	cysteine-rich RLK (RECEPTOR-like protein kinase) 23
 AT4G23320	cysteine-rich RLK (RECEPTOR-like protein kinase) 24
 AT4G23320.1	cysteine-rich RLK (RECEPTOR-like protein kinase) 24
+AT4G23375	microRNA845B
+AT4G23375.1	microRNA845B
+AT4G23387	microRNA845A
+AT4G23387.1	microRNA845A
 AT4G23400	plasma membrane intrinsic protein 1;5
 AT4G23400.1	plasma membrane intrinsic protein 1;5
 AT4G23410	tetraspanin5
@@ -17388,6 +17767,8 @@ AT4G23700	cation/H+ exchanger 17
 AT4G23700.1	cation/H+ exchanger 17
 AT4G23710	vacuolar ATP synthase subunit G2
 AT4G23710.1	vacuolar ATP synthase subunit G2
+AT4G23713	microRNA319A
+AT4G23713.1	microRNA319A
 AT4G23750	cytokinin response factor 2
 AT4G23750.1	cytokinin response factor 2
 AT4G23750.2	cytokinin response factor 2
@@ -17459,6 +17840,10 @@ AT4G24390.2	auxin signaling F-box 4
 AT4G24400	CBL-interacting protein kinase 8
 AT4G24400.1	CBL-interacting protein kinase 8
 AT4G24400.2	CBL-interacting protein kinase 8
+AT4G24415	microRNA824A
+AT4G24415.1	microRNA824A
+AT4G24415.2	microRNA824A
+AT4G24415.3	microRNA824A
 AT4G24450	phosphoglucan, water dikinase
 AT4G24450.1	phosphoglucan, water dikinase
 AT4G24460	CRT (chloroquine-resistance transporter)-like transporter 2
@@ -17621,6 +18006,8 @@ AT4G25590	actin depolymerizing factor 7
 AT4G25590.1	actin depolymerizing factor 7
 AT4G25630	fibrillarin 2
 AT4G25630.1	fibrillarin 2
+AT4G25631	
+AT4G25631.1	
 AT4G25640	detoxifying efflux carrier 35
 AT4G25640.1	detoxifying efflux carrier 35
 AT4G25640.2	detoxifying efflux carrier 35
@@ -17859,6 +18246,8 @@ AT4G27750	IMPAIRED SUCROSE INDUCTION 1
 AT4G27750.1	IMPAIRED SUCROSE INDUCTION 1
 AT4G27760	FOREVER YOUNG
 AT4G27760.1	FOREVER YOUNG
+AT4G27765	microRNA828A
+AT4G27765.1	microRNA828A
 AT4G27780	acyl-CoA binding protein 2
 AT4G27780.1	acyl-CoA binding protein 2
 AT4G27800	thylakoid-associated phosphatase 38
@@ -18209,6 +18598,8 @@ AT4G30950	fatty acid desaturase 6
 AT4G30950.1	fatty acid desaturase 6
 AT4G30960	SOS3-interacting protein 3
 AT4G30960.1	SOS3-interacting protein 3
+AT4G30972	microRNA156B
+AT4G30972.1	microRNA156B
 AT4G30980	LJRHL1-like 2
 AT4G30980.1	LJRHL1-like 2
 AT4G30996	NA(+)- AND K(+)-SENSITIVE 1
@@ -18280,6 +18671,8 @@ AT4G31850	proton gradient regulation 3
 AT4G31850.1	proton gradient regulation 3
 AT4G31870	glutathione peroxidase 7
 AT4G31870.1	glutathione peroxidase 7
+AT4G31877	microRNA156C
+AT4G31877.1	microRNA156C
 AT4G31900	PICKLE RELATED 2
 AT4G31900.1	PICKLE RELATED 2
 AT4G31900.2	PICKLE RELATED 2
@@ -18328,6 +18721,8 @@ AT4G32400	SODIUM HYPERSENSITIVE 1
 AT4G32400.1	SODIUM HYPERSENSITIVE 1
 AT4G32410	cellulose synthase 1
 AT4G32410.1	cellulose synthase 1
+AT4G32445	microRNA419
+AT4G32445.1	microRNA419
 AT4G32450	MEF8 similar
 AT4G32450.1	MEF8 similar
 AT4G32490	early nodulin-like protein 4
@@ -19277,6 +19672,8 @@ AT5G01712	conserved peptide upstream open reading frame 48
 AT5G01712.1	conserved peptide upstream open reading frame 48
 AT5G01730	SCAR family protein 4
 AT5G01730.1	SCAR family protein 4
+AT5G01747	microRNA164B
+AT5G01747.1	microRNA164B
 AT5G01770	RAPTOR2
 AT5G01770.1	RAPTOR2
 AT5G01810	CBL-interacting protein kinase 15
@@ -19302,6 +19699,8 @@ AT5G02020.1	Salt Induced Serine rich
 AT5G02020.2	Salt Induced Serine rich
 AT5G02030	REPLUMLESS
 AT5G02030.1	REPLUMLESS
+AT5G02035	microRNA 2111B
+AT5G02035.1	microRNA 2111B
 AT5G02040	prenylated RAB acceptor 1.A1
 AT5G02040.1	prenylated RAB acceptor 1.A1
 AT5G02040.2	prenylated RAB acceptor 1.A1
@@ -19441,6 +19840,8 @@ AT5G03540	exocyst subunit exo70 family protein A1
 AT5G03540.1	exocyst subunit exo70 family protein A1
 AT5G03540.2	exocyst subunit exo70 family protein A1
 AT5G03540.3	exocyst subunit exo70 family protein A1
+AT5G03552	microRNA822A
+AT5G03552.1	microRNA822A
 AT5G03555	nucleobase cation symporter 1
 AT5G03555.1	nucleobase cation symporter 1
 AT5G03570	iron regulated 2
@@ -19513,6 +19914,8 @@ AT5G04240	EARLY FLOWERING 6
 AT5G04240.1	EARLY FLOWERING 6
 AT5G04260	WCRKC thioredoxin 2
 AT5G04260.1	WCRKC thioredoxin 2
+AT5G04275	microRNA172B
+AT5G04275.1	microRNA172B
 AT5G04280	AtRZ-1c
 AT5G04280.1	AtRZ-1c
 AT5G04290	kow domain-containing transcription factor 1
@@ -19965,6 +20368,8 @@ AT5G08185.4	microRNA162A
 AT5G08190	"nuclear factor Y, subunit B12"
 AT5G08190.1	"nuclear factor Y, subunit B12"
 AT5G08190.2	"nuclear factor Y, subunit B12"
+AT5G08210	microRNA834A
+AT5G08210.1	microRNA834A
 AT5G08260	serine carboxypeptidase-like 35
 AT5G08260.1	serine carboxypeptidase-like 35
 AT5G08280	hydroxymethylbilane synthase
@@ -20001,6 +20406,10 @@ AT5G08640.1	flavonol synthase 1
 AT5G08640.2	flavonol synthase 1
 AT5G08710	RCC1/UVR8/GEF-like 1
 AT5G08710.1	RCC1/UVR8/GEF-like 1
+AT5G08712	microRNA166C
+AT5G08712.1	microRNA166C
+AT5G08717	microRNA166D
+AT5G08717.1	microRNA166D
 AT5G08730	ARIADNE 16
 AT5G08730.1	ARIADNE 16
 AT5G08740	NAD(P)H dehydrogenase C1
@@ -20057,6 +20466,8 @@ AT5G09530	Pro-Glu-Leu|Ile|Val-Pro-Lys 1
 AT5G09530.1	Pro-Glu-Leu|Ile|Val-Pro-Lys 1
 AT5G09550	RAB GDP-dissociation inhibitor
 AT5G09550.1	RAB GDP-dissociation inhibitor
+AT5G09585	U2 small nucleolar RNA5
+AT5G09585.1	U2 small nucleolar RNA5
 AT5G09590	mitochondrial HSO70 2
 AT5G09590.1	mitochondrial HSO70 2
 AT5G09600	succinate dehydrogenase 3-1
@@ -20196,6 +20607,8 @@ AT5G10520	ROP binding protein kinases 1
 AT5G10520.1	ROP binding protein kinases 1
 AT5G10550	global transcription factor group E2
 AT5G10550.1	global transcription factor group E2
+AT5G10572	
+AT5G10572.1	
 AT5G10600	"cytochrome P450, family 81, subfamily K, polypeptide 2"
 AT5G10600.1	"cytochrome P450, family 81, subfamily K, polypeptide 2"
 AT5G10610	"cytochrome P450, family 81, subfamily K, polypeptide 1"
@@ -20217,6 +20630,8 @@ AT5G10930.1	CBL-interacting protein kinase 5
 AT5G10940	ALTERED SEED GERMINATION 2
 AT5G10940.1	ALTERED SEED GERMINATION 2
 AT5G10940.2	ALTERED SEED GERMINATION 2
+AT5G10945	microRNA156D
+AT5G10945.1	microRNA156D
 AT5G11030	ABERRANT LATERAL ROOT FORMATION 4
 AT5G11030.1	ABERRANT LATERAL ROOT FORMATION 4
 AT5G11030.2	ABERRANT LATERAL ROOT FORMATION 4
@@ -20303,6 +20718,8 @@ AT5G11920.2	6-&1-fructan exohydrolase
 AT5G11950	LONELY GUY 8
 AT5G11950.1	LONELY GUY 8
 AT5G11950.2	LONELY GUY 8
+AT5G11977	microRNA156E
+AT5G11977.1	microRNA156E
 AT5G12020	17.6 kDa class II heat shock protein
 AT5G12020.1	17.6 kDa class II heat shock protein
 AT5G12030	heat shock protein 17.6A
@@ -20480,6 +20897,8 @@ AT5G13860	ELCH-like
 AT5G13860.1	ELCH-like
 AT5G13870	xyloglucan endotransglucosylase/hydrolase 5
 AT5G13870.1	xyloglucan endotransglucosylase/hydrolase 5
+AT5G13887	microRNA848A
+AT5G13887.1	microRNA848A
 AT5G13910	LEAFY PETIOLE
 AT5G13910.1	LEAFY PETIOLE
 AT5G13930	TRANSPARENT TESTA 4
@@ -20540,6 +20959,10 @@ AT5G14420.3	RING domain ligase2
 AT5G14420.4	RING domain ligase2
 AT5G14490	NAC domain containing protein 85
 AT5G14490.1	NAC domain containing protein 85
+AT5G14545	microRNA398B
+AT5G14545.1	microRNA398B
+AT5G14565	microRNA398C
+AT5G14565.1	microRNA398C
 AT5G14570	high affinity nitrate transporter 2.7
 AT5G14570.1	high affinity nitrate transporter 2.7
 AT5G14620	domains rearranged methyltransferase 2
@@ -20652,6 +21075,8 @@ AT5G15800.1	SEPALLATA1
 AT5G15800.2	SEPALLATA1
 AT5G15830	basic leucine-zipper 3
 AT5G15830.1	basic leucine-zipper 3
+AT5G15833	microRNA865A
+AT5G15833.1	microRNA865A
 AT5G15840	CONSTANS
 AT5G15840.1	CONSTANS
 AT5G15840.2	CONSTANS
@@ -21128,6 +21553,8 @@ AT5G20830.1	sucrose synthase 1
 AT5G20830.2	sucrose synthase 1
 AT5G20850	RAS associated with diabetes protein 51
 AT5G20850.1	RAS associated with diabetes protein 51
+AT5G20854	
+AT5G20854.1	
 AT5G20900	jasmonate-zim-domain protein 12
 AT5G20900.1	jasmonate-zim-domain protein 12
 AT5G20910	ABI3-interacting protein 2
@@ -21282,6 +21709,8 @@ AT5G23050	acyl-activating enzyme 17
 AT5G23050.1	acyl-activating enzyme 17
 AT5G23060	calcium sensing receptor
 AT5G23060.1	calcium sensing receptor
+AT5G23065	microRNA162B
+AT5G23065.1	microRNA162B
 AT5G23070	thymidine kinase 1b
 AT5G23070.1	thymidine kinase 1b
 AT5G23080	TOUGH
@@ -21471,6 +21900,8 @@ AT5G24780.1	vegetative storage protein 1
 AT5G24780.2	vegetative storage protein 1
 AT5G24800	basic leucine zipper 9
 AT5G24800.1	basic leucine zipper 9
+AT5G24825	microRNA169B
+AT5G24825.1	microRNA169B
 AT5G24850	cryptochrome 3
 AT5G24850.1	cryptochrome 3
 AT5G24860	FLOWERING PROMOTING FACTOR 1
@@ -21561,6 +21992,8 @@ AT5G26000.2	thioglucoside glucohydrolase 1
 AT5G26030	ferrochelatase 1
 AT5G26030.1	ferrochelatase 1
 AT5G26030.2	ferrochelatase 1
+AT5G26038	microRNA860A
+AT5G26038.1	microRNA860A
 AT5G26040	histone deacetylase 2
 AT5G26040.1	histone deacetylase 2
 AT5G26040.2	histone deacetylase 2
@@ -21568,6 +22001,8 @@ AT5G26120	alpha-L-arabinofuranosidase 2
 AT5G26120.1	alpha-L-arabinofuranosidase 2
 AT5G26140	LONELY GUY 9
 AT5G26140.1	LONELY GUY 9
+AT5G26147	microRNA156F
+AT5G26147.1	microRNA156F
 AT5G26170	WRKY DNA-binding protein 50
 AT5G26170.1	WRKY DNA-binding protein 50
 AT5G26210	alfin-like 4
@@ -21707,6 +22142,8 @@ AT5G27740	EMBRYO DEFECTIVE 2775
 AT5G27740.1	EMBRYO DEFECTIVE 2775
 AT5G27780	SMALL AUXIN UP RNA 75
 AT5G27780.1	SMALL AUXIN UP RNA 75
+AT5G27807	microRNA164C
+AT5G27807.1	microRNA164C
 AT5G27840	
 AT5G27840.1	
 AT5G27840.2	
@@ -21733,6 +22170,8 @@ AT5G28080.1
 AT5G28080.2	
 AT5G28290	NIMA-related kinase 3
 AT5G28290.1	NIMA-related kinase 3
+AT5G28360	1-aminocyclopropane-1-carboxylate synthase like pseudogene
+AT5G28360.1	1-aminocyclopropane-1-carboxylate synthase like pseudogene
 AT5G28490	LIGHT-DEPENDENT SHORT HYPOCOTYLS 1
 AT5G28490.1	LIGHT-DEPENDENT SHORT HYPOCOTYLS 1
 AT5G28510	beta glucosidase 24
@@ -21808,6 +22247,8 @@ AT5G35360.2	acetyl Co-enzyme a carboxylase biotin carboxylase subunit
 AT5G35360.3	acetyl Co-enzyme a carboxylase biotin carboxylase subunit
 AT5G35390	pollen receptor like kinase 1
 AT5G35390.1	pollen receptor like kinase 1
+AT5G35407	microRNA396B
+AT5G35407.1	microRNA396B
 AT5G35410	SALT OVERLY SENSITIVE 2
 AT5G35410.1	SALT OVERLY SENSITIVE 2
 AT5G35490	MTO 1 RESPONDING UP 1
@@ -22049,6 +22490,8 @@ AT5G39610	NAC domain containing protein  6
 AT5G39610.1	NAC domain containing protein  6
 AT5G39620	RAB GTPase homolog G1
 AT5G39620.1	RAB GTPase homolog G1
+AT5G39635	microRNA169C
+AT5G39635.1	microRNA169C
 AT5G39650	DUO1-activated unknown 2
 AT5G39650.1	DUO1-activated unknown 2
 AT5G39660	cycling DOF factor 2
@@ -22058,6 +22501,8 @@ AT5G39680	EMBRYO DEFECTIVE 2744
 AT5G39680.1	EMBRYO DEFECTIVE 2744
 AT5G39690	NAC domain containing protein 93
 AT5G39690.1	NAC domain containing protein 93
+AT5G39693	microRNA869A
+AT5G39693.1	microRNA869A
 AT5G39700	myb domain protein 89
 AT5G39700.1	myb domain protein 89
 AT5G39710	EMBRYO DEFECTIVE 2745
@@ -22096,6 +22541,8 @@ AT5G40200	degradation of periplasmic proteins 9
 AT5G40200.1	degradation of periplasmic proteins 9
 AT5G40210	Usually multiple acids move in and out Transporters 42
 AT5G40210.1	Usually multiple acids move in and out Transporters 42
+AT5G40212	Usually multiple acids move in and out Transporters 39-pseudogene
+AT5G40212.1	Usually multiple acids move in and out Transporters 39-pseudogene
 AT5G40220	AGAMOUS-like 43
 AT5G40220.1	AGAMOUS-like 43
 AT5G40230	Usually multiple acids move in and out Transporters 37
@@ -22119,8 +22566,12 @@ AT5G40370.1	glutaredoxin C2
 AT5G40370.2	glutaredoxin C2
 AT5G40380	cysteine-rich RLK (RECEPTOR-like protein kinase) 42
 AT5G40380.1	cysteine-rich RLK (RECEPTOR-like protein kinase) 42
+AT5G40384	microRNA866A
+AT5G40384.1	microRNA866A
 AT5G40390	seed imbibition 1-like
 AT5G40390.1	seed imbibition 1-like
+AT5G40395	
+AT5G40395.1	
 AT5G40420	oleosin 2
 AT5G40420.1	oleosin 2
 AT5G40430	myb domain protein 22
@@ -22171,6 +22622,8 @@ AT5G40930	translocase of outer membrane 20-4
 AT5G40930.1	translocase of outer membrane 20-4
 AT5G40940	putative fasciclin-like arabinogalactan protein 20
 AT5G40940.1	putative fasciclin-like arabinogalactan protein 20
+AT5G40942	ribonucleotide reductase 2B
+AT5G40942.1	ribonucleotide reductase 2B
 AT5G40950	ribosomal protein large subunit 27
 AT5G40950.1	ribosomal protein large subunit 27
 AT5G40990	GDSL lipase 1
@@ -22214,6 +22667,8 @@ AT5G41370	homolog of xeroderma pigmentosum complementation group B 1
 AT5G41370.1	homolog of xeroderma pigmentosum complementation group B 1
 AT5G41410	BELL 1
 AT5G41410.1	BELL 1
+AT5G41471	small nucleolar RNA108
+AT5G41471.1	small nucleolar RNA108
 AT5G41480	GLOBULAR ARREST1
 AT5G41480.1	GLOBULAR ARREST1
 AT5G41520	ribosomal protein S10e B
@@ -22226,6 +22681,8 @@ AT5G41600.1	VIRB2-interacting protein 3
 AT5G41610	cation/H+ exchanger 18
 AT5G41610.1	cation/H+ exchanger 18
 AT5G41610.2	cation/H+ exchanger 18
+AT5G41663	microRNA319B
+AT5G41663.1	microRNA319B
 AT5G41700	ubiquitin conjugating enzyme 8
 AT5G41700.1	ubiquitin conjugating enzyme 8
 AT5G41700.2	ubiquitin conjugating enzyme 8
@@ -22238,6 +22695,8 @@ AT5G41820	RAB geranylgeranyl transferase alpha subunit 2
 AT5G41820.1	RAB geranylgeranyl transferase alpha subunit 2
 AT5G41880	
 AT5G41880.1	
+AT5G41905	microRNA166E
+AT5G41905.1	microRNA166E
 AT5G41910	
 AT5G41910.1	
 AT5G41990	with no lysine (K) kinase 8
@@ -22405,6 +22864,8 @@ AT5G43510	LURE 1.2
 AT5G43510.2	LURE 1.2
 AT5G43513	LURE 1.3
 AT5G43513.1	LURE 1.3
+AT5G43516	LURE 1.6
+AT5G43516.1	LURE 1.6
 AT5G43518	LURE 1.4
 AT5G43518.1	LURE 1.4
 AT5G43525	LURE 1.5
@@ -22413,6 +22874,8 @@ AT5G43580	UNUSUAL SERINE PROTEASE INHIBITOR
 AT5G43580.1	UNUSUAL SERINE PROTEASE INHIBITOR
 AT5G43600	ureidoglycolate amidohydrolase
 AT5G43600.1	ureidoglycolate amidohydrolase
+AT5G43603	microRNA166F
+AT5G43603.1	microRNA166F
 AT5G43610	sucrose-proton symporter 6
 AT5G43610.1	sucrose-proton symporter 6
 AT5G43630	
@@ -22585,6 +23048,8 @@ AT5G45260.2	RESISTANT TO RALSTONIA SOLANACEARUM 1
 AT5G45300	beta-amylase 2
 AT5G45300.1	beta-amylase 2
 AT5G45300.2	beta-amylase 2
+AT5G45307	microRNA168B
+AT5G45307.1	microRNA168B
 AT5G45330	decapping 5-like
 AT5G45330.1	decapping 5-like
 AT5G45340	"cytochrome P450, family 707, subfamily A, polypeptide 3"
@@ -22670,6 +23135,8 @@ AT5G46290	3-ketoacyl-acyl carrier protein synthase I
 AT5G46290.1	3-ketoacyl-acyl carrier protein synthase I
 AT5G46290.2	3-ketoacyl-acyl carrier protein synthase I
 AT5G46290.3	3-ketoacyl-acyl carrier protein synthase I
+AT5G46315	U6 small nucleolar RNA29
+AT5G46315.1	U6 small nucleolar RNA29
 AT5G46330	FLAGELLIN-SENSITIVE 2
 AT5G46330.1	FLAGELLIN-SENSITIVE 2
 AT5G46340	REDUCED WALL ACETYLATION 1
@@ -22712,6 +23179,8 @@ AT5G46800	A BOUT DE SOUFFLE
 AT5G46800.1	A BOUT DE SOUFFLE
 AT5G46830	NACL-inducible gene 1
 AT5G46830.1	NACL-inducible gene 1
+AT5G46845	microRNA160C
+AT5G46845.1	microRNA160C
 AT5G46860	VACUOLAR MORPHOLOGY 3
 AT5G46860.1	VACUOLAR MORPHOLOGY 3
 AT5G46880	homeobox-7
@@ -22974,6 +23443,8 @@ AT5G49550	BLOC subunit 2
 AT5G49550.1	BLOC subunit 2
 AT5G49570	peptide-N-glycanase 1
 AT5G49570.1	peptide-N-glycanase 1
+AT5G49615	trans-acting siRNA3B
+AT5G49615.1	trans-acting siRNA3B
 AT5G49620	myb domain protein 78
 AT5G49620.1	myb domain protein 78
 AT5G49620.2	myb domain protein 78
@@ -23082,6 +23553,8 @@ AT5G50690	hydroxysteroid dehydrogenase 7
 AT5G50690.1	hydroxysteroid dehydrogenase 7
 AT5G50700	hydroxysteroid dehydrogenase 1
 AT5G50700.1	hydroxysteroid dehydrogenase 1
+AT5G50717	microRNA405B
+AT5G50717.1	microRNA405B
 AT5G50720	HVA22 homologue E
 AT5G50720.1	HVA22 homologue E
 AT5G50750	reversibly glycosylated polypeptide 4
@@ -23127,6 +23600,8 @@ AT5G51120	polyadenylate-binding protein 1
 AT5G51120.1	polyadenylate-binding protein 1
 AT5G51120.2	polyadenylate-binding protein 1
 AT5G51120.3	polyadenylate-binding protein 1
+AT5G51174	small nucleolar RNA30
+AT5G51174.1	small nucleolar RNA30
 AT5G51200	EMBRYO DEFECTIVE 3142
 AT5G51200.1	EMBRYO DEFECTIVE 3142
 AT5G51210	oleosin3
@@ -23252,6 +23727,8 @@ AT5G52460.1	embryo sac development arrest 41
 AT5G52470	fibrillarin 1
 AT5G52470.1	fibrillarin 1
 AT5G52470.2	fibrillarin 1
+AT5G52471	
+AT5G52471.1	
 AT5G52510	SCARECROW-like 8
 AT5G52510.1	SCARECROW-like 8
 AT5G52520	OVULE ABORTION 6
@@ -23269,6 +23746,8 @@ AT5G52630	mitochondrial RNAediting factor 1
 AT5G52630.1	mitochondrial RNAediting factor 1
 AT5G52640	heat shock protein 90.1
 AT5G52640.1	heat shock protein 90.1
+AT5G52797	microRNA870A
+AT5G52797.1	microRNA870A
 AT5G52830	WRKY DNA-binding protein 27
 AT5G52830.1	WRKY DNA-binding protein 27
 AT5G52860	ATP-binding cassette G8
@@ -23371,6 +23850,8 @@ AT5G53870	early nodulin-like protein 1
 AT5G53870.1	early nodulin-like protein 1
 AT5G53890	phytosylfokine-alpha receptor 2
 AT5G53890.1	phytosylfokine-alpha receptor 2
+AT5G53902	U3 small nucleolar RNAb
+AT5G53902.1	U3 small nucleolar RNAb
 AT5G53950	CUP-SHAPED COTYLEDON 2
 AT5G53950.1	CUP-SHAPED COTYLEDON 2
 AT5G53970	tyrosine aminotransferase 7
@@ -23381,6 +23862,8 @@ AT5G54060	UDP-glucose:flavonoid 3-o-glucosyltransferase
 AT5G54060.1	UDP-glucose:flavonoid 3-o-glucosyltransferase
 AT5G54070	heat shock transcription factor  A9
 AT5G54070.1	heat shock transcription factor  A9
+AT5G54075	U3 small nucleolar RNAd
+AT5G54075.1	U3 small nucleolar RNAd
 AT5G54080	homogentisate 1,2-dioxygenase
 AT5G54080.1	homogentisate 1,2-dioxygenase
 AT5G54080.2	homogentisate 1,2-dioxygenase
@@ -23548,6 +24031,8 @@ AT5G55810.1	nicotinate/nicotinamide mononucleotide adenyltransferase
 AT5G55810.2	nicotinate/nicotinamide mononucleotide adenyltransferase
 AT5G55820	WYRD
 AT5G55820.1	WYRD
+AT5G55835	microRNA156H
+AT5G55835.1	microRNA156H
 AT5G55850	
 AT5G55850.1	
 AT5G55850.2	
@@ -23738,6 +24223,8 @@ AT5G57685	glutamine dumper 3
 AT5G57685.1	glutamine dumper 3
 AT5G57690	diacylglycerol kinase 4
 AT5G57690.1	diacylglycerol kinase 4
+AT5G57735	
+AT5G57735.1	
 AT5G57740	XB3 ortholog 2 in Arabidopsis thaliana
 AT5G57740.1	XB3 ortholog 2 in Arabidopsis thaliana
 AT5G57780	P1R1
@@ -23834,6 +24321,8 @@ AT5G58440	sorting nexin 2A
 AT5G58440.1	sorting nexin 2A
 AT5G58460	cation/H+ exchanger 25
 AT5G58460.1	cation/H+ exchanger 25
+AT5G58465	microRNA390B
+AT5G58465.1	microRNA390B
 AT5G58470	TBP-associated factor 15B
 AT5G58470.1	TBP-associated factor 15B
 AT5G58470.2	TBP-associated factor 15B
@@ -23947,6 +24436,8 @@ AT5G59440	ZEUS1
 AT5G59440.1	ZEUS1
 AT5G59440.2	ZEUS1
 AT5G59440.3	ZEUS1
+AT5G59505	microRNA172E
+AT5G59505.1	microRNA172E
 AT5G59510	ROTUNDIFOLIA like 5
 AT5G59510.1	ROTUNDIFOLIA like 5
 AT5G59520	ZRT/IRT-like protein 2
@@ -24033,6 +24524,8 @@ AT5G60360	aleurain-like protease
 AT5G60360.1	aleurain-like protease
 AT5G60360.2	aleurain-like protease
 AT5G60360.3	aleurain-like protease
+AT5G60408	microRNA391
+AT5G60408.1	microRNA391
 AT5G60410	
 AT5G60410.1	
 AT5G60410.2	
@@ -24158,6 +24651,8 @@ AT5G61430	NAC domain containing protein 100
 AT5G61430.1	NAC domain containing protein 100
 AT5G61440	atypical CYS  HIS rich thioredoxin 5
 AT5G61440.1	atypical CYS  HIS rich thioredoxin 5
+AT5G61455	
+AT5G61455.1	
 AT5G61460	hypersensitive to MMS, irradiation and MMC
 AT5G61460.1	hypersensitive to MMS, irradiation and MMC
 AT5G61480	PHLOEM INTERCALATED WITH XYLEM
@@ -24233,6 +24728,8 @@ AT5G62120	response regulator 23
 AT5G62120.1	response regulator 23
 AT5G62160	zinc transporter 12 precursor
 AT5G62160.1	zinc transporter 12 precursor
+AT5G62162	microRNA399C
+AT5G62162.1	microRNA399C
 AT5G62165	AGAMOUS-like 42
 AT5G62165.1	AGAMOUS-like 42
 AT5G62165.2	AGAMOUS-like 42
@@ -24310,6 +24807,8 @@ AT5G62790.1	1-deoxy-D-xylulose 5-phosphate reductoisomerase
 AT5G62790.2	1-deoxy-D-xylulose 5-phosphate reductoisomerase
 AT5G62810	peroxin 14
 AT5G62810.1	peroxin 14
+AT5G62848	microRNA420
+AT5G62848.1	microRNA420
 AT5G62850	VEGETATIVE CELL EXPRESSED1
 AT5G62850.1	VEGETATIVE CELL EXPRESSED1
 AT5G62880	RAC-like 10
@@ -24385,6 +24884,8 @@ AT5G63660.1
 AT5G63670	SPT4 homolog 2
 AT5G63670.1	SPT4 homolog 2
 AT5G63670.2	SPT4 homolog 2
+AT5G63715	microRNA166G
+AT5G63715.1	microRNA166G
 AT5G63720	KOKOPELLI
 AT5G63720.1	KOKOPELLI
 AT5G63730	ARIADNE 14
@@ -24706,6 +25207,8 @@ AT5G66030.2
 AT5G66040	sulfurtransferase protein 16
 AT5G66040.1	sulfurtransferase protein 16
 AT5G66040.2	sulfurtransferase protein 16
+AT5G66045	microRNA170
+AT5G66045.1	microRNA170
 AT5G66055	ankyrin repeat protein
 AT5G66055.1	ankyrin repeat protein
 AT5G66055.2	ankyrin repeat protein
@@ -24878,18 +25381,30 @@ AT5G67590	FROSTBITE1
 AT5G67590.1	FROSTBITE1
 AT5G67600	WINDHOSE 1
 AT5G67600.1	WINDHOSE 1
+ATCG00010	tRNAhis
+ATCG00010.1	tRNAhis
 ATCG00020	photosystem II reaction center protein A
 ATCG00020.1	photosystem II reaction center protein A
+ATCG00030	tRNAlys
+ATCG00030.1	tRNAlys
 ATCG00040	maturase K
 ATCG00040.1	maturase K
 ATCG00050	ribosomal protein S16
 ATCG00050.1	ribosomal protein S16
+ATCG00060	
+ATCG00060.1	
 ATCG00065	ribosomal protein S12A
 ATCG00065.1	ribosomal protein S12A
 ATCG00070	photosystem II reaction center protein K precursor
 ATCG00070.1	photosystem II reaction center protein K precursor
 ATCG00080	photosystem II reaction center protein I
 ATCG00080.1	photosystem II reaction center protein I
+ATCG00090	
+ATCG00090.1	
+ATCG00100	
+ATCG00100.1	
+ATCG00110	
+ATCG00110.1	
 ATCG00120	ATP synthase subunit alpha
 ATCG00120.1	ATP synthase subunit alpha
 ATCG00130	
@@ -24906,16 +25421,32 @@ ATCG00180
 ATCG00180.1	
 ATCG00190	RNA polymerase subunit beta
 ATCG00190.1	RNA polymerase subunit beta
+ATCG00200	
+ATCG00200.1	
 ATCG00210	
 ATCG00210.1	
 ATCG00220	photosystem II reaction center protein M
 ATCG00220.1	photosystem II reaction center protein M
+ATCG00230	
+ATCG00230.1	
+ATCG00240	
+ATCG00240.1	
+ATCG00250	
+ATCG00250.1	
+ATCG00260	
+ATCG00260.1	
 ATCG00270	photosystem II reaction center protein D
 ATCG00270.1	photosystem II reaction center protein D
 ATCG00280	photosystem II reaction center protein C
 ATCG00280.1	photosystem II reaction center protein C
+ATCG00290	
+ATCG00290.1	
 ATCG00300	
 ATCG00300.1	
+ATCG00310	
+ATCG00310.1	
+ATCG00320	
+ATCG00320.1	
 ATCG00330	chloroplast ribosomal protein S14
 ATCG00330.1	chloroplast ribosomal protein S14
 ATCG00340	
@@ -24924,14 +25455,26 @@ ATCG00350
 ATCG00350.1	
 ATCG00360	
 ATCG00360.1	
+ATCG00370	
+ATCG00370.1	
 ATCG00380	chloroplast ribosomal protein S4
 ATCG00380.1	chloroplast ribosomal protein S4
+ATCG00390	
+ATCG00390.1	
+ATCG00400	
+ATCG00400.1	
+ATCG00410	
+ATCG00410.1	
 ATCG00420	NADH dehydrogenase subunit J
 ATCG00420.1	NADH dehydrogenase subunit J
 ATCG00430	photosystem II reaction center protein G
 ATCG00430.1	photosystem II reaction center protein G
 ATCG00440	
 ATCG00440.1	
+ATCG00450	
+ATCG00450.1	
+ATCG00460	
+ATCG00460.1	
 ATCG00470	ATP synthase epsilon chain
 ATCG00470.1	ATP synthase epsilon chain
 ATCG00480	ATP synthase subunit beta
@@ -24960,6 +25503,10 @@ ATCG00590
 ATCG00590.1	
 ATCG00600	
 ATCG00600.1	
+ATCG00610	
+ATCG00610.1	
+ATCG00620	
+ATCG00620.1	
 ATCG00630	
 ATCG00630.1	
 ATCG00640	ribosomal protein L33
@@ -25004,22 +25551,46 @@ ATCG00830	ribosomal protein L2
 ATCG00830.1	ribosomal protein L2
 ATCG00840	ribosomal protein L23.1
 ATCG00840.1	ribosomal protein L23.1
+ATCG00850	
+ATCG00850.1	
 ATCG00860	
 ATCG00860.1	
 ATCG00870	
 ATCG00870.1	
+ATCG00880	
+ATCG00880.1	
 ATCG00890	
 ATCG00890.1	
 ATCG00900	
 ATCG00900.1	
 ATCG00905	ribosomal protein S12C
 ATCG00905.1	ribosomal protein S12C
+ATCG00910	
+ATCG00910.1	
+ATCG00920	ribosomal RNA16S
+ATCG00920.1	ribosomal RNA16S
+ATCG00930	
+ATCG00930.1	
+ATCG00940	
+ATCG00940.1	
+ATCG00950	ribosomal RNA23S
+ATCG00950.1	ribosomal RNA23S
+ATCG00960	ribosomal RNA4.5S
+ATCG00960.1	ribosomal RNA4.5S
+ATCG00970	ribosomal RNA5S
+ATCG00970.1	ribosomal RNA5S
+ATCG00980	
+ATCG00980.1	
+ATCG00990	
+ATCG00990.1	
 ATCG01000	
 ATCG01000.1	
 ATCG01010	
 ATCG01010.1	
 ATCG01020	ribosomal protein L32
 ATCG01020.1	ribosomal protein L32
+ATCG01030	
+ATCG01030.1	
 ATCG01040	
 ATCG01040.1	
 ATCG01050	
@@ -25040,22 +25611,46 @@ ATCG01120	chloroplast ribosomal protein S15
 ATCG01120.1	chloroplast ribosomal protein S15
 ATCG01130	
 ATCG01130.1	
+ATCG01140	
+ATCG01140.1	
+ATCG01150	
+ATCG01150.1	
+ATCG01160	ribosomal RNA5S
+ATCG01160.1	ribosomal RNA5S
+ATCG01170	ribosomal RNA4.5S
+ATCG01170.1	ribosomal RNA4.5S
+ATCG01180	ribosomal RNA23S
+ATCG01180.1	ribosomal RNA23S
+ATCG01190	
+ATCG01190.1	
+ATCG01200	
+ATCG01200.1	
+ATCG01210	ribosomal rna 16s
+ATCG01210.1	ribosomal rna 16s
+ATCG01220	
+ATCG01220.1	
 ATCG01230	ribosomal protein S12B
 ATCG01230.1	ribosomal protein S12B
 ATCG01240	ribosomal protein S7
 ATCG01240.1	ribosomal protein S7
 ATCG01250	
 ATCG01250.1	
+ATCG01260	
+ATCG01260.1	
 ATCG01270	
 ATCG01270.1	
 ATCG01280	
 ATCG01280.1	
+ATCG01290	
+ATCG01290.1	
 ATCG01300	ribosomal protein L23
 ATCG01300.1	ribosomal protein L23
 ATCG01310	ribosomal protein L2
 ATCG01310.1	ribosomal protein L2
 ATMG00010	
 ATMG00010.1	
+ATMG00020	ribosomal RNA26S
+ATMG00020.1	ribosomal RNA26S
 ATMG00030	
 ATMG00030.1	
 ATMG00040	
@@ -25070,6 +25665,8 @@ ATMG00080	ribosomal protein L16
 ATMG00080.1	ribosomal protein L16
 ATMG00090	RESISTANCE TO PSEUDOMONAS SYRINGAE 3
 ATMG00090.1	RESISTANCE TO PSEUDOMONAS SYRINGAE 3
+ATMG00100	
+ATMG00100.1	
 ATMG00110	ATP-binding cassette I2
 ATMG00110.1	ATP-binding cassette I2
 ATMG00120	
@@ -25086,14 +25683,20 @@ ATMG00170
 ATMG00170.1	
 ATMG00180	cytochrome C biogenesis 452
 ATMG00180.1	cytochrome C biogenesis 452
+ATMG00190	
+ATMG00190.1	
 ATMG00200	
 ATMG00200.1	
 ATMG00210	ribosomal protein L5
 ATMG00210.1	ribosomal protein L5
 ATMG00220	apocytochrome b
 ATMG00220.1	apocytochrome b
+ATMG00230	
+ATMG00230.1	
 ATMG00240	
 ATMG00240.1	
+ATMG00250	
+ATMG00250.1	
 ATMG00260	
 ATMG00260.1	
 ATMG00270	NADH dehydrogenase 6
@@ -25110,18 +25713,34 @@ ATMG00310
 ATMG00310.1	
 ATMG00320	
 ATMG00320.1	
+ATMG00330	
+ATMG00330.1	
+ATMG00340	
+ATMG00340.1	
+ATMG00350	
+ATMG00350.1	
+ATMG00360	
+ATMG00360.1	
 ATMG00370	
 ATMG00370.1	
+ATMG00380	
+ATMG00380.1	
+ATMG00390	
+ATMG00390.1	
 ATMG00400	
 ATMG00400.1	
 ATMG00410	ATPase subunit 6-1
 ATMG00410.1	ATPase subunit 6-1
+ATMG00420	
+ATMG00420.1	
 ATMG00430	
 ATMG00430.1	
 ATMG00440	
 ATMG00440.1	
 ATMG00450	
 ATMG00450.1	
+ATMG00460	
+ATMG00460.1	
 ATMG00470	
 ATMG00470.1	
 ATMG00480	
@@ -25174,6 +25793,8 @@ ATMG00680
 ATMG00680.1	
 ATMG00690	
 ATMG00690.1	
+ATMG00700	
+ATMG00700.1	
 ATMG00710	
 ATMG00710.1	
 ATMG00720	
@@ -25188,6 +25809,12 @@ ATMG00760
 ATMG00760.1	
 ATMG00770	
 ATMG00770.1	
+ATMG00780	
+ATMG00780.1	
+ATMG00790	
+ATMG00790.1	
+ATMG00800	
+ATMG00800.1	
 ATMG00810	
 ATMG00810.1	
 ATMG00820	
@@ -25212,8 +25839,12 @@ ATMG00910
 ATMG00910.1	
 ATMG00920	
 ATMG00920.1	
+ATMG00930	
+ATMG00930.1	
 ATMG00940	
 ATMG00940.1	
+ATMG00950	
+ATMG00950.1	
 ATMG00960	
 ATMG00960.1	
 ATMG00970	
@@ -25236,6 +25867,8 @@ ATMG01050
 ATMG01050.1	
 ATMG01060	
 ATMG01060.1	
+ATMG01070	
+ATMG01070.1	
 ATMG01080	mitochondrial F0-ATPase subunit 9
 ATMG01080.1	mitochondrial F0-ATPase subunit 9
 ATMG01090	
@@ -25252,6 +25885,8 @@ ATMG01140
 ATMG01140.1	
 ATMG01150	
 ATMG01150.1	
+ATMG01160	
+ATMG01160.1	
 ATMG01170	
 ATMG01170.1	
 ATMG01180	
@@ -25288,12 +25923,18 @@ ATMG01320	NADH dehydrogenase 2B
 ATMG01320.1	NADH dehydrogenase 2B
 ATMG01330	
 ATMG01330.1	
+ATMG01340	
+ATMG01340.1	
 ATMG01350	
 ATMG01350.1	
 ATMG01360	cytochrome  oxidase
 ATMG01360.1	cytochrome  oxidase
 ATMG01370	
 ATMG01370.1	
+ATMG01380	ribosomal RNA5S
+ATMG01380.1	ribosomal RNA5S
+ATMG01390	
+ATMG01390.1	
 ATMG01400	
 ATMG01400.1	
 ATMG01410	open reading frame 204

@@ -49,7 +49,7 @@ cut -f1,3 ${LOCUS_PRIMARY_SYM} \
     | python -m jcvi.formats.base join --noheader gene_transcript.map - \
     | grep -vP "\tna$" | cut -f1,2,4 \
     | perl -lane 'chomp; @l = split /\t/; print join "\t", $l[0], $l[2]; foreach $m(split /,/, $l[1]) { print join "\t", $m, $l[2]; }' \
-    > Name.tsv
+    > Full_name.tsv
 
 perl -lane 'chomp; @l = split /\t/; if(scalar @l == 2) { print; } else { $desc = $l[2]; $desc =~ s/,/%2C/gs; $desc =~ s/\"//gs; print join "\t", $l[0], "$l[1]~~~$desc"; }' ${GENE_ALIASES} \
     | cut -f1,2 \
@@ -57,7 +57,7 @@ perl -lane 'chomp; @l = split /\t/; if(scalar @l == 2) { print; } else { $desc =
     | grep -P '^AT[A-z0-9]G' | sort -k1,1 \
     | python -m jcvi.formats.base join --noheader gene_transcript.map ${LOCUS_PRIMARY_SYM} - \
     | grep -vP "\tna$" | cut -f1,2,4,7 \
-    | perl -lane 'chomp; @l = split /\t/; %aliases = map { $_ => 1 } (split /,/, $l[-1]); $l[2] = undef if($l[2] eq "na"); foreach $k(keys %aliases) { delete $aliases{$k} if($k =~ /^$l[2]~~~/); } $alias = join ",", sort keys %aliases; print join "\t", $l[0], $alias if($alias ne ""); foreach $m(split /,/, $l[1]) { print join "\t", $m, $alias if($alias ne ""); }' \
+    | perl -lane 'chomp; @l = split /\t/; %aliases = map { $_ => 1 } (split /,/, $l[-1]); $l[2] = undef if($l[2] eq "na"); foreach $k(keys %aliases) { delete $aliases{$k} if($k =~ /^\b$l[2]\b/); } $alias = join ",", sort keys %aliases; print join "\t", $l[0], $alias if($alias ne ""); foreach $m(split /,/, $l[1]) { print join "\t", $m, $alias if($alias ne ""); }' \
     | sed -e "s/~~~/,/g" \
     > Alias.tsv
 
