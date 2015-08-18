@@ -74,12 +74,12 @@ python -m jcvi.formats.base reorder ${TAIR_AGI_MAPPING} 2,1 \
 
 cut -f1,3 ${LOCUS_PUBLISHED} \
     | grep -P '^AT[A-z0-9]G' | python -m jcvi.formats.base group --groupby=0 --nouniq - \
-    | sort -k1,1 > PubMed.tsv
+    | sort -k1,1 > PMID.tsv
 
 # prepare the enriched GFF3 file with the required attributes
 python -m jcvi.formats.gff format --nostrict --invent_name_attr --multiparents="merge" \
     --remove_feats="protein,chromosome" --remove_attr="Derives_from" \
-    --add_dbxref="locus.tsv,gene.tsv,PubMed.tsv" --note="Note.tsv" \
+    --add_dbxref="locus.tsv,gene.tsv,PMID.tsv" --note="Note.tsv" \
     --add_attribute="Locus_type.tsv,Alias.tsv,conf_class.tsv,conf_rating.tsv,Full_name.tsv,Curator_summary.tsv,Computational_description.tsv,Symbol.tsv" \
    ${SOURCE_GFF} 2> format.gff.log \
    | gt gff3 -sort -tidy -retainids -addids no - \
